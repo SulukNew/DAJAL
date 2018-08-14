@@ -1,1003 +1,692 @@
-#EXTINF:-1 group-title=“UK", Suluk=>Liverpool FC TV HD
+
+#EXTM3U
+
+#EXTINF:-1,UK: Suluk=>Liverpool FC TV HD
 http://212.8.248.197:8080/live/amal/amal1/536.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>News HD
-http://212.8.248.197:8080/live/amal/amal1/550.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>RTE News
-http://212.8.248.197:8080/live/amal/amal1/431.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>BBC News
-http://212.8.248.197:8080/live/amal/amal1/428.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Sports News
-http://212.8.248.197:8080/live/amal/amal1/549.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>BT Sport 1
+#EXTINF:-1,UK: Suluk=>BT Sport 1
 http://212.8.248.197:8080/live/amal/amal1/543.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>BT Sport 2
+#EXTINF:-1,UK: Suluk=>BT Sport 2
 http://212.8.248.197:8080/live/amal/amal1/542.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>BT Sport 1 HD
+#EXTINF:-1,UK: Suluk=>BT Sport 1 HD
 http://212.8.248.197:8080/live/amal/amal1/528.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>BT Sport 2 HD
+#EXTINF:-1,UK: Suluk=>BT Sport 2 HD
 http://212.8.248.197:8080/live/amal/amal1/527.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>BT Sport ESPN
+#EXTINF:-1,UK: Suluk=>BT Sport ESPN
 http://212.8.248.197:8080/live/amal/amal1/479.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>BT Sport 3 (Ex Europe)
+#EXTINF:-1,UK: Suluk=>BT Sport 3 (Ex Europe)
 http://212.8.248.197:8080/live/amal/amal1/453.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>BT Sports Extra 1
+#EXTINF:-1,UK: Suluk=>BT Sports Extra 1
 http://212.8.248.197:8080/live/amal/amal1/533.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>BT Sports Extra 2
+#EXTINF:-1,UK: Suluk=>BT Sports Extra 2
 http://212.8.248.197:8080/live/amal/amal1/532.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>ROK
-http://212.8.248.197:8080/live/amal/amal1/531.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>YourTV HD
-http://212.8.248.197:8080/live/amal/amal1/530.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Sports Box Office HD
+#EXTINF:-1,UK: Suluk=>Sports Box Office HD
 http://212.8.248.197:8080/live/amal/amal1/529.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Eurosport 1 HD
+#EXTINF:-1,UK: Suluk=>Eurosport 1 HD
 http://212.8.248.197:8080/live/amal/amal1/541.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Eurosport 2 HD
+#EXTINF:-1,UK: Suluk=>Eurosport 2 HD
 http://212.8.248.197:8080/live/amal/amal1/540.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Eir Sport 1
+#EXTINF:-1,UK: Suluk=>Eir Sport 1
 http://212.8.248.197:8080/live/amal/amal1/1566.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Eir Sport 2
+#EXTINF:-1,UK: Suluk=>Eir Sport 2
 http://212.8.248.197:8080/live/amal/amal1/1567.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>motorsport.tv
+#EXTINF:-1,UK: Suluk=>motorsport.tv
 http://212.8.248.197:8080/live/amal/amal1/1555.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Sports F1
+#EXTINF:-1,UK: Suluk=>Sports F1
 http://212.8.248.197:8080/live/amal/amal1/539.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Sport AU 1
+#EXTINF:-1,UK: Suluk=>Sport AU 1
 http://212.8.248.197:8080/live/amal/amal1/438.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Sports Action
+#EXTINF:-1,UK: Suluk=>Sports Action
 http://212.8.248.197:8080/live/amal/amal1/1560.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Sports Action HD
+#EXTINF:-1,UK: Suluk=>Sports Action HD
 http://212.8.248.197:8080/live/amal/amal1/545.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Sports Premier
+#EXTINF:-1,UK: Suluk=>Sports Premier
 http://212.8.248.197:8080/live/amal/amal1/1565.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Sports Premier League
+#EXTINF:-1,UK: Suluk=>Sports Premier League
 http://212.8.248.197:8080/live/amal/amal1/1562.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Sports Premier League HD
+#EXTINF:-1,UK: Suluk=>Sports Premier League HD
 http://212.8.248.197:8080/live/amal/amal1/544.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Sports Main Event
+#EXTINF:-1,UK: Suluk=>Sports Main Event
 http://212.8.248.197:8080/live/amal/amal1/1561.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Sports Main Event HD
+#EXTINF:-1,UK: Suluk=>Sports Main Event HD
 http://212.8.248.197:8080/live/amal/amal1/546.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Sports Golf
+#EXTINF:-1,UK: Suluk=>Sports Golf
 http://212.8.248.197:8080/live/amal/amal1/548.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Sports Golf HD
+#EXTINF:-1,UK: Suluk=>Sports Golf HD
 http://212.8.248.197:8080/live/amal/amal1/1563.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Sports Cricket
+#EXTINF:-1,UK: Suluk=>Sports Cricket
 http://212.8.248.197:8080/live/amal/amal1/1564.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Sports Cricket HD
+#EXTINF:-1,UK: Suluk=>Sports Cricket HD
 http://212.8.248.197:8080/live/amal/amal1/547.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Sport Arena
+#EXTINF:-1,UK: Suluk=>Sport Arena
 http://212.8.248.197:8080/live/amal/amal1/1558.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Sport Football
+#EXTINF:-1,UK: Suluk=>Sport Football
 http://212.8.248.197:8080/live/amal/amal1/1559.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Sports Mix HD
+#EXTINF:-1,UK: Suluk=>Sports Mix HD
 http://212.8.248.197:8080/live/amal/amal1/513.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Setanta Sports
+#EXTINF:-1,UK: Suluk=>Setanta Sports
 http://212.8.248.197:8080/live/amal/amal1/484.ts
-#EXTINF:-1 group-title=“UK”, UK: Sky At the Races
+#EXTINF:-1,UK: UK: Sky At the Races
 http://212.8.248.197:8080/live/amal/amal1/461.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Cinema Box Office 1 HD
+#EXTINF:-1,UK: Suluk=>Cinema Box Office 1 HD
 http://212.8.248.197:8080/live/amal/amal1/421.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Cinema Box Office 2 HD
+#EXTINF:-1,UK: Suluk=>Cinema Box Office 2 HD
 http://212.8.248.197:8080/live/amal/amal1/420.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Cinema Box Office 3 HD
+#EXTINF:-1,UK: Suluk=>Cinema Box Office 3 HD
 http://212.8.248.197:8080/live/amal/amal1/419.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Cinema Box Office 4 HD
+#EXTINF:-1,UK: Suluk=>Cinema Box Office 4 HD
 http://212.8.248.197:8080/live/amal/amal1/1542.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Movies Premiere HD
+#EXTINF:-1,UK: Suluk=>Movies Premiere HD
 http://212.8.248.197:8080/live/amal/amal1/519.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Movies Disney
+#EXTINF:-1,UK: Suluk=>Movies Disney
 http://212.8.248.197:8080/live/amal/amal1/516.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Movies Select HD
+#EXTINF:-1,UK: Suluk=>Movies Select HD
 http://212.8.248.197:8080/live/amal/amal1/517.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Movies Action HD
+#EXTINF:-1,UK: Suluk=>Movies Action HD
 http://212.8.248.197:8080/live/amal/amal1/511.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Movies Greats
+#EXTINF:-1,UK: Suluk=>Movies Greats
 http://212.8.248.197:8080/live/amal/amal1/518.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Movies Family HD
+#EXTINF:-1,UK: Suluk=>Movies Family HD
 http://212.8.248.197:8080/live/amal/amal1/520.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Movies Drama HD
+#EXTINF:-1,UK: Suluk=>Movies Drama HD
 http://212.8.248.197:8080/live/amal/amal1/521.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Movies Comedy HD
+#EXTINF:-1,UK: Suluk=>Movies Comedy HD
 http://212.8.248.197:8080/live/amal/amal1/524.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Home & Health
+#EXTINF:-1,UK: Suluk=>Home & Health
 http://212.8.248.197:8080/live/amal/amal1/1547.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Hits Movies
+#EXTINF:-1,UK: Suluk=>Hits Movies
 http://212.8.248.197:8080/live/amal/amal1/512.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Movies Sci-Fi+
+#EXTINF:-1,UK: Suluk=>Movies Sci-Fi+
 http://212.8.248.197:8080/live/amal/amal1/515.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Watch
+#EXTINF:-1,UK: Suluk=>Watch
 http://212.8.248.197:8080/live/amal/amal1/523.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>True Movies 1
+#EXTINF:-1,UK: Suluk=>True Movies 1
 http://212.8.248.197:8080/live/amal/amal1/472.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>True Movies 2
+#EXTINF:-1,UK: Suluk=>True Movies 2
 http://212.8.248.197:8080/live/amal/amal1/534.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>True Entertaimnt
+#EXTINF:-1,UK: Suluk=>True Entertaimnt
 http://212.8.248.197:8080/live/amal/amal1/1546.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>More 4 HD
+#EXTINF:-1,UK: Suluk=>More 4 HD
 http://212.8.248.197:8080/live/amal/amal1/504.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Movies4Men
+#EXTINF:-1,UK: Suluk=>Movies4Men
 http://212.8.248.197:8080/live/amal/amal1/1557.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Horse & Country
+#EXTINF:-1,UK: Suluk=>Horse & Country
 http://212.8.248.197:8080/live/amal/amal1/1549.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Home
+#EXTINF:-1,UK: Suluk=>Home
 http://212.8.248.197:8080/live/amal/amal1/1553.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Quest
+#EXTINF:-1,UK: Suluk=>Quest
 http://212.8.248.197:8080/live/amal/amal1/1551.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Really
+#EXTINF:-1,UK: Suluk=>Really
 http://212.8.248.197:8080/live/amal/amal1/1552.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Travel Channel
+#EXTINF:-1,UK: Suluk=>Travel Channel
 http://212.8.248.197:8080/live/amal/amal1/1556.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>ITV 1
+#EXTINF:-1,UK: Suluk=>ITV 1
 http://212.8.248.197:8080/live/amal/amal1/471.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>ITV 2
+#EXTINF:-1,UK: Suluk=>ITV 2
 http://212.8.248.197:8080/live/amal/amal1/470.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>ITV 3
+#EXTINF:-1,UK: Suluk=>ITV 3
 http://212.8.248.197:8080/live/amal/amal1/469.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>ITV 4
+#EXTINF:-1,UK: Suluk=>ITV 4
 http://212.8.248.197:8080/live/amal/amal1/468.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>ITV Be
+#EXTINF:-1,UK: Suluk=>ITV Be
 http://212.8.248.197:8080/live/amal/amal1/429.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>ITV Encore
+#EXTINF:-1,UK: Suluk=>ITV Encore
 http://212.8.248.197:8080/live/amal/amal1/467.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>BBC One HD
+#EXTINF:-1,UK: Suluk=>BBC One HD
 http://212.8.248.197:8080/live/amal/amal1/488.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>BBC Two HD
+#EXTINF:-1,UK: Suluk=>BBC Two HD
 http://212.8.248.197:8080/live/amal/amal1/487.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>BBC Three HD
+#EXTINF:-1,UK: Suluk=>BBC Three HD
 http://212.8.248.197:8080/live/amal/amal1/486.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>BBC Four HD
+#EXTINF:-1,UK: Suluk=>BBC Four HD
 http://212.8.248.197:8080/live/amal/amal1/485.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Channel 4 HD
+#EXTINF:-1,UK: Suluk=>Channel 4 HD
 http://212.8.248.197:8080/live/amal/amal1/426.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Channel 5 HD
+#EXTINF:-1,UK: Suluk=>Channel 5 HD
 http://212.8.248.197:8080/live/amal/amal1/427.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Sony Movies
+#EXTINF:-1,UK: Suluk=>Sony Movies
 http://212.8.248.197:8080/live/amal/amal1/501.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Bloomberg HD
+#EXTINF:-1,UK: Suluk=>Bloomberg HD
 http://212.8.248.197:8080/live/amal/amal1/457.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Boomerang
+#EXTINF:-1,UK: Suluk=>Boomerang
 http://212.8.248.197:8080/live/amal/amal1/444.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Cartoon Network
+#EXTINF:-1,UK: Suluk=>Cartoon Network
 http://212.8.248.197:8080/live/amal/amal1/522.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Nickelodeon
+#EXTINF:-1,UK: Suluk=>Nickelodeon
 http://212.8.248.197:8080/live/amal/amal1/503.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Nickelodeon JR
+#EXTINF:-1,UK: Suluk=>Nickelodeon JR
 http://212.8.248.197:8080/live/amal/amal1/423.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>NickToons
+#EXTINF:-1,UK: Suluk=>NickToons
 http://212.8.248.197:8080/live/amal/amal1/446.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Disney XD HD
+#EXTINF:-1,UK: Suluk=>Disney XD HD
 http://212.8.248.197:8080/live/amal/amal1/493.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Disney Junior HD
+#EXTINF:-1,UK: Suluk=>Disney Junior HD
 http://212.8.248.197:8080/live/amal/amal1/494.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Disney Chaneel HD
+#EXTINF:-1,UK: Suluk=>Disney Chaneel HD
 http://212.8.248.197:8080/live/amal/amal1/492.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Discovery Science
+#EXTINF:-1,UK: Suluk=>Discovery Science
 http://212.8.248.197:8080/live/amal/amal1/526.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Discovery History
+#EXTINF:-1,UK: Suluk=>Discovery History
 http://212.8.248.197:8080/live/amal/amal1/491.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Discovery Turbo
+#EXTINF:-1,UK: Suluk=>Discovery Turbo
 http://212.8.248.197:8080/live/amal/amal1/465.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Discovery Shed
+#EXTINF:-1,UK: Suluk=>Discovery Shed
 http://212.8.248.197:8080/live/amal/amal1/445.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Discovery
+#EXTINF:-1,UK: Suluk=>Discovery
 http://212.8.248.197:8080/live/amal/amal1/464.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>National Geographic HD
+#EXTINF:-1,UK: Suluk=>National Geographic HD
 http://212.8.248.197:8080/live/amal/amal1/499.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Nat Geo Wild HD
+#EXTINF:-1,UK: Suluk=>Nat Geo Wild HD
 http://212.8.248.197:8080/live/amal/amal1/498.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Animal Planet HD
+#EXTINF:-1,UK: Suluk=>Animal Planet HD
 http://212.8.248.197:8080/live/amal/amal1/497.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>History HD
+#EXTINF:-1,UK: Suluk=>History HD
 http://212.8.248.197:8080/live/amal/amal1/496.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>History 2
+#EXTINF:-1,UK: Suluk=>History 2
 http://212.8.248.197:8080/live/amal/amal1/452.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>MTV
+#EXTINF:-1,UK: Suluk=>MTV
 http://212.8.248.197:8080/live/amal/amal1/1550.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>MTV Rocks HD
+#EXTINF:-1,UK: Suluk=>MTV Rocks HD
 http://212.8.248.197:8080/live/amal/amal1/442.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>MTV Hits HD
+#EXTINF:-1,UK: Suluk=>MTV Hits HD
 http://212.8.248.197:8080/live/amal/amal1/443.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>MTV Dance HD
+#EXTINF:-1,UK: Suluk=>MTV Dance HD
 http://212.8.248.197:8080/live/amal/amal1/441.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>MTV Classic
+#EXTINF:-1,UK: Suluk=>MTV Classic
 http://212.8.248.197:8080/live/amal/amal1/500.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>MTV Base
+#EXTINF:-1,UK: Suluk=>MTV Base
 http://212.8.248.197:8080/live/amal/amal1/440.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>Fine Living Network
+#EXTINF:-1,UK: Suluk=>Fine Living Network
 http://212.8.248.197:8080/live/amal/amal1/1544.ts
-#EXTINF:-1 group-title=“UK”, Suluk=>4Music
+#EXTINF:-1,UK: Suluk=>4Music
 http://212.8.248.197:8080/live/amal/amal1/1543.ts
 
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Sport TSN 1
+#EXTINF:-1,US: Suluk=>Sport TSN 1
 http://212.8.248.197:8080/live/amal/amal1/1451.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Sport TSN 2
+#EXTINF:-1,US: Suluk=>Sport TSN 2
 http://212.8.248.197:8080/live/amal/amal1/1452.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Sport TSN 3
+#EXTINF:-1,US: Suluk=>Sport TSN 3
 http://212.8.248.197:8080/live/amal/amal1/1453.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Sport TSN 4
+#EXTINF:-1,US: Suluk=>Sport TSN 4
 http://212.8.248.197:8080/live/amal/amal1/1454.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Sport TSN 5
+#EXTINF:-1,US: Suluk=>Sport TSN 5
 http://212.8.248.197:8080/live/amal/amal1/1455.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Sky_net Sports HD
+#EXTINF:-1,US: Suluk=>Sky_net Sports HD
 http://212.8.248.197:8080/live/amal/amal1/1476.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Sky_net Sports 1
+#EXTINF:-1,US: Suluk=>Sky_net Sports 1
 http://212.8.248.197:8080/live/amal/amal1/1431.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Sky_net Sports 2
+#EXTINF:-1,US: Suluk=>Sky_net Sports 2
 http://212.8.248.197:8080/live/amal/amal1/1436.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Sky_net Sports 3
+#EXTINF:-1,US: Suluk=>Sky_net Sports 3
 http://212.8.248.197:8080/live/amal/amal1/1472.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Sky_net Sports 4
+#EXTINF:-1,US: Suluk=>Sky_net Sports 4
 http://212.8.248.197:8080/live/amal/amal1/1473.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Sky_net Sports 5
+#EXTINF:-1,US: Suluk=>Sky_net Sports 5
 http://212.8.248.197:8080/live/amal/amal1/1474.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Sky_net Sports 6
+#EXTINF:-1,US: Suluk=>Sky_net Sports 6
 http://212.8.248.197:8080/live/amal/amal1/1475.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Euro Sports 1
+#EXTINF:-1,US: Suluk=>Euro Sports 1
 http://212.8.248.197:8080/live/amal/amal1/1437.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Euro Sports 5
+#EXTINF:-1,US: Suluk=>Euro Sports 5
 http://212.8.248.197:8080/live/amal/amal1/1435.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Euro Sports 6
+#EXTINF:-1,US: Suluk=>Euro Sports 6
 http://212.8.248.197:8080/live/amal/amal1/1439.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>FOX Sports 1
+#EXTINF:-1,US: Suluk=>FOX Sports 1
 http://212.8.248.197:8080/live/amal/amal1/1516.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>FOX Sports 2
+#EXTINF:-1,US: Suluk=>FOX Sports 2
 http://212.8.248.197:8080/live/amal/amal1/1502.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Espn Sport
+#EXTINF:-1,US: Suluk=>Espn Sport
 http://212.8.248.197:8080/live/amal/amal1/1483.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Sport Snet Central
+#EXTINF:-1,US: Suluk=>Sport Snet Central
 http://212.8.248.197:8080/live/amal/amal1/1430.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Sports NET 360 HD
+#EXTINF:-1,US: Suluk=>Sports NET 360 HD
 http://212.8.248.197:8080/live/amal/amal1/1497.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Sports NET ONE HD
+#EXTINF:-1,US: Suluk=>Sports NET ONE HD
 http://212.8.248.197:8080/live/amal/amal1/1508.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Sports NET WORLD
+#EXTINF:-1,US: Suluk=>Sports NET WORLD
 http://212.8.248.197:8080/live/amal/amal1/1526.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Sports NET ONTARIO
+#EXTINF:-1,US: Suluk=>Sports NET ONTARIO
 http://212.8.248.197:8080/live/amal/amal1/1503.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Sports NET WEST HD
+#EXTINF:-1,US: Suluk=>Sports NET WEST HD
 http://212.8.248.197:8080/live/amal/amal1/1525.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Sport Network
+#EXTINF:-1,US: Suluk=>Sport Network
 http://212.8.248.197:8080/live/amal/amal1/1459.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Sport LTVE HD
+#EXTINF:-1,US: Suluk=>Sport LTVE HD
 http://212.8.248.197:8080/live/amal/amal1/1496.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>BeIN Sports US
+#EXTINF:-1,US: Suluk=>BeIN Sports US
 http://212.8.248.197:8080/live/amal/amal1/1486.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Sports NFL Now HD
+#EXTINF:-1,US: Suluk=>Sports NFL Now HD
 http://212.8.248.197:8080/live/amal/amal1/1434.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>NHL Network HD
+#EXTINF:-1,US: Suluk=>NHL Network HD
 http://212.8.248.197:8080/live/amal/amal1/1429.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>NBCSN Golf
+#EXTINF:-1,US: Suluk=>NBCSN Golf
 http://212.8.248.197:8080/live/amal/amal1/1533.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Willow Cricket
+#EXTINF:-1,US: Suluk=>Willow Cricket
 http://212.8.248.197:8080/live/amal/amal1/1492.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>AFN Pulse
+#EXTINF:-1,US: Suluk=>AFN Pulse
 http://212.8.248.197:8080/live/amal/amal1/1468.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>AFN Spectrum
+#EXTINF:-1,US: Suluk=>AFN Spectrum
 http://212.8.248.197:8080/live/amal/amal1/1469.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>AFN Sports
+#EXTINF:-1,US: Suluk=>AFN Sports
 http://212.8.248.197:8080/live/amal/amal1/1470.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>AFN Sports 2
+#EXTINF:-1,US: Suluk=>AFN Sports 2
 http://212.8.248.197:8080/live/amal/amal1/1446.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>AFN Movie HD
+#EXTINF:-1,US: Suluk=>AFN Movie HD
 http://212.8.248.197:8080/live/amal/amal1/1522.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>AFN Prime HD
+#EXTINF:-1,US: Suluk=>AFN Prime HD
 http://212.8.248.197:8080/live/amal/amal1/1479.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Fox 24 HD
+#EXTINF:-1,US: Suluk=>Fox 24 HD
 http://212.8.248.197:8080/live/amal/amal1/1509.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Free From
+#EXTINF:-1,US: Suluk=>Free From
 http://212.8.248.197:8080/live/amal/amal1/1448.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Fox Action HD
+#EXTINF:-1,US: Suluk=>Fox Action HD
 http://212.8.248.197:8080/live/amal/amal1/1441.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>FX HD
+#EXTINF:-1,US: Suluk=>FX HD
 http://212.8.248.197:8080/live/amal/amal1/1478.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>FXX
+#EXTINF:-1,US: Suluk=>FXX
 http://212.8.248.197:8080/live/amal/amal1/1490.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>HBO 1
+#EXTINF:-1,US: Suluk=>HBO 1
 http://212.8.248.197:8080/live/amal/amal1/1433.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>HBO East
+#EXTINF:-1,US: Suluk=>HBO East
 http://212.8.248.197:8080/live/amal/amal1/1518.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>HBO Family
+#EXTINF:-1,US: Suluk=>HBO Family
 http://212.8.248.197:8080/live/amal/amal1/1536.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>HBO Signature
+#EXTINF:-1,US: Suluk=>HBO Signature
 http://212.8.248.197:8080/live/amal/amal1/1517.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Starz Edge
+#EXTINF:-1,US: Suluk=>Starz Edge
 http://212.8.248.197:8080/live/amal/amal1/1438.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Starz East
+#EXTINF:-1,US: Suluk=>Starz East
 http://212.8.248.197:8080/live/amal/amal1/1450.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Starz Cinema
+#EXTINF:-1,US: Suluk=>Starz Cinema
 http://212.8.248.197:8080/live/amal/amal1/1538.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Cinemax
+#EXTINF:-1,US: Suluk=>Cinemax
 http://212.8.248.197:8080/live/amal/amal1/1461.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Cinemax ActionMax
+#EXTINF:-1,US: Suluk=>Cinemax ActionMax
 http://212.8.248.197:8080/live/amal/amal1/1512.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Hallmark Channel
+#EXTINF:-1,US: Suluk=>Hallmark Channel
 http://212.8.248.197:8080/live/amal/amal1/1528.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Comedy Central HD US
+#EXTINF:-1,US: Suluk=>Comedy Central HD US
 http://212.8.248.197:8080/live/amal/amal1/1540.ts
 
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Discovery World
+#EXTINF:-1,US: Suluk=>Discovery World
 http://212.8.248.197:8080/live/amal/amal1/1499.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>AMC HD
+#EXTINF:-1,US: Suluk=>AMC HD
 http://212.8.248.197:8080/live/amal/amal1/1534.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>USA
+#EXTINF:-1,US: Suluk=>USA
 http://212.8.248.197:8080/live/amal/amal1/1519.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>CBS
+#EXTINF:-1,US: Suluk=>CBS
 http://212.8.248.197:8080/live/amal/amal1/1510.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Bloomberg
+#EXTINF:-1,US: Suluk=>Bloomberg
 http://212.8.248.197:8080/live/amal/amal1/1464.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>History
+#EXTINF:-1,US: Suluk=>History
 http://212.8.248.197:8080/live/amal/amal1/1523.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>NatGeo Wild
+#EXTINF:-1,US: Suluk=>NatGeo Wild
 http://212.8.248.197:8080/live/amal/amal1/1484.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Animal Planet+1
+#EXTINF:-1,US: Suluk=>Animal Planet+1
 http://212.8.248.197:8080/live/amal/amal1/1467.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Discovery Velocity HD
+#EXTINF:-1,US: Suluk=>Discovery Velocity HD
 http://212.8.248.197:8080/live/amal/amal1/1529.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Crime and Investigation
+#EXTINF:-1,US: Suluk=>Crime and Investigation
 http://212.8.248.197:8080/live/amal/amal1/1511.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>C-Span 1 HD
+#EXTINF:-1,US: Suluk=>C-Span 1 HD
 http://212.8.248.197:8080/live/amal/amal1/1487.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>C-Span 2 HD
+#EXTINF:-1,US: Suluk=>C-Span 2 HD
 http://212.8.248.197:8080/live/amal/amal1/1488.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Famly HD
+#EXTINF:-1,US: Suluk=>Famly HD
 http://212.8.248.197:8080/live/amal/amal1/1495.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>SEC Network
+#EXTINF:-1,US: Suluk=>SEC Network
 http://212.8.248.197:8080/live/amal/amal1/1463.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>LIFE TIME
+#EXTINF:-1,US: Suluk=>LIFE TIME
 http://212.8.248.197:8080/live/amal/amal1/1432.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>USA Network
+#EXTINF:-1,US: Suluk=>USA Network
 http://212.8.248.197:8080/live/amal/amal1/1498.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>More Max HD
+#EXTINF:-1,US: Suluk=>More Max HD
 http://212.8.248.197:8080/live/amal/amal1/1460.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>TBS HD
+#EXTINF:-1,US: Suluk=>TBS HD
 http://212.8.248.197:8080/live/amal/amal1/1506.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>CBC Toronto
+#EXTINF:-1,US: Suluk=>CBC Toronto
 http://212.8.248.197:8080/live/amal/amal1/1541.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>CBC Vancover
+#EXTINF:-1,US: Suluk=>CBC Vancover
 http://212.8.248.197:8080/live/amal/amal1/1494.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Bravo HD
+#EXTINF:-1,US: Suluk=>Bravo HD
 http://212.8.248.197:8080/live/amal/amal1/1507.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>A&E HD
+#EXTINF:-1,US: Suluk=>A&E HD
 http://212.8.248.197:8080/live/amal/amal1/1500.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>Spike HD
+#EXTINF:-1,US: Suluk=>Spike HD
 http://212.8.248.197:8080/live/amal/amal1/1442.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>truTV
+#EXTINF:-1,US: Suluk=>truTV
 http://212.8.248.197:8080/live/amal/amal1/1477.ts
-#EXTINF:-1 group-title=“USA”,US: Suluk=>E TV
+#EXTINF:-1,US: Suluk=>E TV
 http://212.8.248.197:8080/live/amal/amal1/1531.ts
 
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>Sony ESPN HD
+#EXTINF:-1,IN: Suluk=>Sony ESPN HD
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>Sony Six HD
+#EXTINF:-1,IN: Suluk=>Sony Six HD
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>TEN 1 HD
+#EXTINF:-1,IN: Suluk=>TEN 1 HD
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>TEN 2 HD
+#EXTINF:-1,IN: Suluk=>TEN 2 HD
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>TEN 3 HD
+#EXTINF:-1,IN: Suluk=>TEN 3 HD
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>TEN Sports
+#EXTINF:-1,IN: Suluk=>TEN Sports
 http://212.8.248.197:8080/live/amal/amal1/1823.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>TEN Sports 1
+#EXTINF:-1,IN: Suluk=>TEN Sports 1
 http://212.8.248.197:8080/live/amal/amal1/1769.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>Star Sport 1 HD
+#EXTINF:-1,IN: Suluk=>Star Sport 1 HD
 http://212.8.248.197:8080/live/amal/amal1/1774.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>Star Sport 2 HD
+#EXTINF:-1,IN: Suluk=>Star Sport 2 HD
 http://212.8.248.197:8080/live/amal/amal1/1775.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Action
+#EXTINF:-1,IN: Suluk=>ZEE Action
 http://212.8.248.197:8080/live/amal/amal1/2966.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Cinema HD
+#EXTINF:-1,IN: Suluk=>ZEE Cinema HD
 http://212.8.248.197:8080/live/amal/amal1/1750.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Cinema ME HD
+#EXTINF:-1,IN: Suluk=>ZEE Cinema ME HD
 http://212.8.248.197:8080/live/amal/amal1/1782.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Bangla Cinema
+#EXTINF:-1,IN: Suluk=>ZEE Bangla Cinema
 http://212.8.248.197:8080/live/amal/amal1/1784.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Business
+#EXTINF:-1,IN: Suluk=>ZEE Business
 http://212.8.248.197:8080/live/amal/amal1/2984.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE TV HD US
+#EXTINF:-1,IN: Suluk=>ZEE TV HD US
 http://212.8.248.197:8080/live/amal/amal1/1781.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Cinema UK
+#EXTINF:-1,IN: Suluk=>ZEE Cinema UK
 http://212.8.248.197:8080/live/amal/amal1/1780.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Studio HD
+#EXTINF:-1,IN: Suluk=>ZEE Studio HD
 http://212.8.248.197:8080/live/amal/amal1/1783.ts
 #EXTINF:-1 roup-title=“INDIA”,IND: Suluk=>ZEE Canada
 http://212.8.248.197:8080/live/amal/amal1/1760.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Kanada US
+#EXTINF:-1,IN: Suluk=>ZEE Kanada US
 http://212.8.248.197:8080/live/amal/amal1/2968.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Alwan
+#EXTINF:-1,IN: Suluk=>ZEE Alwan
 http://212.8.248.197:8080/live/amal/amal1/1778.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Tamil
+#EXTINF:-1,IN: Suluk=>ZEE Tamil
 http://212.8.248.197:8080/live/amal/amal1/1764.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Aflam
+#EXTINF:-1,IN: Suluk=>ZEE Aflam
 http://212.8.248.197:8080/live/amal/amal1/1779.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Classic
+#EXTINF:-1,IN: Suluk=>ZEE Classic
 http://212.8.248.197:8080/live/amal/amal1/1752.ts
 #EXTINF:-1 roup-title=“INDIA”,IND: Suluk=>ZEE Cinema LU HD
 http://212.8.248.197:8080/live/amal/amal1/1812.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Bangla Cinema UK
+#EXTINF:-1,IN: Suluk=>ZEE Bangla Cinema UK
 http://212.8.248.197:8080/live/amal/amal1/1838.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Punjabi PN
+#EXTINF:-1,IN: Suluk=>ZEE Punjabi PN
 http://212.8.248.197:8080/live/amal/amal1/3051.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Anmol
+#EXTINF:-1,IN: Suluk=>ZEE Anmol
 http://212.8.248.197:8080/live/amal/amal1/1813.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE tv
+#EXTINF:-1,IN: Suluk=>ZEE tv
 http://212.8.248.197:8080/live/amal/amal1/1815.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE News
+#EXTINF:-1,IN: Suluk=>ZEE News
 http://212.8.248.197:8080/live/amal/amal1/2967.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>Zing us
+#EXTINF:-1,IN: Suluk=>Zing us
 http://212.8.248.197:8080/live/amal/amal1/1819.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>JAYA TV
+#EXTINF:-1,IN: Suluk=>JAYA TV
 http://212.8.248.197:8080/live/amal/amal1/1802.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>MTV India
+#EXTINF:-1,IN: Suluk=>MTV India
 http://212.8.248.197:8080/live/amal/amal1/1770.ts
-#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>PTV Sport PK
+#EXTINF:-1,IN: Suluk=>PTV Sport PK
 http://212.8.248.197:8080/live/amal/amal1/3016.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Fox Sport HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Fox Sport HD
+
+#EXTINF:-1,IT: Suluk=>Sky Fox Sport HD
 http://212.8.248.197:8080/live/amal/amal1/650.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Sport 1 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Sport 1 HD
+#EXTINF:-1,IT: Suluk=>Sky Sport 1 HD
 http://212.8.248.197:8080/live/amal/amal1/655.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Sport 2 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Sport 2 HD
+#EXTINF:-1,IT: Suluk=>Sky Sport 2 HD
 http://212.8.248.197:8080/live/amal/amal1/654.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Sport 3 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Sport 3 HD
+#EXTINF:-1,IT: Suluk=>Sky Sport 3 HD
 http://212.8.248.197:8080/live/amal/amal1/653.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Sport 24 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Sport 24 HD
+#EXTINF:-1,IT: Suluk=>Sky Sport 24 HD
 http://212.8.248.197:8080/live/amal/amal1/652.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Sport F1 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Sport F1 HD
+#EXTINF:-1,IT: Suluk=>Sky Sport F1 HD
 http://212.8.248.197:8080/live/amal/amal1/651.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Moto GP HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Moto GP HD
+#EXTINF:-1,IT: Suluk=>Sky Moto GP HD
 http://212.8.248.197:8080/live/amal/amal1/646.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Super Tennis HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Super Tennis HD
+#EXTINF:-1,IT: Suluk=>Super Tennis HD
 http://212.8.248.197:8080/live/amal/amal1/645.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Rai Sport 1" tvg-logo="" group-title="ITALI",IT: Suluk=>Rai Sport 1
+#EXTINF:-1,IT: Suluk=>Rai Sport 1
 http://212.8.248.197:8080/live/amal/amal1/639.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Rai Sport 2" tvg-logo="" group-title="ITALI",IT: Suluk=>Rai Sport 2
+#EXTINF:-1,IT: Suluk=>Rai Sport 2
 http://212.8.248.197:8080/live/amal/amal1/560.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>SportTitalia" tvg-logo="" group-title="ITALI",IT: Suluk=>SportTitalia
+#EXTINF:-1,IT: Suluk=>SportTitalia
 http://212.8.248.197:8080/live/amal/amal1/638.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>TSN Sport" tvg-logo="" group-title="ITALI",IT: Suluk=>TSN Sport
+#EXTINF:-1,IT: Suluk=>TSN Sport
 http://212.8.248.197:8080/live/amal/amal1/1840.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Supercalcio HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Supercalcio HD
+#EXTINF:-1,IT: Suluk=>Sky Supercalcio HD
 http://212.8.248.197:8080/live/amal/amal1/643.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Calcio 1 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Calcio 1 HD
+#EXTINF:-1,IT: Suluk=>Sky Calcio 1 HD
 http://212.8.248.197:8080/live/amal/amal1/642.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Calcio 2 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Calcio 2 HD
+#EXTINF:-1,IT: Suluk=>Sky Calcio 2 HD
 http://212.8.248.197:8080/live/amal/amal1/641.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Calcio 3 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Calcio 3 HD
+#EXTINF:-1,IT: Suluk=>Sky Calcio 3 HD
 http://212.8.248.197:8080/live/amal/amal1/640.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Calcio 4 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Calcio 4 HD
+#EXTINF:-1,IT: Suluk=>Sky Calcio 4 HD
 http://212.8.248.197:8080/live/amal/amal1/568.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Calcio 5 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Calcio 5 HD
+#EXTINF:-1,IT: Suluk=>Sky Calcio 5 HD
 http://212.8.248.197:8080/live/amal/amal1/567.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Calcio 6 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Calcio 6 HD
+#EXTINF:-1,IT: Suluk=>Sky Calcio 6 HD
 http://212.8.248.197:8080/live/amal/amal1/566.ts
-#EXTINF:-1 tvg-id="" tvg-name="### Cultura ###" tvg-logo="" group-title="",### Cultura ###
-http://bit.ly/SulukLogo1
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky TG 24" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky TG 24
+#EXTINF:-1,IT: Suluk=>Sky TG 24
 http://212.8.248.197:8080/live/amal/amal1/629.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Discovery HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Discovery HD
+#EXTINF:-1,IT: Suluk=>Discovery HD
 http://212.8.248.197:8080/live/amal/amal1/630.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Discovery T&L" tvg-logo="" group-title="ITALI",IT: Suluk=>Discovery T&L
+#EXTINF:-1,IT: Suluk=>Discovery T&L
 http://212.8.248.197:8080/live/amal/amal1/1859.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Discovery Sci HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Discovery Sci HD
+#EXTINF:-1,IT: Suluk=>Discovery Sci HD
 http://212.8.248.197:8080/live/amal/amal1/1858.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky History HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky History HD
+#EXTINF:-1,IT: Suluk=>Sky History HD
 http://212.8.248.197:8080/live/amal/amal1/634.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>National Geo HD" tvg-logo="" group-title="ITALI",IT: Suluk=>National Geo HD
+#EXTINF:-1,IT: Suluk=>National Geo HD
 http://212.8.248.197:8080/live/amal/amal1/633.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>NatGeo Wild HD" tvg-logo="" group-title="ITALI",IT: Suluk=>NatGeo Wild HD
+#EXTINF:-1,IT: Suluk=>NatGeo Wild HD
 http://212.8.248.197:8080/live/amal/amal1/632.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>NatGeo People HD" tvg-logo="" group-title="ITALI",IT: Suluk=>NatGeo People HD
+#EXTINF:-1,IT: Suluk=>NatGeo People HD
 http://212.8.248.197:8080/live/amal/amal1/631.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Animal Planet" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Animal Planet
+#EXTINF:-1,IT: Suluk=>Sky Animal Planet
 http://212.8.248.197:8080/live/amal/amal1/604.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium Cinema HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium Cinema HD
+#EXTINF:-1,IT: Suluk=>Premium Cinema HD
 http://212.8.248.197:8080/live/amal/amal1/627.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium Cinema 2 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium Cinema 2 HD
+#EXTINF:-1,IT: Suluk=>Premium Cinema 2 HD
 http://212.8.248.197:8080/live/amal/amal1/609.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium Cinema +24" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium Cinema +24
+#EXTINF:-1,IT: Suluk=>Premium Cinema +24
 http://212.8.248.197:8080/live/amal/amal1/612.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium Crime" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium Crime
+#EXTINF:-1,IT: Suluk=>Premium Crime
 http://212.8.248.197:8080/live/amal/amal1/621.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium Crime +24" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium Crime +24
+#EXTINF:-1,IT: Suluk=>Premium Crime +24
 http://212.8.248.197:8080/live/amal/amal1/611.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium Action HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium Action HD
+#EXTINF:-1,IT: Suluk=>Premium Action HD
 http://212.8.248.197:8080/live/amal/amal1/626.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium Action +24 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium Action +24 HD
+#EXTINF:-1,IT: Suluk=>Premium Action +24 HD
 http://212.8.248.197:8080/live/amal/amal1/618.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium Stories" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium Stories
+#EXTINF:-1,IT: Suluk=>Premium Stories
 http://212.8.248.197:8080/live/amal/amal1/625.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium Stories +24" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium Stories +24
-http://212.8.248.197:8080/live/amal/amal1/614.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium Energy" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium Energy
-http://212.8.248.197:8080/live/amal/amal1/623.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium Energy +24" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium Energy +24
-http://212.8.248.197:8080/live/amal/amal1/1872.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium Joy" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium Joy
-http://212.8.248.197:8080/live/amal/amal1/624.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium Comedy" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium Comedy
-http://212.8.248.197:8080/live/amal/amal1/620.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium Emotion" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium Emotion
-http://212.8.248.197:8080/live/amal/amal1/622.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium Studio Universal" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium Studio Universal
-http://212.8.248.197:8080/live/amal/amal1/619.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium Disney Junior" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium Disney Junior
-http://212.8.248.197:8080/live/amal/amal1/617.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium Disney Channel" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium Disney Channel
-http://212.8.248.197:8080/live/amal/amal1/616.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium Cartoon Network" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium Cartoon Network
-http://212.8.248.197:8080/live/amal/amal1/613.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium EuroSport 1 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium EuroSport 1 HD
-http://212.8.248.197:8080/live/amal/amal1/608.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium EuroSport 2 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium EuroSport 2 HD
-http://212.8.248.197:8080/live/amal/amal1/610.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium Sport 1 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium Sport 1 HD
-http://212.8.248.197:8080/live/amal/amal1/606.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium Sport 2 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium Sport 2 HD
-http://212.8.248.197:8080/live/amal/amal1/605.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium Sport" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium Sport
-http://212.8.248.197:8080/live/amal/amal1/615.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium Sport 2" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium Sport 2
-http://212.8.248.197:8080/live/amal/amal1/562.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Premium Calcio HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Premium Calcio HD
-http://212.8.248.197:8080/live/amal/amal1/607.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Prima fila 1 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Prima fila 1 HD
-http://212.8.248.197:8080/live/amal/amal1/601.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Prima fila 2 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Prima fila 2 HD
-http://212.8.248.197:8080/live/amal/amal1/600.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Prima fila 3 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Prima fila 3 HD
-http://212.8.248.197:8080/live/amal/amal1/599.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Prima fila 4 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Prima fila 4 HD
-http://212.8.248.197:8080/live/amal/amal1/598.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Prima fila 5 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Prima fila 5 HD
-http://212.8.248.197:8080/live/amal/amal1/597.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Prima fila 6 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Prima fila 6 HD
-http://212.8.248.197:8080/live/amal/amal1/596.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Prima fila 7 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Prima fila 7 HD
-http://212.8.248.197:8080/live/amal/amal1/595.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Prima fila 8 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Prima fila 8 HD
-http://212.8.248.197:8080/live/amal/amal1/594.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Prima fila 9 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Prima fila 9 HD
-http://212.8.248.197:8080/live/amal/amal1/593.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Prima fila 10 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Prima fila 10 HD
-http://212.8.248.197:8080/live/amal/amal1/592.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Prima fila 11 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Prima fila 11 HD
-http://212.8.248.197:8080/live/amal/amal1/591.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Prima fila 12 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Prima fila 12 HD
-http://212.8.248.197:8080/live/amal/amal1/590.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Prima fila 13 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Prima fila 13 HD
-http://212.8.248.197:8080/live/amal/amal1/589.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Prima fila 14 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Prima fila 14 HD
-http://212.8.248.197:8080/live/amal/amal1/588.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Prima fila 15 HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Prima fila 15 HD
-http://212.8.248.197:8080/live/amal/amal1/587.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Suluk=>Sky Prima Fila WWE HD" tvg-logo="" group-title="ITALI",IT: Suluk=>Sky Prima Fila WWE HD
-http://212.8.248.197:8080/live/amal/amal1/586.ts
 
-
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>BeIN Box Office 1 HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> BeIN Box Office 1 HD
+#EXTINF:-1,TR: Suluk=> BeIN Box Office 1 HD
 http://212.8.248.197:8080/live/amal/amal1/2167.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>BeIN Box Office 2 HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> BeIN Box Office 2 HD
+#EXTINF:-1,TR: Suluk=> BeIN Box Office 2 HD
 http://212.8.248.197:8080/live/amal/amal1/2175.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>BeIN Box Office 3 HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> BeIN Box Office 3 HD
+#EXTINF:-1,TR: Suluk=> BeIN Box Office 3 HD
 http://212.8.248.197:8080/live/amal/amal1/2176.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>Star Cine+ 1 HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> Star Cine+ 1 HD
+#EXTINF:-1,TR: Suluk=> Star Cine+ 1 HD
 http://212.8.248.197:8080/live/amal/amal1/1941.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>Star Cine+ 2 HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> Star Cine+ 2 HD
+#EXTINF:-1,TR: Suluk=> Star Cine+ 2 HD
 http://212.8.248.197:8080/live/amal/amal1/1942.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>Star Cine+ 3 HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> Star Cine+ 3 HD
+#EXTINF:-1,TR: Suluk=> Star Cine+ 3 HD
 http://212.8.248.197:8080/live/amal/amal1/1943.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>Star Cine+ 4 HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> Star Cine+ 4 HD
+#EXTINF:-1,TR: Suluk=> Star Cine+ 4 HD
 http://212.8.248.197:8080/live/amal/amal1/2003.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>Star Cine+ 6 HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> Star Cine+ 6 HD
+#EXTINF:-1,TR: Star Cine+ 6 HD
 http://212.8.248.197:8080/live/amal/amal1/1964.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>Star Cine+ 5 HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> Star Cine+ 5 HD
+#EXTINF:-1,TR: Star Cine+ 5 HD
 http://212.8.248.197:8080/live/amal/amal1/1948.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>Star Cine+ 7 HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> Star Cine+ 7 HD
+#EXTINF:-1,TR: Star Cine+ 7 HD
 http://212.8.248.197:8080/live/amal/amal1/2186.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>BeIN Movies Famly HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> BeIN Movies Famly HD
+#EXTINF:-1,TR: Suluk=> BeIN Movies Famly HD
 http://212.8.248.197:8080/live/amal/amal1/2020.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>BeIN Movies Premier HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> BeIN Movies Premier HD
+#EXTINF:-1,TR: Suluk=> BeIN Movies Premier HD
 http://212.8.248.197:8080/live/amal/amal1/2159.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>Cine+ Animasyon 5 HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> Cine+ Animasyon 5 HD
-http://212.8.248.197:8080/live/amal/amal1/2026.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>Movies Smart Platin HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> Movies Smart Platin HD
-http://212.8.248.197:8080/live/amal/amal1/2018.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>Movies Smart Famly HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> Movies Smart Famly HD
-http://212.8.248.197:8080/live/amal/amal1/2033.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>Movies Smart Action HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> Movies Smart Action HD
-http://212.8.248.197:8080/live/amal/amal1/2017.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>Moviemax Türk HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> Moviemax Türk HD
-http://212.8.248.197:8080/live/amal/amal1/2016.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>Cinemax 2 HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> Cinemax 2 HD
-http://212.8.248.197:8080/live/amal/amal1/1967.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>Bein Sport 1 HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> Bein Sport 1 HD
+#EXTINF:-1,TR:  Suluk=> Bein Sport 1 HD
 http://212.8.248.197:8080/live/amal/amal1/2002.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>Bein Sport 2 HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> Bein Sport 2 HD
+#EXTINF:-1,TR: Suluk=> Bein Sport 2 HD
 http://212.8.248.197:8080/live/amal/amal1/2001.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>Bein Sport 3 HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> Bein Sport 3 HD
+#EXTINF:-1,TR: Suluk=> Bein Sport 3 HD
 http://212.8.248.197:8080/live/amal/amal1/2000.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>Tivibu Spor 1 HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> Tivibu Spor 1 HD
-http://212.8.248.197:8080/live/amal/amal1/1997.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>Tivibu Spor 2 HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> Tivibu Spor 2 HD
-http://212.8.248.197:8080/live/amal/amal1/1965.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>Tivibu Spor 3 HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> Tivibu Spor 3 HD
-http://212.8.248.197:8080/live/amal/amal1/2170.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>Tivibu Spor 4 HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> Tivibu Spor 4 HD
-http://212.8.248.197:8080/live/amal/amal1/2171.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>Smart Sport HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> Smart Sport HD
-http://212.8.248.197:8080/live/amal/amal1/1998.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>S Sport HD" tvg-logo="" group-title=“Turky”,TR: Suluk=> S Sport HD
-http://212.8.248.197:8080/live/amal/amal1/1969.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>NTV Spor" tvg-logo="" group-title=“Turky”,TR: Suluk=> NTV Spor
-http://212.8.248.197:8080/live/amal/amal1/1996.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>TRT 1  Avrupa" tvg-logo="" group-title=“Turky”,TR: Suluk=> TRT 1  Avrupa
-http://212.8.248.197:8080/live/amal/amal1/1959.ts
-#EXTINF:-1 tvg-id="" tvg-name=“TR: Suluk=>Bursa Spor tv" tvg-logo="" group-title=“Turky”,TR: Suluk=> Bursa Spor tv
-http://212.8.248.197:8080/live/amal/amal1/1999.ts
 
-
-#EXTINF:-1 tvg-id="" tvg-name="FR: Beinsport 1" tvg-logo="" group-title=“French”,FR: Suluk=> Beinsport 1
+#EXTINF:-1,FR: Suluk=> Beinsport 1
 http://212.8.248.197:8080/live/amal/amal1/366.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Beinsport 2" tvg-logo="" group-title=“French”,FR: Suluk=> Beinsport 2
+#EXTINF:-1,FR: Suluk=> Beinsport 2
 http://212.8.248.197:8080/live/amal/amal1/365.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Beinsport 3" tvg-logo="" group-title=“French”,FR: Suluk=> Beinsport 3
+#EXTINF:-1,FR: Suluk=> Beinsport 3
 http://212.8.248.197:8080/live/amal/amal1/364.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport Max 4" tvg-logo="" group-title=“French”,FR: Suluk=> Bein Sport Max 4
+#EXTINF:-1,FR: Suluk=> Bein Sport Max 4
 http://212.8.248.197:8080/live/amal/amal1/397.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport Max 5" tvg-logo="" group-title=“French”,FR: Suluk=> Bein Sport Max 5
+#EXTINF:-1,FR: Suluk=> Bein Sport Max 5
 http://212.8.248.197:8080/live/amal/amal1/398.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport Max 6" tvg-logo="" group-title=“French”,FR: Suluk=> Bein Sport Max 6
+#EXTINF:-1,FR: Suluk=> Bein Sport Max 6
 http://212.8.248.197:8080/live/amal/amal1/399.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport Max 7" tvg-logo="" group-title=“French”,FR: Suluk=> Bein Sport Max 7
+#EXTINF:-1,FR: Suluk=> Bein Sport Max 7
 http://212.8.248.197:8080/live/amal/amal1/400.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport Max 8" tvg-logo="" group-title=“French”,FR: Suluk=> Bein Sport Max 8
+#EXTINF:-1,FR: Suluk=> Bein Sport Max 8
 http://212.8.248.197:8080/live/amal/amal1/401.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport Max 9" tvg-logo="" group-title=“French”,FR: Suluk=> Bein Sport Max 9
+#EXTINF:-1,FR: Suluk=> Bein Sport Max 9
 http://212.8.248.197:8080/live/amal/amal1/402.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport Max 10" tvg-logo="" group-title=“French”,FR: Suluk=> Bein Sport Max 10
+#EXTINF:-1,FR: Suluk=> Bein Sport Max 10
 http://212.8.248.197:8080/live/amal/amal1/403.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport 1 HD" tvg-logo="" group-title=“French”,FR: Suluk=> Eurosport 1 HD
+#EXTINF:-1,FR: Suluk=> Eurosport 1 HD
 http://212.8.248.197:8080/live/amal/amal1/356.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport 2 HD" tvg-logo="" group-title=“French”,FR: Suluk=> Eurosport 2 HD
+#EXTINF:-1,FR: Suluk=> Eurosport 2 HD
 http://212.8.248.197:8080/live/amal/amal1/355.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: SFR Sport 1" tvg-logo="" group-title=“French”,FR: Suluk=> SFR Sport 1
-http://212.8.248.197:8080/live/amal/amal1/381.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: SFR Sport 2" tvg-logo="" group-title=“French”,FR: Suluk=> SFR Sport 2
-http://212.8.248.197:8080/live/amal/amal1/382.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: SFR Sport 3" tvg-logo="" group-title=“French”,FR: Suluk=> SFR Sport 3
-http://212.8.248.197:8080/live/amal/amal1/383.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: SFR Sport 4" tvg-logo="" group-title=“French”,FR: Suluk=> SFR Sport 4
-http://212.8.248.197:8080/live/amal/amal1/408.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: SFR Sport 5" tvg-logo="" group-title=“French”,FR: Suluk=> SFR Sport 5
-http://212.8.248.197:8080/live/amal/amal1/1570.ts
 
-
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>NPO 1" tvg-logo="http://ipsatpro.info/logo-Holand/npo_01_nl.png" group-title=“Holand”,NL: Suluk=>NPO 1
+#EXTINF:-1,NL: Suluk=>NPO 1
 http://212.8.248.197:8080/live/amal/amal1/715.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>NPO 2" tvg-logo="http://ipsatpro.info/logo-Holand/npo_02_nl.png" group-title=“Holand”,NL: Suluk=>NPO 2
+#EXTINF:-1,NL: Suluk=>NPO 2
 http://212.8.248.197:8080/live/amal/amal1/716.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>NPO 3" tvg-logo="http://ipsatpro.info/logo-Holand/npo_03_nl.png" group-title=“Holand”,NL: Suluk=>NPO 3
+#EXTINF:-1,NL: Suluk=>NPO 3
 http://212.8.248.197:8080/live/amal/amal1/717.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>RTL 4 HD" tvg-logo="http://ipsatpro.info/logo-Holand/rtl4_nl.png" group-title=“Holand”,NL: Suluk=>RTL 4 HD
+#EXTINF:-1,NL: Suluk=>RTL 4 HD
 http://212.8.248.197:8080/live/amal/amal1/699.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>RTL 5 HD" tvg-logo="http://ipsatpro.info/logo-Holand/rtl5.png" group-title=“Holand”,NL: Suluk=>RTL 5 HD
+#EXTINF:-1,NL: Suluk=>RTL 5 HD
 http://212.8.248.197:8080/live/amal/amal1/695.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>NET 5 HD" tvg-logo="http://ipsatpro.info/logo-Holand/net_5_nl.png" group-title=“Holand”,NL: Suluk=>NET 5 HD
+#EXTINF:-1,NL: Suluk=>NET 5 HD
 http://212.8.248.197:8080/live/amal/amal1/698.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>SBS 6 HD" tvg-logo="http://ipsatpro.info/logo-Holand/sbs_6_nl.png" group-title=“Holand”,NL: Suluk=>SBS 6 HD
+#EXTINF:-1,NL: Suluk=>SBS 6 HD
 http://212.8.248.197:8080/live/amal/amal1/701.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>RTL 7 HD" tvg-logo="http://ipsatpro.info/logo-Holand/rtl7.png" group-title=“Holand”,NL: Suluk=>RTL 7 HD
+#EXTINF:-1,NL: Suluk=>RTL 7 HD
 http://212.8.248.197:8080/live/amal/amal1/696.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>RTL 8 HD" tvg-logo="http://ipsatpro.info/logo-Holand/rtl8.png" group-title=“Holand”,NL: Suluk=>RTL 8 HD
+#EXTINF:-1,NL: Suluk=>RTL 8 HD
 http://212.8.248.197:8080/live/amal/amal1/697.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>SBS 9" tvg-logo="http://ipsatpro.info/logo-Holand/sbs_9_nl.png" group-title=“Holand”,NL: Suluk=>SBS 9
+#EXTINF:-1,NL: Suluk=>SBS 9
 http://212.8.248.197:8080/live/amal/amal1/724.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Fox Sports 1" tvg-logo="http://ipsatpro.info/logo-Holand/fox_sports_1.png" group-title=“Holand”,NL: Suluk=>Fox Sports 1
+#EXTINF:-1,NL: Suluk=>Fox Sports 1
 http://212.8.248.197:8080/live/amal/amal1/710.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Fox Sports 2" tvg-logo="http://ipsatpro.info/logo-Holand/fox_sports_2.png" group-title=“Holand”,NL: Suluk=>Fox Sports 2
+#EXTINF:-1,NL: Suluk=>Fox Sports 2
 http://212.8.248.197:8080/live/amal/amal1/711.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Fox Sports 3" tvg-logo="http://ipsatpro.info/logo-Holand/fox_sports_3.png" group-title=“Holand”,NL: Suluk=>Fox Sports 3
+#EXTINF:-1,NL: Suluk=>Fox Sports 3
 http://212.8.248.197:8080/live/amal/amal1/712.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Fox Sports 4" tvg-logo="http://ipsatpro.info/logo-Holand/fox_sports_4.jpg" group-title=“Holand”,NL: Suluk=>Fox Sports 4
+#EXTINF:-1,NL: Suluk=>Fox Sports 4
 http://212.8.248.197:8080/live/amal/amal1/713.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Fox Sports 5" tvg-logo="http://ipsatpro.info/logo-Holand/fox_sports_5.png" group-title=“Holand”,NL: Suluk=>Fox Sports 5
+#EXTINF:-1,NL: Suluk=>Fox Sports 5
 http://212.8.248.197:8080/live/amal/amal1/714.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Fox Sports 6" tvg-logo="http://ipsatpro.info/logo-Holand/index.png" group-title=“Holand”,NL: Suluk=>Fox Sports 6
+#EXTINF:-1,NL: Suluk=>Fox Sports 6
 http://212.8.248.197:8080/live/amal/amal1/743.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>EuroSport 1 HD" tvg-logo="http://ipsatpro.info/logo-Holand/nop101.png" group-title=“Holand”,NL: Suluk=>EuroSport 1 HD
+#EXTINF:-1,NL: Suluk=>EuroSport 1 HD
 http://212.8.248.197:8080/live/amal/amal1/734.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>EuroSport 2 HD" tvg-logo="" group-title=“Holand”,NL: Suluk=>EuroSport 2 HD
+#EXTINF:-1,NL: Suluk=>EuroSport 2 HD
 http://212.8.248.197:8080/live/amal/amal1/417.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Sport 1 Voetbal HD" tvg-logo="http://ipsatpro.info/logo-Holand/sport_nl_voetbal.png" group-title=“Holand”,NL: Suluk=>Sport 1 Voetbal HD
+#EXTINF:-1,NL: Suluk=>Sport 1 Voetbal HD
 http://212.8.248.197:8080/live/amal/amal1/709.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Sport 1 Select HD" tvg-logo="http://ipsatpro.info/logo-Holand/sport_nl_select.png" group-title=“Holand”,NL: Suluk=>Sport 1 Select HD
+#EXTINF:-1,NL: Suluk=>Sport 1 Select HD
 http://212.8.248.197:8080/live/amal/amal1/708.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Sport 1 Racing" tvg-logo="http://ipsatpro.info/logo-Holand/Sport-1-Racing.jpg" group-title=“Holand”,NL: Suluk=>Sport 1 Racing
+#EXTINF:-1,NL: Suluk=>Sport 1 Racing
 http://212.8.248.197:8080/live/amal/amal1/707.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Sport Extra 1" tvg-logo="http://ipsatpro.info/logo-Holand/sportxtr.jpg" group-title=“Holand”,NL: Suluk=>Sport Extra 1
+#EXTINF:-1,NL: Suluk=>Sport Extra 1
 http://212.8.248.197:8080/live/amal/amal1/735.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Sport Extra 2" tvg-logo="http://ipsatpro.info/logo-Holand/sportxtr.jpg" group-title=“Holand”,NL: Suluk=>Sport Extra 2
+#EXTINF:-1,NL: Suluk=>Sport Extra 2
 http://212.8.248.197:8080/live/amal/amal1/736.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Film 1 Action" tvg-logo="http://ipsatpro.info/logo-Holand/film1_action.png" group-title=“Holand”,NL: Suluk=>Film 1 Action
+#EXTINF:-1,NL: Suluk=>Film 1 Action
 http://212.8.248.197:8080/live/amal/amal1/721.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Film 1 Comedy and Kids" tvg-logo="http://ipsatpro.info/logo-Holand/film1_comedy_kids.png" group-title=“Holand”,NL: Suluk=>Film 1 Comedy and Kids
-http://212.8.248.197:8080/live/amal/amal1/722.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Film1 Spotlight" tvg-logo="http://ipsatpro.info/logo-Holand/Film1-Spotlight.jpg" group-title=“Holand”,NL: Suluk=>Film1 Spotlight
-http://212.8.248.197:8080/live/amal/amal1/702.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Film1 Premiere HD" tvg-logo="http://ipsatpro.info/logo-Holand/film1_premiere.png" group-title=“Holand”,NL: Suluk=>Film1 Premiere HD
-http://212.8.248.197:8080/live/amal/amal1/723.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Film 1 Sundance" tvg-logo="" group-title=“Holand”,NL: Suluk=>Film 1 Sundance
-http://212.8.248.197:8080/live/amal/amal1/414.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Veronica / Disney XD HD" tvg-logo="http://ipsatpro.info/logo-Holand/veronica.png" group-title=“Holand”,NL: Suluk=>Veronica / Disney XD HD
-http://212.8.248.197:8080/live/amal/amal1/726.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>NPO Zappelin Xtra/Humor TV" tvg-logo="http://ipsatpro.info/logo-Holand/npo_zappelin_xtra.png" group-title=“Holand”,NL: Suluk=>NPO Zappelin Xtra/Humor TV
-http://212.8.248.197:8080/live/amal/amal1/739.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Discovery ID" tvg-logo="http://ipsatpro.info/logo-Holand/comdycntralxtra.png" group-title=“Holand”,NL: Suluk=>Discovery ID
-http://212.8.248.197:8080/live/amal/amal1/733.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Discovery Channle" tvg-logo="http://ipsatpro.info/logo-Holand/discovery_global_us.png" group-title=“Holand”,NL: Suluk=>Discovery Channle
-http://212.8.248.197:8080/live/amal/amal1/704.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Discovery Showcase HD" tvg-logo="http://ipsatpro.info/logo-Holand/fox_lif.png" group-title=“Holand”,NL: Suluk=>Discovery Showcase HD
-http://212.8.248.197:8080/live/amal/amal1/732.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>National Geographic" tvg-logo="http://ipsatpro.info/logo-Holand/National-Geographic.jpg" group-title=“Holand”,NL: Suluk=>National Geographic
-http://212.8.248.197:8080/live/amal/amal1/725.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Nat Geo Wild HD" tvg-logo="" group-title=“Holand”,NL: Suluk=>Nat Geo Wild HD
-http://212.8.248.197:8080/live/amal/amal1/416.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Animal Planet" tvg-logo="" group-title=“Holand”,NL: Suluk=>Animal Planet
-http://212.8.248.197:8080/live/amal/amal1/410.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Cartoon Network" tvg-logo="" group-title=“Holand”,NL: Suluk=>Cartoon Network
-http://212.8.248.197:8080/live/amal/amal1/413.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Disney Channel" tvg-logo="http://ipsatpro.info/logo-Holand/disney_channel_global.png" group-title=“Holand”,NL: Suluk=>Disney Channel
-http://212.8.248.197:8080/live/amal/amal1/706.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Nickelodeon" tvg-logo="http://ipsatpro.info/logo-Holand/Nickelodeon.png" group-title=“Holand”,NL: Suluk=>Nickelodeon
-http://212.8.248.197:8080/live/amal/amal1/727.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Nicktoons" tvg-logo="http://ipsatpro.info/logo-Holand/hbo3_nl.png" group-title=“Holand”,NL: Suluk=>Nicktoons
-http://212.8.248.197:8080/live/amal/amal1/720.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Nick JR" tvg-logo="http://ipsatpro.info/logo-Holand/hbo_nl_hd.png" group-title=“Holand”,NL: Suluk=>Nick JR
-http://212.8.248.197:8080/live/amal/amal1/718.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Disney Junior" tvg-logo="http://ipsatpro.info/logo-Holand/hbo2_nl.png" group-title=“Holand”,NL: Suluk=>Disney Junior
-http://212.8.248.197:8080/live/amal/amal1/719.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Boomerang" tvg-logo="" group-title=“Holand”,NL: Suluk=>Boomerang
-http://212.8.248.197:8080/live/amal/amal1/412.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Baby TV" tvg-logo="" group-title=“Holand”,NL: Suluk=>Baby TV
-http://212.8.248.197:8080/live/amal/amal1/411.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Spike" tvg-logo="" group-title=“Holand”,NL: Suluk=>Spike
-http://212.8.248.197:8080/live/amal/amal1/415.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Comedy Central" tvg-logo="http://ipsatpro.info/logo-Holand/comedy-central.png" group-title=“Holand”,NL: Suluk=>Comedy Central
-http://212.8.248.197:8080/live/amal/amal1/703.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>MTV Nederland" tvg-logo="http://ipsatpro.info/logo-Holand/100_procent_nl.png" group-title=“Holand”,NL: Suluk=>MTV Nederland
-http://212.8.248.197:8080/live/amal/amal1/737.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>RTL Lounge" tvg-logo="http://ipsatpro.info/logo-Holand/salam.jpg" group-title=“Holand”,NL: Suluk=>RTL Lounge
-http://212.8.248.197:8080/live/amal/amal1/740.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>RTL CRIME" tvg-logo="http://ipsatpro.info/logo-Holand/at5.png" group-title=“Holand”,NL: Suluk=>RTL CRIME
-http://212.8.248.197:8080/live/amal/amal1/705.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>Fox" tvg-logo="http://ipsatpro.info/logo-Holand/fox_global.png" group-title=“Holand”,NL: Suluk=>Fox
-http://212.8.248.197:8080/live/amal/amal1/700.ts
-#EXTINF:-1 tvg-id="" tvg-name=“NL: Suluk=>TLC" tvg-logo="http://ipsatpro.info/logo-Holand/tlc_us.png" group-title=“Holand”,NL: Suluk=>TLC
-http://212.8.248.197:8080/live/amal/amal1/728.ts
 
-
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Sport News" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Sport News
-http://212.8.248.197:8080/live/amal/amal1/759.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Sport +1" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Sport +1
-http://212.8.248.197:8080/live/amal/amal1/761.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Sport 1 HD" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Sport 1 HD
-http://212.8.248.197:8080/live/amal/amal1/829.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Sport 2 HD" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Sport 2 HD
-http://212.8.248.197:8080/live/amal/amal1/826.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Sport 1" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Sport 1
-http://212.8.248.197:8080/live/amal/amal1/827.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Sport 2" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Sport 2
-http://212.8.248.197:8080/live/amal/amal1/828.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Eurosport" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Eurosport
-http://212.8.248.197:8080/live/amal/amal1/809.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Sport Austria" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Sport Austria
-http://212.8.248.197:8080/live/amal/amal1/807.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Bundesliga HD 1" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Bundesliga HD 1
+#EXTINF:-1,GR: Suluk=>Sky Bundesliga HD 1
 http://212.8.248.197:8080/live/amal/amal1/810.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Bundesliga 2" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Bundesliga 2
+#EXTINF:-1,GR: Suluk=>Sky Bundesliga 2
 http://212.8.248.197:8080/live/amal/amal1/831.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Bundesliga 3" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Bundesliga 3
+#EXTINF:-1,GR: Suluk=>Sky Bundesliga 3
 http://212.8.248.197:8080/live/amal/amal1/832.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Bundesliga 4" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Bundesliga 4
+#EXTINF:-1,GR: Suluk=>Sky Bundesliga 4
 http://212.8.248.197:8080/live/amal/amal1/833.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Bundesliga 5" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Bundesliga 5
+#EXTINF:-1,GR: Suluk=>Sky Bundesliga 5
 http://212.8.248.197:8080/live/amal/amal1/834.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Bundesliga 6" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Bundesliga 6
+#EXTINF:-1,GR: Suluk=>Sky Bundesliga 6
 http://212.8.248.197:8080/live/amal/amal1/835.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Bundesliga 7" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Bundesliga 7
+#EXTINF:-1,GR: Suluk=>Sky Bundesliga 7
 http://212.8.248.197:8080/live/amal/amal1/836.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Bundesliga 8" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Bundesliga 8
+#EXTINF:-1,GR: Suluk=>Sky Bundesliga 8
 http://212.8.248.197:8080/live/amal/amal1/837.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Bundesliga 9" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Bundesliga 9
+#EXTINF:-1,GR: Suluk=>Sky Bundesliga 9
 http://212.8.248.197:8080/live/amal/amal1/838.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Sport 3 (Only at Games)" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Sport 3 (Only at Games)
-http://212.8.248.197:8080/live/amal/amal1/839.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Sport 4 (Only at Games)" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Sport 4 (Only at Games)
-http://212.8.248.197:8080/live/amal/amal1/840.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Sport 5 (Only at Games)" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Sport 5 (Only at Games)
-http://212.8.248.197:8080/live/amal/amal1/841.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Sport 6 (Only at Games)" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Sport 6 (Only at Games)
-http://212.8.248.197:8080/live/amal/amal1/842.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Sport 7 (Only at Games)" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Sport 7 (Only at Games)
-http://212.8.248.197:8080/live/amal/amal1/843.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Sport 8 (Only at Games)" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Sport 8 (Only at Games)
-http://212.8.248.197:8080/live/amal/amal1/844.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Sport 9 (Only at Games)" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Sport 9 (Only at Games)
-http://212.8.248.197:8080/live/amal/amal1/845.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Sport 10 (Only at Games)" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Sport 10 (Only at Games)
-http://212.8.248.197:8080/live/amal/amal1/830.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Select 1" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Select 1
-http://212.8.248.197:8080/live/amal/amal1/825.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Select 2" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Select 2
-http://212.8.248.197:8080/live/amal/amal1/824.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Select 3" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Select 3
-http://212.8.248.197:8080/live/amal/amal1/823.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Select 4" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Select 4
-http://212.8.248.197:8080/live/amal/amal1/822.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Select 5" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Select 5
-http://212.8.248.197:8080/live/amal/amal1/821.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Select 6" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Select 6
-http://212.8.248.197:8080/live/amal/amal1/820.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Select 7" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Select 7
-http://212.8.248.197:8080/live/amal/amal1/819.ts
-#EXTINF:-1 tvg-id="" tvg-name=“GR: Suluk=>Sky Select 8" tvg-logo="" group-title=“Germany”,GR: Suluk=>Sky Select 8
-http://212.8.248.197:8080/live/amal/amal1/818.ts
 
-
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>Spor tv 1" tvg-logo="" group-title="Portugal”,PT: Suluk=>Spor tv 1
+#EXTINF:-1,PT: Suluk=>SporTV 1
 http://212.8.248.197:8080/live/amal/amal1/880.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>SporTV 2" tvg-logo="" group-title="Portugal”,PT: Suluk=>SporTV 2
+#EXTINF:-1,PT: Suluk=>SporTV 2
 http://212.8.248.197:8080/live/amal/amal1/881.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>SporTV 3" tvg-logo="" group-title="Portugal”,PT: Suluk=>SporTV 3
+#EXTINF:-1,PT: SporTV 3
 http://212.8.248.197:8080/live/amal/amal1/882.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>SporTV 4" tvg-logo="" group-title="Portugal”,PT: Suluk=>SporTV 4
+#EXTINF:-1,PT: Suluk=>SporTV 4
 http://212.8.248.197:8080/live/amal/amal1/883.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>SporTV 5" tvg-logo="" group-title="Portugal”,PT: Suluk=>SporTV 5
+#EXTINF:-1,PT: Suluk=>SporTV 5
 http://212.8.248.197:8080/live/amal/amal1/884.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>Sporting TV HD" tvg-logo="" group-title="Portugal”,PT: Suluk=>Sporting TV HD
+#EXTINF:-1,PT: Suluk=>Sporting TV HD
 http://212.8.248.197:8080/live/amal/amal1/885.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>Sport TV" tvg-logo="" group-title="Portugal”,PT: Suluk=>Sport TV
+#EXTINF:-1,PT: Suluk=>Sport TV
 http://212.8.248.197:8080/live/amal/amal1/899.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>Benfica TV 1" tvg-logo="" group-title="Portugal”,PT: Suluk=>Benfica TV 1
+#EXTINF:-1,PT:  Suluk=>Benfica TV 1
 http://212.8.248.197:8080/live/amal/amal1/900.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>AXN HD" tvg-logo="" group-title="Portugal”,PT: Suluk=>AXN HD
-http://212.8.248.197:8080/live/amal/amal1/915.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>Axn White HD" tvg-logo="" group-title="Portugal”,PT: Suluk=>Axn White HD
-http://212.8.248.197:8080/live/amal/amal1/916.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>Axn Black HD" tvg-logo="" group-title="Portugal”,PT: Suluk=>Axn Black HD
-http://212.8.248.197:8080/live/amal/amal1/932.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>Fox HD" tvg-logo="" group-title="Portugal”,PT: Suluk=>Fox HD
-http://212.8.248.197:8080/live/amal/amal1/926.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>Fox Crime" tvg-logo="" group-title="Portugal”,PT: Suluk=>Fox Crime
-http://212.8.248.197:8080/live/amal/amal1/901.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>Fox Life HD" tvg-logo="" group-title="Portugal”,PT: Suluk=>Fox Life HD
-http://212.8.248.197:8080/live/amal/amal1/925.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>Fox Comedy" tvg-logo="" group-title="Portugal”,PT: Suluk=>Fox Comedy
-http://212.8.248.197:8080/live/amal/amal1/923.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>Fox Movies HD" tvg-logo="" group-title="Portugal”,PT: Suluk=>Fox Movies HD
-http://212.8.248.197:8080/live/amal/amal1/929.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>TVI" tvg-logo="" group-title="Portugal”,PT: Suluk=>TVI
-http://212.8.248.197:8080/live/amal/amal1/889.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>TVI 24" tvg-logo="" group-title="Portugal”,PT: Suluk=>TVI 24
-http://212.8.248.197:8080/live/amal/amal1/887.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>TV Globo" tvg-logo="" group-title="Portugal”,PT: Suluk=>TV Globo
-http://212.8.248.197:8080/live/amal/amal1/888.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>RTP 1" tvg-logo="" group-title="Portugal”,PT: Suluk=>RTP 1
-http://212.8.248.197:8080/live/amal/amal1/895.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>RTP 2" tvg-logo="" group-title="Portugal”,PT: Suluk=>RTP 2
-http://212.8.248.197:8080/live/amal/amal1/894.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>RTP Memoria" tvg-logo="" group-title="Portugal”,PT: Suluk=>RTP Memoria
-http://212.8.248.197:8080/live/amal/amal1/890.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>RTP Madeira" tvg-logo="" group-title="Portugal”,PT: Suluk=>RTP Madeira
-http://212.8.248.197:8080/live/amal/amal1/891.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>RTP Acores" tvg-logo="" group-title="Portugal”,PT: Suluk=>RTP Acores
-http://212.8.248.197:8080/live/amal/amal1/893.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>TLC" tvg-logo="" group-title="Portugal”,PT: Suluk=>TLC
-http://212.8.248.197:8080/live/amal/amal1/878.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>Travel Channel" tvg-logo="" group-title="Portugal”,PT: Suluk=>Travel Channel
-http://212.8.248.197:8080/live/amal/amal1/877.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>CM TV" tvg-logo="" group-title="Portugal”,PT: Suluk=>CM TV
-http://212.8.248.197:8080/live/amal/amal1/908.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>TV Globo Premium" tvg-logo="" group-title="Portugal”,PT: Suluk=>TV Globo Premium
-http://212.8.248.197:8080/live/amal/amal1/931.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>PFC" tvg-logo="" group-title="Portugal”,PT: Suluk=>PFC
-http://212.8.248.197:8080/live/amal/amal1/911.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>Jim Jim" tvg-logo="" group-title="Portugal”,PT: Suluk=>Jim Jim
-http://212.8.248.197:8080/live/amal/amal1/918.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>SyFy" tvg-logo="" group-title="Portugal”,PT: Suluk=>SyFy
-http://212.8.248.197:8080/live/amal/amal1/902.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>Cartoon Network" tvg-logo="" group-title="Portugal”,PT: Suluk=>Cartoon Network
-http://212.8.248.197:8080/live/amal/amal1/920.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>Motors TV" tvg-logo="" group-title="Portugal”,PT: Suluk=>Motors TV
-http://212.8.248.197:8080/live/amal/amal1/921.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>EuroSport News" tvg-logo="" group-title="Portugal”,PT: Suluk=>EuroSport News
-http://212.8.248.197:8080/live/amal/amal1/922.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>Hollywood" tvg-logo="" group-title="Portugal”,PT: Suluk=>Hollywood
-http://212.8.248.197:8080/live/amal/amal1/907.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>EuroSport 2" tvg-logo="" group-title="Portugal”,PT: Suluk=>EuroSport 2
-http://212.8.248.197:8080/live/amal/amal1/927.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>EuroSport" tvg-logo="" group-title="Portugal”,PT: Suluk=>EuroSport
-http://212.8.248.197:8080/live/amal/amal1/928.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>Disney Junior" tvg-logo="" group-title="Portugal”,PT: Suluk=>Disney Junior
-http://212.8.248.197:8080/live/amal/amal1/905.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>Disney Channel" tvg-logo="" group-title="Portugal”,PT: Suluk=>Disney Channel
-http://212.8.248.197:8080/live/amal/amal1/904.ts
-#EXTINF:-1 tvg-id="" tvg-name=“PT: Suluk=>Discovery HD" tvg-logo="" group-title="Portugal”,PT: Suluk=>Discovery HD
-http://212.8.248.197:8080/live/amal/amal1/906.ts
 
-
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Beuot Q Sport 1 HD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Beuot Q Sport 1 HD
+#EXTINF:-1,AR: Suluk=>Beuot Q Sport 1 HD
 http://212.8.248.197:8080/live/amal/amal1/171.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Beuot Q Sport 2 HD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Beuot Q Sport 2 HD
+#EXTINF:-1,AR: Suluk=>Beuot Q Sport 2 HD
 http://212.8.248.197:8080/live/amal/amal1/174.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Beuot Q Sport 3 HD" tvg-logo=““ group-title=“,AR: Suluk=>Beuot Q Sport 3 HD
+#EXTINF:-1,AR: Suluk=>Beuot Q Sport 3 HD
 http://212.8.248.197:8080/live/amal/amal1/2482.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Beuot Q Sport 4 HD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Beuot Q Sport 4 HD
+#EXTINF:-1,AR: Suluk=>Beuot Q Sport 4 HD
 http://212.8.248.197:8080/live/amal/amal1/2483.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Beuot Q Sport 5 HD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Beuot Q Sport 5 HD
+#EXTINF:-1,AR: Suluk=>Beuot Q Sport 5 HD
 http://212.8.248.197:8080/live/amal/amal1/2484.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Beuot Q Sport 6 HD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Beuot Q Sport 6 HD
+#EXTINF:-1,AR: Suluk=>Beuot Q Sport 6 HD
 http://212.8.248.197:8080/live/amal/amal1/2485.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Beuot Q Sport 7 HD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Beuot Q Sport 7 HD
+#EXTINF:-1,AR: Suluk=>Beuot Q Sport 7 HD
 http://212.8.248.197:8080/live/amal/amal1/2486.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Sport 1 HD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Sport 1 HD
+#EXTINF:-1,AR: Suluk=>Bein Sport 1 HD
 http://212.8.248.197:8080/live/amal/amal1/169.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Sport 2 HD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Sport 2 HD
+#EXTINF:-1,AR: Suluk=>Bein Sport 2 HD
 http://212.8.248.197:8080/live/amal/amal1/168.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Sport 3 HD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Sport 3 HD
+#EXTINF:-1,AR: Suluk=>Bein Sport 3 HD
 http://212.8.248.197:8080/live/amal/amal1/167.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Sport 4 HD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Sport 4 HD
+#EXTINF:-1,AR: Suluk=>Bein Sport 4 HD
 http://212.8.248.197:8080/live/amal/amal1/166.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Sport 5 HD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Sport 5 HD
+#EXTINF:-1,AR: Suluk=>Bein Sport 5 HD
 http://212.8.248.197:8080/live/amal/amal1/165.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Sport 6 HD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Sport 6 HD
+#EXTINF:-1,AR: Suluk=>Bein Sport 6 HD
 http://212.8.248.197:8080/live/amal/amal1/164.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Sport 7 HD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Sport 7 HD
+#EXTINF:-1,AR: Suluk=>Bein Sport 7 HD
 http://212.8.248.197:8080/live/amal/amal1/163.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Sport 8 HD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Sport 8 HD
+#EXTINF:-1,AR: Suluk=>Bein Sport 8 HD
 http://212.8.248.197:8080/live/amal/amal1/162.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Sport 9 HD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Sport 9 HD
+#EXTINF:-1,AR: Suluk=>Bein Sport 9 HD
 http://212.8.248.197:8080/live/amal/amal1/161.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Sport 10 HD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Sport 10 HD
+#EXTINF:-1,AR: Suluk=>Bein Sport 10 HD
 http://212.8.248.197:8080/live/amal/amal1/160.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Sport 11 HD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Sport 11 HD
+#EXTINF:-1,AR: Suluk=>Bein Sport 11 HD
 http://212.8.248.197:8080/live/amal/amal1/159.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Sport 12 HD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Sport 12 HD
+#EXTINF:-1,AR: Suluk=>Bein Sport 12 HD
 http://212.8.248.197:8080/live/amal/amal1/170.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Sport 1 SD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Sport 1 SD
-http://212.8.248.197:8080/live/amal/amal1/2456.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Sport 2 SD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Sport 2 SD
-http://212.8.248.197:8080/live/amal/amal1/2457.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Sport 3 SD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Sport 3 SD
-http://212.8.248.197:8080/live/amal/amal1/2458.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Sport 4 SD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Sport 4 SD
-http://212.8.248.197:8080/live/amal/amal1/2459.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Sport 5 SD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Sport 5 SD
-http://212.8.248.197:8080/live/amal/amal1/2460.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Sport 6 SD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Sport 6 SD
-http://212.8.248.197:8080/live/amal/amal1/2461.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Sport 7 SD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Sport 7 SD
-http://212.8.248.197:8080/live/amal/amal1/2462.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Sport 8 SD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Sport 8 SD
-http://212.8.248.197:8080/live/amal/amal1/2463.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Sport 9 SD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Sport 9 SD
-http://212.8.248.197:8080/live/amal/amal1/2464.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Sport 10 SD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Sport 10 SD
-http://212.8.248.197:8080/live/amal/amal1/2465.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Sport 11 SD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Sport 11 SD
-http://212.8.248.197:8080/live/amal/amal1/2466.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Sport 12 SD" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Sport 12 SD
 http://212.8.248.197:8080/live/amal/amal1/2467.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Movies 1" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Movies 1
+#EXTINF:-1,AR: Suluk=>Bein Movies 1
 http://212.8.248.197:8080/live/amal/amal1/175.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Movies 2" tvg-logo="" group-title="Bein Sport”,AR: Suluk=>Bein Movies 2
+#EXTINF:-1,AR: Suluk=>Bein Movies 2
 http://212.8.248.197:8080/live/amal/amal1/176.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Movies 3" tvg-logo=““ group-title=“,AR: Suluk=>Bein Movies 3
+#EXTINF:-1,AR: Suluk=>Bein Movies 3
 http://212.8.248.197:8080/live/amal/amal1/177.ts
-#EXTINF:-1 tvg-id="" tvg-name=“AR: Suluk=>Bein Movies 4" tvg-logo=““ group-title=“,AR: Suluk=>Bein Movies 4
+#EXTINF:-1,AR: Suluk=>Bein Movies 4
 http://212.8.248.197:8080/live/amal/amal1/178.ts
 
 
