@@ -1,214 +1,212 @@
-#EXTM3U
-
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Liverpool FC TV HD
+#EXTINF:-1 group-title=“UK", Suluk=>Liverpool FC TV HD
 http://212.8.248.197:8080/live/amal/amal1/536.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky News HD
+#EXTINF:-1 group-title=“UK”, Suluk=>News HD
 http://212.8.248.197:8080/live/amal/amal1/550.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky RTE News
+#EXTINF:-1 group-title=“UK”, Suluk=>RTE News
 http://212.8.248.197:8080/live/amal/amal1/431.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky BBC News
+#EXTINF:-1 group-title=“UK”, Suluk=>BBC News
 http://212.8.248.197:8080/live/amal/amal1/428.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Sports News
+#EXTINF:-1 group-title=“UK”, Suluk=>Sports News
 http://212.8.248.197:8080/live/amal/amal1/549.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky BT Sport 1
+#EXTINF:-1 group-title=“UK”, Suluk=>BT Sport 1
 http://212.8.248.197:8080/live/amal/amal1/543.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky BT Sport 2
+#EXTINF:-1 group-title=“UK”, Suluk=>BT Sport 2
 http://212.8.248.197:8080/live/amal/amal1/542.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky BT Sport 1 HD
+#EXTINF:-1 group-title=“UK”, Suluk=>BT Sport 1 HD
 http://212.8.248.197:8080/live/amal/amal1/528.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky BT Sport 2 HD
+#EXTINF:-1 group-title=“UK”, Suluk=>BT Sport 2 HD
 http://212.8.248.197:8080/live/amal/amal1/527.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky BT Sport ESPN
+#EXTINF:-1 group-title=“UK”, Suluk=>BT Sport ESPN
 http://212.8.248.197:8080/live/amal/amal1/479.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky BT Sport 3 (Ex Europe)
+#EXTINF:-1 group-title=“UK”, Suluk=>BT Sport 3 (Ex Europe)
 http://212.8.248.197:8080/live/amal/amal1/453.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky BT Sports Extra 1
+#EXTINF:-1 group-title=“UK”, Suluk=>BT Sports Extra 1
 http://212.8.248.197:8080/live/amal/amal1/533.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky BT Sports Extra 2
+#EXTINF:-1 group-title=“UK”, Suluk=>BT Sports Extra 2
 http://212.8.248.197:8080/live/amal/amal1/532.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky ROK
+#EXTINF:-1 group-title=“UK”, Suluk=>ROK
 http://212.8.248.197:8080/live/amal/amal1/531.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky YourTV HD
+#EXTINF:-1 group-title=“UK”, Suluk=>YourTV HD
 http://212.8.248.197:8080/live/amal/amal1/530.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Sports Box Office HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Sports Box Office HD
 http://212.8.248.197:8080/live/amal/amal1/529.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Eurosport 1 HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Eurosport 1 HD
 http://212.8.248.197:8080/live/amal/amal1/541.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Eurosport 2 HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Eurosport 2 HD
 http://212.8.248.197:8080/live/amal/amal1/540.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Eir Sport 1
+#EXTINF:-1 group-title=“UK”, Suluk=>Eir Sport 1
 http://212.8.248.197:8080/live/amal/amal1/1566.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Eir Sport 2
+#EXTINF:-1 group-title=“UK”, Suluk=>Eir Sport 2
 http://212.8.248.197:8080/live/amal/amal1/1567.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky motorsport.tv
+#EXTINF:-1 group-title=“UK”, Suluk=>motorsport.tv
 http://212.8.248.197:8080/live/amal/amal1/1555.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Sports F1
+#EXTINF:-1 group-title=“UK”, Suluk=>Sports F1
 http://212.8.248.197:8080/live/amal/amal1/539.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Sport AU 1
+#EXTINF:-1 group-title=“UK”, Suluk=>Sport AU 1
 http://212.8.248.197:8080/live/amal/amal1/438.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Sports Action
+#EXTINF:-1 group-title=“UK”, Suluk=>Sports Action
 http://212.8.248.197:8080/live/amal/amal1/1560.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Sports Action HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Sports Action HD
 http://212.8.248.197:8080/live/amal/amal1/545.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Sports Premier
+#EXTINF:-1 group-title=“UK”, Suluk=>Sports Premier
 http://212.8.248.197:8080/live/amal/amal1/1565.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Sports Premier League
+#EXTINF:-1 group-title=“UK”, Suluk=>Sports Premier League
 http://212.8.248.197:8080/live/amal/amal1/1562.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Sports Premier League HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Sports Premier League HD
 http://212.8.248.197:8080/live/amal/amal1/544.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Sports Main Event
+#EXTINF:-1 group-title=“UK”, Suluk=>Sports Main Event
 http://212.8.248.197:8080/live/amal/amal1/1561.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Sports Main Event HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Sports Main Event HD
 http://212.8.248.197:8080/live/amal/amal1/546.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Sports Golf
+#EXTINF:-1 group-title=“UK”, Suluk=>Sports Golf
 http://212.8.248.197:8080/live/amal/amal1/548.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Sports Golf HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Sports Golf HD
 http://212.8.248.197:8080/live/amal/amal1/1563.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Sports Cricket
+#EXTINF:-1 group-title=“UK”, Suluk=>Sports Cricket
 http://212.8.248.197:8080/live/amal/amal1/1564.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Sports Cricket HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Sports Cricket HD
 http://212.8.248.197:8080/live/amal/amal1/547.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Sport Arena
+#EXTINF:-1 group-title=“UK”, Suluk=>Sport Arena
 http://212.8.248.197:8080/live/amal/amal1/1558.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Sport Football
+#EXTINF:-1 group-title=“UK”, Suluk=>Sport Football
 http://212.8.248.197:8080/live/amal/amal1/1559.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Sports Mix HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Sports Mix HD
 http://212.8.248.197:8080/live/amal/amal1/513.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Setanta Sports
+#EXTINF:-1 group-title=“UK”, Suluk=>Setanta Sports
 http://212.8.248.197:8080/live/amal/amal1/484.ts
-#EXTINF:-1 group-title=“Sky-UK”, UK: Sky At the Races
+#EXTINF:-1 group-title=“UK”, UK: Sky At the Races
 http://212.8.248.197:8080/live/amal/amal1/461.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Cinema Box Office 1 HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Cinema Box Office 1 HD
 http://212.8.248.197:8080/live/amal/amal1/421.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Cinema Box Office 2 HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Cinema Box Office 2 HD
 http://212.8.248.197:8080/live/amal/amal1/420.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Cinema Box Office 3 HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Cinema Box Office 3 HD
 http://212.8.248.197:8080/live/amal/amal1/419.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Cinema Box Office 4 HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Cinema Box Office 4 HD
 http://212.8.248.197:8080/live/amal/amal1/1542.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Movies Premiere HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Movies Premiere HD
 http://212.8.248.197:8080/live/amal/amal1/519.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Movies Disney
+#EXTINF:-1 group-title=“UK”, Suluk=>Movies Disney
 http://212.8.248.197:8080/live/amal/amal1/516.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Movies Select HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Movies Select HD
 http://212.8.248.197:8080/live/amal/amal1/517.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Movies Action HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Movies Action HD
 http://212.8.248.197:8080/live/amal/amal1/511.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Movies Greats
+#EXTINF:-1 group-title=“UK”, Suluk=>Movies Greats
 http://212.8.248.197:8080/live/amal/amal1/518.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Movies Family HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Movies Family HD
 http://212.8.248.197:8080/live/amal/amal1/520.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Movies Drama HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Movies Drama HD
 http://212.8.248.197:8080/live/amal/amal1/521.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Movies Comedy HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Movies Comedy HD
 http://212.8.248.197:8080/live/amal/amal1/524.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Home & Health
+#EXTINF:-1 group-title=“UK”, Suluk=>Home & Health
 http://212.8.248.197:8080/live/amal/amal1/1547.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Hits Movies
+#EXTINF:-1 group-title=“UK”, Suluk=>Hits Movies
 http://212.8.248.197:8080/live/amal/amal1/512.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Movies Sci-Fi+
+#EXTINF:-1 group-title=“UK”, Suluk=>Movies Sci-Fi+
 http://212.8.248.197:8080/live/amal/amal1/515.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Watch
+#EXTINF:-1 group-title=“UK”, Suluk=>Watch
 http://212.8.248.197:8080/live/amal/amal1/523.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky True Movies 1
+#EXTINF:-1 group-title=“UK”, Suluk=>True Movies 1
 http://212.8.248.197:8080/live/amal/amal1/472.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky True Movies 2
+#EXTINF:-1 group-title=“UK”, Suluk=>True Movies 2
 http://212.8.248.197:8080/live/amal/amal1/534.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky True Entertaimnt
+#EXTINF:-1 group-title=“UK”, Suluk=>True Entertaimnt
 http://212.8.248.197:8080/live/amal/amal1/1546.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky More 4 HD
+#EXTINF:-1 group-title=“UK”, Suluk=>More 4 HD
 http://212.8.248.197:8080/live/amal/amal1/504.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Movies4Men
+#EXTINF:-1 group-title=“UK”, Suluk=>Movies4Men
 http://212.8.248.197:8080/live/amal/amal1/1557.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Horse & Country
+#EXTINF:-1 group-title=“UK”, Suluk=>Horse & Country
 http://212.8.248.197:8080/live/amal/amal1/1549.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Home
+#EXTINF:-1 group-title=“UK”, Suluk=>Home
 http://212.8.248.197:8080/live/amal/amal1/1553.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Quest
+#EXTINF:-1 group-title=“UK”, Suluk=>Quest
 http://212.8.248.197:8080/live/amal/amal1/1551.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Really
+#EXTINF:-1 group-title=“UK”, Suluk=>Really
 http://212.8.248.197:8080/live/amal/amal1/1552.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Travel Channel
+#EXTINF:-1 group-title=“UK”, Suluk=>Travel Channel
 http://212.8.248.197:8080/live/amal/amal1/1556.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky ITV 1
+#EXTINF:-1 group-title=“UK”, Suluk=>ITV 1
 http://212.8.248.197:8080/live/amal/amal1/471.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky ITV 2
+#EXTINF:-1 group-title=“UK”, Suluk=>ITV 2
 http://212.8.248.197:8080/live/amal/amal1/470.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky ITV 3
+#EXTINF:-1 group-title=“UK”, Suluk=>ITV 3
 http://212.8.248.197:8080/live/amal/amal1/469.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky ITV 4
+#EXTINF:-1 group-title=“UK”, Suluk=>ITV 4
 http://212.8.248.197:8080/live/amal/amal1/468.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky ITV Be
+#EXTINF:-1 group-title=“UK”, Suluk=>ITV Be
 http://212.8.248.197:8080/live/amal/amal1/429.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky ITV Encore
+#EXTINF:-1 group-title=“UK”, Suluk=>ITV Encore
 http://212.8.248.197:8080/live/amal/amal1/467.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky BBC One HD
+#EXTINF:-1 group-title=“UK”, Suluk=>BBC One HD
 http://212.8.248.197:8080/live/amal/amal1/488.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky BBC Two HD
+#EXTINF:-1 group-title=“UK”, Suluk=>BBC Two HD
 http://212.8.248.197:8080/live/amal/amal1/487.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky BBC Three HD
+#EXTINF:-1 group-title=“UK”, Suluk=>BBC Three HD
 http://212.8.248.197:8080/live/amal/amal1/486.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky BBC Four HD
+#EXTINF:-1 group-title=“UK”, Suluk=>BBC Four HD
 http://212.8.248.197:8080/live/amal/amal1/485.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Channel 4 HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Channel 4 HD
 http://212.8.248.197:8080/live/amal/amal1/426.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Channel 5 HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Channel 5 HD
 http://212.8.248.197:8080/live/amal/amal1/427.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Sony Movies
+#EXTINF:-1 group-title=“UK”, Suluk=>Sony Movies
 http://212.8.248.197:8080/live/amal/amal1/501.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Bloomberg HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Bloomberg HD
 http://212.8.248.197:8080/live/amal/amal1/457.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Boomerang
+#EXTINF:-1 group-title=“UK”, Suluk=>Boomerang
 http://212.8.248.197:8080/live/amal/amal1/444.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Cartoon Network
+#EXTINF:-1 group-title=“UK”, Suluk=>Cartoon Network
 http://212.8.248.197:8080/live/amal/amal1/522.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Nickelodeon
+#EXTINF:-1 group-title=“UK”, Suluk=>Nickelodeon
 http://212.8.248.197:8080/live/amal/amal1/503.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Nickelodeon JR
+#EXTINF:-1 group-title=“UK”, Suluk=>Nickelodeon JR
 http://212.8.248.197:8080/live/amal/amal1/423.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky NickToons
+#EXTINF:-1 group-title=“UK”, Suluk=>NickToons
 http://212.8.248.197:8080/live/amal/amal1/446.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Disney XD HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Disney XD HD
 http://212.8.248.197:8080/live/amal/amal1/493.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Disney Junior HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Disney Junior HD
 http://212.8.248.197:8080/live/amal/amal1/494.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Disney Chaneel HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Disney Chaneel HD
 http://212.8.248.197:8080/live/amal/amal1/492.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Discovery Science
+#EXTINF:-1 group-title=“UK”, Suluk=>Discovery Science
 http://212.8.248.197:8080/live/amal/amal1/526.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Discovery History
+#EXTINF:-1 group-title=“UK”, Suluk=>Discovery History
 http://212.8.248.197:8080/live/amal/amal1/491.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Discovery Turbo
+#EXTINF:-1 group-title=“UK”, Suluk=>Discovery Turbo
 http://212.8.248.197:8080/live/amal/amal1/465.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Discovery Shed
+#EXTINF:-1 group-title=“UK”, Suluk=>Discovery Shed
 http://212.8.248.197:8080/live/amal/amal1/445.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Discovery
+#EXTINF:-1 group-title=“UK”, Suluk=>Discovery
 http://212.8.248.197:8080/live/amal/amal1/464.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky National Geographic HD
+#EXTINF:-1 group-title=“UK”, Suluk=>National Geographic HD
 http://212.8.248.197:8080/live/amal/amal1/499.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Nat Geo Wild HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Nat Geo Wild HD
 http://212.8.248.197:8080/live/amal/amal1/498.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Animal Planet HD
+#EXTINF:-1 group-title=“UK”, Suluk=>Animal Planet HD
 http://212.8.248.197:8080/live/amal/amal1/497.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky History HD
+#EXTINF:-1 group-title=“UK”, Suluk=>History HD
 http://212.8.248.197:8080/live/amal/amal1/496.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky History 2
+#EXTINF:-1 group-title=“UK”, Suluk=>History 2
 http://212.8.248.197:8080/live/amal/amal1/452.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky MTV
+#EXTINF:-1 group-title=“UK”, Suluk=>MTV
 http://212.8.248.197:8080/live/amal/amal1/1550.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky MTV Rocks HD
+#EXTINF:-1 group-title=“UK”, Suluk=>MTV Rocks HD
 http://212.8.248.197:8080/live/amal/amal1/442.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky MTV Hits HD
+#EXTINF:-1 group-title=“UK”, Suluk=>MTV Hits HD
 http://212.8.248.197:8080/live/amal/amal1/443.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky MTV Dance HD
+#EXTINF:-1 group-title=“UK”, Suluk=>MTV Dance HD
 http://212.8.248.197:8080/live/amal/amal1/441.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky MTV Classic
+#EXTINF:-1 group-title=“UK”, Suluk=>MTV Classic
 http://212.8.248.197:8080/live/amal/amal1/500.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky MTV Base
+#EXTINF:-1 group-title=“UK”, Suluk=>MTV Base
 http://212.8.248.197:8080/live/amal/amal1/440.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky Fine Living Network
+#EXTINF:-1 group-title=“UK”, Suluk=>Fine Living Network
 http://212.8.248.197:8080/live/amal/amal1/1544.ts
-#EXTINF:-1 group-title=“Sky-UK”, Suluk=>Sky 4Music
+#EXTINF:-1 group-title=“UK”, Suluk=>4Music
 http://212.8.248.197:8080/live/amal/amal1/1543.ts
 
 #EXTINF:-1 group-title=“USA”,US: Suluk=>Sport TSN 1
@@ -369,71 +367,71 @@ http://212.8.248.197:8080/live/amal/amal1/1477.ts
 #EXTINF:-1 group-title=“USA”,US: Suluk=>E TV
 http://212.8.248.197:8080/live/amal/amal1/1531.ts
 
-#EXTINF:-1 group-title=“india”,IND: Suluk=>Sony ESPN HD
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>Sony ESPN HD
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
-#EXTINF:-1 group-title=“india”,IND: Suluk=>Sony Six HD
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>Sony Six HD
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
-#EXTINF:-1 group-title=“india”,IND: Suluk=>TEN 1 HD
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>TEN 1 HD
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
-#EXTINF:-1 group-title=“india”,IND: Suluk=>TEN 2 HD
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>TEN 2 HD
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
-#EXTINF:-1 group-title=“india”,IND: Suluk=>TEN 3 HD
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>TEN 3 HD
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
-#EXTINF:-1 group-title=“india”,IND: Suluk=>TEN Sports
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>TEN Sports
 http://212.8.248.197:8080/live/amal/amal1/1823.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>TEN Sports 1
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>TEN Sports 1
 http://212.8.248.197:8080/live/amal/amal1/1769.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>Star Sport 1 HD
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>Star Sport 1 HD
 http://212.8.248.197:8080/live/amal/amal1/1774.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>Star Sport 2 HD
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>Star Sport 2 HD
 http://212.8.248.197:8080/live/amal/amal1/1775.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>ZEE Action
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Action
 http://212.8.248.197:8080/live/amal/amal1/2966.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>ZEE Cinema HD
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Cinema HD
 http://212.8.248.197:8080/live/amal/amal1/1750.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>ZEE Cinema ME HD
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Cinema ME HD
 http://212.8.248.197:8080/live/amal/amal1/1782.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>ZEE Bangla Cinema
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Bangla Cinema
 http://212.8.248.197:8080/live/amal/amal1/1784.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>ZEE Business
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Business
 http://212.8.248.197:8080/live/amal/amal1/2984.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>ZEE TV HD US
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE TV HD US
 http://212.8.248.197:8080/live/amal/amal1/1781.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>ZEE Cinema UK
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Cinema UK
 http://212.8.248.197:8080/live/amal/amal1/1780.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>ZEE Studio HD
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Studio HD
 http://212.8.248.197:8080/live/amal/amal1/1783.ts
-#EXTINF:-1 roup-title=“india”,IND: Suluk=>ZEE Canada
+#EXTINF:-1 roup-title=“INDIA”,IND: Suluk=>ZEE Canada
 http://212.8.248.197:8080/live/amal/amal1/1760.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>ZEE Kanada US
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Kanada US
 http://212.8.248.197:8080/live/amal/amal1/2968.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>ZEE Alwan
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Alwan
 http://212.8.248.197:8080/live/amal/amal1/1778.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>ZEE Tamil
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Tamil
 http://212.8.248.197:8080/live/amal/amal1/1764.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>ZEE Aflam
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Aflam
 http://212.8.248.197:8080/live/amal/amal1/1779.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>ZEE Classic
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Classic
 http://212.8.248.197:8080/live/amal/amal1/1752.ts
-#EXTINF:-1 roup-title=“india”,IND: Suluk=>ZEE Cinema LU HD
+#EXTINF:-1 roup-title=“INDIA”,IND: Suluk=>ZEE Cinema LU HD
 http://212.8.248.197:8080/live/amal/amal1/1812.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>ZEE Bangla Cinema UK
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Bangla Cinema UK
 http://212.8.248.197:8080/live/amal/amal1/1838.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>ZEE Punjabi PN
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Punjabi PN
 http://212.8.248.197:8080/live/amal/amal1/3051.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>ZEE Anmol
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE Anmol
 http://212.8.248.197:8080/live/amal/amal1/1813.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>ZEE tv
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE tv
 http://212.8.248.197:8080/live/amal/amal1/1815.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>ZEE News
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>ZEE News
 http://212.8.248.197:8080/live/amal/amal1/2967.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>Zing us
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>Zing us
 http://212.8.248.197:8080/live/amal/amal1/1819.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>JAYA TV
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>JAYA TV
 http://212.8.248.197:8080/live/amal/amal1/1802.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>MTV India
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>MTV India
 http://212.8.248.197:8080/live/amal/amal1/1770.ts
-#EXTINF:-1 group-title=“india”,IND: Suluk=>PTV Sport PK
+#EXTINF:-1 group-title=“INDIA”,IND: Suluk=>PTV Sport PK
 http://212.8.248.197:8080/live/amal/amal1/3016.ts
 
 
