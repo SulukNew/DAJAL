@@ -1,6 +1,7 @@
 
 #EXTM3U
-
+#EXTINF:-1, ===SULUK IPTV===
+http://bit.ly/SulukLogo1
 #EXTINF:-1,UK: Suluk=>Liverpool FC TV HD
 http://212.8.248.197:8080/live/amal/amal1/536.ts
 #EXTINF:-1,UK: Suluk=>BT Sport 1
@@ -679,7 +680,7 @@ http://212.8.248.197:8080/live/amal/amal1/160.ts
 http://212.8.248.197:8080/live/amal/amal1/159.ts
 #EXTINF:-1,AR: Suluk=>Bein Sport 12 HD
 http://212.8.248.197:8080/live/amal/amal1/170.ts
-http://212.8.248.197:8080/live/amal/amal1/2467.ts
+
 #EXTINF:-1,AR: Suluk=>Bein Movies 1
 http://212.8.248.197:8080/live/amal/amal1/175.ts
 #EXTINF:-1,AR: Suluk=>Bein Movies 2
