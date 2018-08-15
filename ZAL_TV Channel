@@ -13,10 +13,47 @@ http://212.8.248.197:8080/live/amal/amal1/527.ts
 #EXTINF:-1,Kronehit TV
 http://212.8.248.197:8080/live/amal/amal1/1545.ts
 
+#EXTINF:-1,New: Skynet 1
+http://izgemma.ddns.net:8000/live/ryan/ryan/36504.ts
+#EXTINF:-1,New: Skynet 2
+http://izgemma.ddns.net:8000/live/ryan/ryan/36503.ts
+#EXTINF:-1,New: Skynet 3
+http://izgemma.ddns.net:8000/live/ryan/ryan/36502.ts
+#EXTINF:-1,New: Skynet 4
+http://izgemma.ddns.net:8000/live/ryan/ryan/36501.ts
+#EXTINF:-1,New: Skynet 5
+http://izgemma.ddns.net:8000/live/ryan/ryan/36500.ts
+#EXTINF:-1,New: Skynet 6
+http://izgemma.ddns.net:8000/live/ryan/ryan/36499.ts
+#EXTINF:-1,New: MATCH!_HD
+http://193.93.236.121:9991/play/Match_HD/index.m3u8
+#EXTINF:-1,New: MATCH! ARENA_HD
+http://193.93.236.121:9991/play/Match_Arena_HD/index.m3u8
+#EXTINF:-1,New: MATCH! FOOTBALL 1 HD
+http://193.93.236.121:9991/play/Match_Footbal_1_HD/index.m3u8
+#EXTINF:-1,New: MATCH! FOOTBALL 2 HD
+http://193.93.236.121:9991/play/Match_Footbal_2_HD/index.m3u8
+#EXTINF:-1,New: MATCH! FOOTBALL 3 HD
+http://193.93.236.121:9991/play/Match_Footbal_3_HD/index.m3u8
+#EXTINF:-1,New: Astro Sport
+http://izgemma.ddns.net:8000/live/ryan/ryan/36505.ts
+#EXTINF:-1,New: Super Sport 1 HD
+http://195.154.107.246:1155/live/arous/arous1/49.ts
+#EXTINF:-1,New: Super Sport 2 HD
+http://195.154.107.246:1155/live/arous/arous1/53.ts
+#EXTINF:-1,New: Super Sport 3 HD
+http://195.154.107.246:1155/live/arous/arous1/149.ts
+#EXTINF:-1,New: HALLMARK MOVIES HD
+http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/5136.ts
+#EXTINF:-1,New: NBC Sport HD
+http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/914.ts
+#EXTINF:-1,New: HBO US HD
+http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/5135.ts
+#EXTINF:-1,New: HBO Family
+http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/3684.ts
 #EXTINF:-1,Indo: NINMEDIA
 http://stream1.ninmedia.tv/live/nin-info.stream_nin/playlist.m3u8
-#EXTINF:-1,Indo: TVRI SPORT HD
-http://lihattv.com/?play=43422
+
 #EXTINF:-1,Indo: RCTI
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511532707866226/1024.m3u8
 #EXTINF:-1,Indo: MNC
@@ -101,69 +138,8 @@ http://lihattv.com/?play=43128
 http://lihattv.com/?play=43408
 #EXTINF:-1,ASEAN: SETANTA
 http://103.242.13.90:5555/udp/239.4.1.132:10000
-#EXTINF:-1,ASEAN: PPTV HD
-http://103.246.16.248:9981/stream/channelid/2122275590?ticket=cfc9ba711772f01d22307ed3e0b6aaf08204a84b&profile=pass
-#EXTINF:-1,ASEAN: MCOT HD
-http://103.246.16.248:9981/stream/channelid/1282912562?ticket=4827cfe17ae71d118ed7553346e7739459dec1ab&profile=pass
-#EXTINF:-1,ASEAN: ONE HD
-http://103.246.16.248:9981/stream/channelid/619150290?ticket=484d1825f731fa9c8beeb92fa25844c6e95f7ff4&profile=pass
-#EXTINF:-1,ASEAN: ThairathTV HD
-http://103.246.16.248:9981/stream/channelid/757509618?ticket=2994318d442eded70dc0109c73cf87c3ad60e959&profile=pass
-#EXTINF:-1,ASEAN: 3HD
-http://103.246.16.248:9981/stream/channelid/47247140?ticket=7266d41558dd848486c50df100c1c40e104657c1&profile=pass
-#EXTINF:-1,ASEAN: Amarin HD
-http://103.246.16.248:9981/stream/channelid/415670626?ticket=1d9dea517f3cc9401a207e08d33a12c91e8146c9&profile=pass
-#EXTINF:-1,ASEAN: CH7 HD
-http://103.246.16.248:9981/stream/channelid/422263852?ticket=5f061a0e37e1a782915eab95d38f2c701889d6e0&profile=pass
-#EXTINF:-1,ASEAN: Thai PBS HD
-http://103.246.16.248:9981/stream/channelid/680274838?ticket=134ecc1492a8d1df5b8b1522162577eeceb963ed&profile=pass
-#EXTINF:-1,ASEAN: 3 Family
-http://103.246.16.248:9981/stream/channelid/2121466973?ticket=c79c2109a3429459cf2b8b29590a6258a19f2740&profile=pass
-#EXTINF:-1,ASEAN: MCOT Kids
-http://103.246.16.248:9981/stream/channelid/1816937211?ticket=120e55775406a24d4b38d5680c2b6119323ee381&profile=pass
-#EXTINF:-1,ASEAN: TNN24
-http://103.246.16.248:9981/stream/channelid/516492816?ticket=7c5bfb44081f4621f74b17a03a3afd543b7e1bf4&profile=pass
-#EXTINF:-1,ASEAN: new TV
-http://103.246.16.248:9981/stream/channelid/967785245?ticket=3903fecd4f34599e0ab32cd8d536de2065278481&profile=pass
-#EXTINF:-1,ASEAN: Spring News
-http://103.246.16.248:9981/stream/channelid/1529352339?ticket=ebb4d3ed0a0c70cd98064b60eb8197a2e88a6ecd&profile=pass
-#EXTINF:-1,ASEAN: Bright TV
-http://103.246.16.248:9981/stream/channelid/316740789?ticket=cef5b8471229f5cec052d997b862d5ad6ef1c4e4&profile=pass
-#EXTINF:-1,ASEAN: Voice TV
-http://103.246.16.248:9981/stream/channelid/1087044995?ticket=a7bba6ee0957e4901a9b40593c39747f7401aa7e&profile=pass
-#EXTINF:-1,ASEAN: Nation TV
-http://103.246.16.248:9981/stream/channelid/1438423509?ticket=0d5ba71ec405fb4ff54411f820a8ef85019ecef4&profile=pass
-#EXTINF:-1,ASEAN: Workpoint TV
-http://103.246.16.248:9981/stream/channelid/1025661469?ticket=cd37f39611a75a4a9bcfc821b235820757a76574&profile=pass
-#EXTINF:-1,ASEAN: True4U
-http://103.246.16.248:9981/stream/channelid/1516014889?ticket=73e51b3a9842132a763efb909b693716684b497e&profile=pass
-#EXTINF:-1,ASEAN: GMM Channel
-http://103.246.16.248:9981/stream/channelid/859098932?ticket=f712511c63c391113e123416ce8fe787c460c86f&profile=pass
-#EXTINF:-1,ASEAN: Now26
-http://103.246.16.248:9981/stream/channelid/140091307?ticket=b836efc40270530080cc801720586d2be2771b8c&profile=pass
-#EXTINF:-1,ASEAN: CH8 (RS)
-http://103.246.16.248:9981/stream/channelid/1187545936?ticket=247a477c6664627b3a1e8b0427b29e2fc7865ebf&profile=pass
-#EXTINF:-1,ASEAN: 3SD
-http://103.246.16.248:9981/stream/channelid/1374080752?ticket=51c5de8c08ba5d1611ca2dcb2132a9c19a985d55&profile=pass
-#EXTINF:-1,ASEAN: Mono29
-http://103.246.16.248:9981/stream/channelid/1930370395?ticket=037aeba00c658d50e987bbec1ef7121f8cf3fa35&profile=pass
-#EXTINF:-1,ASEAN: MYTV
-http://103.242.13.90:5555/udp/239.4.1.56:10000
-#EXTINF:-1,ASEAN: CTN
-http://103.242.13.90:5555/udp/239.4.1.57:10000
-#EXTINF:-1,ASEAN: CNC
-http://103.242.13.90:5555/udp/239.4.1.55:10000
-#EXTINF:-1,ASEAN: MTV China
-http://103.242.13.90:5555/udp/239.4.1.71:10000
 
-#EXTINF:-1,GEO: NATIONAL GEOGRAPHIC
-http://rr.dens.tv/h/h11/index1.m3u8
-#EXTINF:-1,GEO: NATIONAL GEOGRAPHIC HD
-http://rr.dens.tv/h/h11/index2.m3u8
-#EXTINF:-1,GEO: NAT GEO WILD
-http://rr.dens.tv/h/h12/index1.m3u8
-#EXTINF:-1,GEO: NAT GEO WILD HD
-http://rr.dens.tv/h/h12/index2.m3u8
+
 #EXTINF:-1,GEO: DISCOVERY HD WORLD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
 #EXTINF:-1,GEO: ANIMAL PLANET HD WORLD
@@ -196,8 +172,6 @@ http://cshms4.airtel.tv/PLTV/88888888/224/3221225813/index.m3u8
 https://ovh.easyview.eu/hls/travelchannel.m3u8
 #EXTINF:-1,GEO: TLC HD WORLD
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8
-#EXTINF:-1,GEO: NAT GEO PEOPLE
-http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMzoxMjo0MiBBTSZoYXNoX3ZhbHVlPWV2blpob000aWtYYmtRZCtSNWl4WWc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDgwNHx1cGxheXwxNTI4MjU0NzYyfDIwMi4yOC40MS4xNDQ=
 
 #EXTINF:-1,UK: Liverpool FC TV HD
 http://212.8.248.197:8080/live/amal/amal1/536.ts
