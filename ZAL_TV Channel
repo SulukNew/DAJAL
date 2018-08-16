@@ -13,6 +13,603 @@ http://izgemma.ddns.net:8000/live/ryan/ryan/37153.ts
 #EXTINF:-1,Kompas TV
 http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
 
+#EXTINF:-1,New:  壹新聞
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+#EXTINF:-1,New:  奇妙電視77台
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1,New:  SkyNews
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
+#EXTINF:-1,New:  CMC(USA)
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:-1,New:  TVB財經資訊台
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
+#EXTINF:-1,New:  耀才財經台
+rtmp://202.69.69.180:443/webcast/bshdlive-pc
+#EXTINF:-1,New:  ViuTV
+http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
+#EXTINF:-1,New:  五星體育
+http://111.48.34.235/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/3.m3u8
+#EXTINF:-1,New:  五星體育
+http://111.48.34.189/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/3.m3u8
+#EXTINF:-1,New:  Now新聞台
+http://hk1.sixu.ml/hls/now.php?id=332
+#EXTINF:-1,New:  Now直播台
+http://hk1.sixu.ml/hls/now.php?id=331
+#EXTINF:-1,New:  TVB明珠台
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_cid=&Fsv_chan_hls_se_idx=31&Fsv_ctype=LIVES&version=&Fsv_rate_id=&Fsv_otype=&FvSeid=5bb77ea1bb99b6d2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=31&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=0
+#EXTINF:-1,New:  優視頻道
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:-1,New:  MSNBC News
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1,New:  Jasmin TV
+http://j.mp/S_JasminTVHD_sly?.m3u8
+#EXTINF:-1,New:  CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,New:  NHK World
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_stv_s.m3u8
+#EXTINF:-1,New:  CBN News
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1,New:  1 Music HD
+http://cdn-01.bonus-tv.ru:8080/1HDmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1,New:  耀才財經台
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:-1,New:  HBO
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF:-1,New:  CHC動作電影 SD
+http://hbmc.chinashadt.com:2739/live/dzdy.stream_360p/playlist.m3u8
+#EXTINF:-1,New:  HBO Hit+
+http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8
+#EXTINF:-1,New:  S Music Thailand 
+http://103.242.13.90:5555/udp/239.4.2.199:10000
+#EXTINF:-1,New:  Fox Action Movie 
+http://103.242.13.90:5555/udp/239.4.2.72:10000
+#EXTINF:-1,New:  Heart TV 
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,New:  Music Choice Play 
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,New:  海看大片
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000407/index.m3u8
+#EXTINF:-1,New:  TVB娛樂新聞台 
+http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
+#EXTINF:-1,New:  GoodTV旅遊生活台 
+http://live.streamingfast.net/osmflivech14.m3u8
+#EXTINF:-1,New:  衛視電影台 
+http://iss04.ott.net.tw:8084/live/coship_DCTV0001421917060555_1200.m3u8
+#EXTINF:-1,New:  France 24 
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1,New:  廣州競賽 
+http://23436.liveplay.myqcloud.com/live/23436_3810e96b4f7411e892905cb9018cf0d4.flv
+#EXTINF:-1,New:  廣州綜合頻道 
+rtmp://23436.liveplay.myqcloud.com/live/23436_6f91587d4f7311e892905cb9018cf0d4
+#EXTINF:-1,New:  深圳衛視 
+http://223.110.241.204:6610/gitv/live1/G_SHENZHEN/G_SHENZHEN/
+#EXTINF:-1,New:  江西衛視 
+http://223.110.241.204:6610/gitv/live1/JXWS/JXWS/
+#EXTINF:-1,New:  Virgin TV 
+http://wow01.105.net/live/virgin1/chunklist.m3u8
+#EXTINF:-1,New:  星空衛視 
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
+#EXTINF:-1,New:  KBSN Sport 
+rtmp://112.175.138.137:1935/kbsn_sports/_definst_/kbsn_sports_5.stream
+#EXTINF:-1,New:  Metal TV 
+http://autopilot.myowntv.org/content/33816/index.m3u8
+#EXTINF:-1,New:  VM Music 
+http://autopilot.myowntv.org/content/34414/index.m3u8
+#EXTINF:-1,New:  東方衛視
+http://202.8.78.137:81/udp/239.12.7.16:5555
+#EXTINF:-1,New:  Channel News Asia
+https://d2ko4czujk9652.cloudfront.net/hls/cnaspcweb/prog_index.m3u8
+#EXTINF:-1,New:  天映頻道 
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+#EXTINF:-1,New:  壹新聞 
+http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
+#EXTINF:-1,New:  M2O Music TV 
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1,New:  FOX life
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/02.m3u8
+#EXTINF:-1,New:  FOX life
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
+#EXTINF:-1,New:  Fox Action Movies
+http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/01.m3u8
+#EXTINF:-1,New:  Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1,New:  杜拜One ENG
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
+#EXTINF:-1,New:  MusicBox Gold
+https://ivi-tv2.cdnvideo.ru/live/ivi/musicbox/playlist_sdhigh.m3u8
+#EXTINF:-1,New:  電影頻道 1
+http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+#EXTINF:-1,New:  電影頻道 2
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+#EXTINF:-1,New:  電影頻道 3
+http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+#EXTINF:-1,New:  電影頻道 4
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+#EXTINF:-1,New:  Eleven Sports 1
+http://61.58.60.230:9000/live/75.m3u8
+#EXTINF:-1,New:  Eleven Sports 2
+http://61.58.60.230:9000/live/102.m3u8
+#EXTINF:-1,New:  Euronews
+http://61.58.60.230:9000/live/129.m3u8
+#EXTINF:-1,New:  France24
+http://61.58.60.230:9000/live/131.m3u8
+#EXTINF:-1,New:  台股資訊
+http://61.58.60.230:9000/live/200.m3u8
+#EXTINF:-1,New:  靖天日本台
+http://61.58.60.230:9000/live/243.m3u8
+#EXTINF:-1,New:  靖天映畫台
+http://61.58.60.230:9000/live/244.m3u8
+#EXTINF:-1,New:  靖洋卡通
+http://61.58.60.230:9000/live/206.m3u8
+#EXTINF:-1,New:  靖天卡通台
+http://61.58.60.230:9000/live/207.m3u8
+#EXTINF:-1,New:  幸福空間居家
+http://61.58.60.230:9000/live/125.m3u8
+#EXTINF:-1,New:  靖天國際台
+http://61.58.60.230:9000/live/205.m3u8
+#EXTINF:-1,New:  CCTV5 風雲足球
+http://61.176.217.50:6610/001/2/ch00000090990000001154/index.m3u8?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1,New:  靚裝頻道
+http://61.176.217.50:6610/001/2/ch00000090990000001207/index.m3u8?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1,New:  GoodTV生活台
+http://live.streamingfast.net/osmflivech12.m3u8
+#EXTINF:-1,New:  МАТЧ ТВ
+http://31.40.155.230:9875
+#EXTINF:-1,New:  BBC News HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1,New:  BBC Earth HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1,New:  Food Network
+http://telekomtv.ro.edgesuite.net/shls/LIVE$FoodNetwork/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1,New:  Fashion TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$FashionHD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1,New:  Travel Channel
+http://telekomtv.ro.edgesuite.net/shls/LIVE$TravelChannel/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1,New:  Sony TEN2
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1,New:  RT America
+http://secure-streams.akamaized.net/rt-usa/index2500.m3u8
+#EXTINF:-1,New:  Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1,New:  DW (US)
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/14231.ts
+#EXTINF:-1,New:  NFL Network (US)
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/18861.ts
+#EXTINF:-1,New:  Movies 4 Men (US)
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/19333.ts
+#EXTINF:-1,New:  ABC News 24 (US)
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/20374.ts
+#EXTINF:-1,New:  Weather Channel (US)
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/20247.ts
+#EXTINF:-1,New:  TRT Sport (TR)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7928.ts
+#EXTINF:-1,New:  Sports TV (TR)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/2308.ts
+#EXTINF:-1,New:  TSN Sport 1 (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20254.ts
+#EXTINF:-1,New:  TSN Sport 3 (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20256.ts
+#EXTINF:-1,New:  TSN Sport 4 (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20600.ts
+#EXTINF:-1,New:  TSN Sport 2 (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20255.ts
+#EXTINF:-1,New:  TSN Sport 5 (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20599.ts
+#EXTINF:-1,New:  SPORT 1 (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12743.ts
+#EXTINF:-1,New:  ExSport (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12650.ts
+#EXTINF:-1,New:  SETANTA SPORT (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21121.ts
+#EXTINF:-1,New:  SETANTA SPORT+ (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21122.ts
+#EXTINF:-1,New:  EUROSPORT 1 (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18334.ts
+#EXTINF:-1,New:  Extreme Sport (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18473.ts
+#EXTINF:-1,New:  EUROSPORT (FR)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11459.ts
+#EXTINF:-1,New:  NPO Politiek sportt (NL)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15090.ts
+#EXTINF:-1,New:  HD Fashion (UK)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18118.ts
+#EXTINF:-1,New:  BBC 3 (UK)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19356.ts
+#EXTINF:-1,New:  Animal Planet (UK)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19283.ts
+#EXTINF:-1,New:  Discovery World (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22088.ts
+#EXTINF:-1,New:  CMC (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9458.ts
+#EXTINF:-1,New:  CBSN News (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9477.ts
+#EXTINF:-1,New:  FOX 23 News (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7789.ts
+#EXTINF:-1,New:  WGN TV (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18872.ts
+#EXTINF:-1,New:  NEWSMAX TV (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7797.ts
+#EXTINF:-1,New:  RETRO MUSIC (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11567.ts
+#EXTINF:-1,New:  Virgin TV (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11596.ts
+#EXTINF:-1,New:  Bloomberg (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11234.ts
+#EXTINF:-1,New:  ABC EAST (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18851.ts
+#EXTINF:-1,New:  ARTS (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18906.ts
+#EXTINF:-1,New:  CNN (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21186.ts
+#EXTINF:-1,New:  The Country Network (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20463.ts
+#EXTINF:-1,New:  WWE Network HD (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21064.ts
+#EXTINF:-1,New:  FOX 5 NEWS (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18882.ts
+#EXTINF:-1,New:  NFL Now TV (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18874.ts
+#EXTINF:-1,New:  CHANNEL 11 NEWS (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20469.ts
+#EXTINF:-1,New:  Voice of America (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20465.ts
+#EXTINF:-1,New:  Most Video TV HD (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18447.ts
+#EXTINF:-1,New:  Fashion TV HD (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12708.ts
+#EXTINF:-1,New:  HD Fashion (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19127.ts
+#EXTINF:-1,New:  Q Music (BE)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19818.ts
+#EXTINF:-1,New:  Sony Ten 1 (IN)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16128.ts
+#EXTINF:-1,New:  Sony Ten 2 (IN)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16127.ts
+#EXTINF:-1,New:  MusicBox UA (MC)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18484.ts
+#EXTINF:-1,New:  Japanet Channel DX (JPN)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22246.ts
+#EXTINF:-1,New:  QVC Japan TV (JPN)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22250.ts
+#EXTINF:-1,New:  Shop Channel (JPN)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22249.ts
+#EXTINF:-1,New:  新唐人電視 (台灣)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22292.ts
+#EXTINF:-1,New:  ESPN 2
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1,New:  CNN
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
+#EXTINF:-1,New:  France 24
+http://161.0.157.9/PLTV/88888888/224/3221226821/index.m3u8
+#EXTINF:-1,New:  CBC Television
+http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
+#EXTINF:-1,New:  Animal Planet
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1,New:  HBO 2 International
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1,New:  Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1,New:  PAC-12 Arizona
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/9470.ts
+#EXTINF:-1,New:  PAC-12 Bay Area
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/9472.ts
+#EXTINF:-1,New:  PAC-12 Mountain
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/9473.ts
+#EXTINF:-1,New:  PAC-12 Los Angeles
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/9471.ts
+#EXTINF:-1,New:  PAC-12 Washington
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/9475.ts
+#EXTINF:-1,New:  NFL Network
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/18861.ts
+#EXTINF:-1,New:  TUFF TV
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/18868.ts
+#EXTINF:-1,New:  Retro Music
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/11567.ts
+#EXTINF:-1,New:  Virgin TV
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/11596.ts
+#EXTINF:-1,New:  Bloomberg
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/11234.ts
+#EXTINF:-1,New:  The Country Network
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/20463.ts
+#EXTINF:-1,New:  TSN Sport 1
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/20254.ts
+#EXTINF:-1,New:  TSN Sport 2
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/20255.ts
+#EXTINF:-1,New:  TSN Sport 3
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/20256.ts
+#EXTINF:-1,New:  Capital TV
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/18459.ts
+#EXTINF:-1,New:  CCTV音樂
+http://116.66.222.46:8082/TV4012.m3u8
+#EXTINF:-1,New:  Bein Sport 2
+http://185.93.3.84:5000/play/a01w
+#EXTINF:-1,New:  Bein Sport 3
+http://185.93.3.84:5000/play/a01t
+#EXTINF:-1,New:  Bein Sport 4
+http://185.93.3.84:5000/play/a01u
+#EXTINF:-1,New:  Bein Sport 5
+http://185.93.3.84:5000/play/a02e
+#EXTINF:-1,New:  勁爆體育
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225814/1.m3u8
+#EXTINF:-1,New:  CCTV5+
+http://qhyx.qhcatv.com:16413/contents38/live/CHANNELea5d24393f5340488bb3dcf72ffc1246/HD_3343842336111834084/live.m3u8
+#EXTINF:-1,New:  CCTV5
+http://qhyx.qhcatv.com:16413/contents40/live/CHANNEL5e1967b501424f41a0ed30806c538084/HD_572170973452526738/live.m3u8
+#EXTINF:-1,New:  湖南衛視
+http://qhyx.qhcatv.com:16414/contents46/live/CHANNEL1ce71d7d2175411391e4e752916d7a4f/HD_2291618092825085480/live.m3u8
+#EXTINF:-1,New:  深圳衛視
+http://qhyx.qhcatv.com:16413/contents41/live/CHANNEL5ef312ee638947aeb2a231ad19852160/HD_1747644283768992846/live.m3u8
+#EXTINF:-1,New:  Discevory Channel
+http://103.242.13.90:5555/udp/239.4.2.19:10000
+#EXTINF:-1,New:  Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:-1,New:  NewTV精品電影
+http://120.198.235.70/112.50.243.7/PLTV/88888888/224/3221225891/2.m3u8
+#EXTINF:-1,New:  NewTV動作電影
+http://120.198.235.70/112.50.243.7/PLTV/88888888/224/3221225879/2.m3u8
+#EXTINF:-1,New:  NewTV超級電視劇
+http://120.198.235.70/112.50.243.7/PLTV/88888888/224/3221225806/2.m3u8
+#EXTINF:-1,New:  NewTV超級電影
+http://120.198.235.70/112.50.243.7/PLTV/88888888/224/3221225804/2.m3u8
+#EXTINF:-1,New:  NewTV超級體育
+http://120.198.235.70/112.50.243.7/PLTV/88888888/224/3221225803/2.m3u8
+#EXTINF:-1,New:  NewTV超級綜藝
+http://120.198.235.70/112.50.243.7/PLTV/88888888/224/3221225801/2.m3u8
+#EXTINF:-1,New:  民視新聞台
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1,New:  Bloomberg
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1,New:  FOX
+http://210.210.155.35/uq2663/h/h04/02.m3u8
+#EXTINF:-1,New:  FOX Action Movies
+http://210.210.155.35/uq2663/h/h15/02.m3u8
+#EXTINF:-1,New:  Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
+#EXTINF:-1,New:  Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_f-men_ad_dbn_27047_fmen_104_hls.smil/playlist.m3u8
+#EXTINF:-1,New:  SkyNews
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1,New:  London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+#EXTINF:-1,New:  C-SPAN2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
+#EXTINF:-1,New:  美國中文電視
+http://ec.sinovision.net/video/ts/lv.m3u8
+#EXTINF:-1,New:  健康衛視
+http://live.jkwshk.tv/AppName/StreamName.m3u8
+#EXTINF:-1,New:  Mnet
+http://175.195.128.141:9981/stream/channelid/1708583883?ticket=6B445DB260426275FB362F6DC07A9CCF2CF7E01C&profile=pass
+#EXTINF:-1,New:  SPOTV
+http://175.195.128.141:9981/stream/channelid/2102097560?ticket=BDFBEC36081EB95FB1DAACA13EB37589C0985B82&profile=pass
+#EXTINF:-1,New:  SPOTV2
+http://175.195.128.141:9981/stream/channelid/1354280852?ticket=F5B8930C67437147BA797BD2976A181B98F8C192&profile=pass
+#EXTINF:-1,New:  IB SPORTS
+http://175.195.128.141:9981/stream/channelid/616004316?ticket=EBE63275FA92EB44CF00B923F34842FCBE2C8458&profile=pass
+#EXTINF:-1,New:  Sky Sports
+http://175.195.128.141:9981/stream/channelid/2131125297?ticket=22C3EE925A336F6A78B01256A85B1826E84C4FB2&profile=pass
+#EXTINF:-1,New:  SBS Sports
+http://175.195.128.141:9981/stream/channelid/1743632804?ticket=D3DC4EB4D370F73C515795CBF6EB1B1F14B5BD03&profile=pass
+#EXTINF:-1,New:  MBC SPORT+
+http://175.195.128.141:9981/stream/channelid/375657830?ticket=08BCD38D49CC0D6EED994DB1C2DFD6DCF3479C69&profile=pass
+#EXTINF:-1,New:  中天新聞
+http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:-1,New:  Miami TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w135985040_b742000.m3u8
+#EXTINF:-1,New:  MTV Live
+http://91.149.172.100/channel?id=4&u=demo&p=demo
+#EXTINF:-1,New:  東森電影
+http://125.227.35.176:18080/ETChan/index.m3u8
+#EXTINF:-1,New:  CCTV5+
+http://39.134.52.161/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225496/index.m3u8
+#EXTINF:-1,New:  CCTV5
+http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HQ/1.m3u8
+#EXTINF:-1,New:  Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1,New:  Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1,New:  Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1,New:  Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1,New:  The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:-1,New:  Company TV
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+#EXTINF:-1,New:  Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1,New:  上海星尚頻道
+http://aliyunkknews-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M_keyM_/live/shss/700000/d1.m3u8
+#EXTINF:-1,New:  上海娛樂頻道
+http://aliyunkknews-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M_keyM_/live/ylpd/700000/d1.m3u8
+#EXTINF:-1,New:  上海第一財經
+http://aliyunkknews-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M_keyM_/live/dycj/700000/d1.m3u8
+#EXTINF:-1,New:  RU Football
+https://ivi-tv3-football.cdnvideo.ru/channel/Football/1080p.m3u8
+#EXTINF:-1,New:  天津體育
+http://live1.wisetv.com.cn/TJIPTV/TJTY.m3u8
+#EXTINF:-1,New:  IZ.RU
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1,New:  FOX Comedy
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF:-1,New:  WGN News Channel
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1,New:  都市戲場
+http://111.48.34.231/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225754/3.m3u8?icpid=88888888&from=1&hms_devid=1463
+#EXTINF:-1,New:  湖南衛視 SD
+http://www.iptvlist.cn/daili/gdhj.php?id=hnws
+#EXTINF:-1,New:  廣東珠江頻道 SD
+http://www.iptvlist.cn/daili/gdhj.php?id=gdty
+#EXTINF:-1,New:  廣東公共頻道 SD
+http://www.iptvlist.cn/daili/gdhj.php?id=gdzj
+#EXTINF:-1,New:  廣東體育頻道 SD
+http://www.iptvlist.cn/daili/gdhj.php?id=gdtvs1
+#EXTINF:-1,New:  NewTV超級綜藝
+http://111.20.45.154/wh7f454c46tw3653946070_921258442/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225546/index.m3u8?icpid=88888888&RTS=1534069195&from=1&hms_devid=583
+#EXTINF:-1,New:  HBO 2 (RO|ENG)
+http://zzyiptv.tk:3000/stream/romania/21
+#EXTINF:-1,New:  HBO 3 (RO|ENG)
+http://zzyiptv.tk:3000/stream/romania/22
+#EXTINF:-1,New:  Digi Sport 1 (RO)
+http://zzyiptv.tk:3000/stream/romania/40
+#EXTINF:-1,New:  Digi Sport 2 (RO)
+http://zzyiptv.tk:3000/stream/romania/41
+#EXTINF:-1,New:  Digi Sport 3 (RO)
+http://zzyiptv.tk:3000/stream/romania/42
+#EXTINF:-1,New:  Digi Sport 4 (RO)
+http://zzyiptv.tk:3000/stream/romania/43
+#EXTINF:-1,New:  Telekom Sport 1 (RO)
+http://zzyiptv.tk:3000/stream/romania/44
+#EXTINF:-1,New:  Telekom Sport 3 (RO)
+http://zzyiptv.tk:3000/stream/romania/46
+#EXTINF:-1,New:  Telekom Sport 4 (RO)
+http://zzyiptv.tk:3000/stream/romania/47
+#EXTINF:-1,New:  EuroSport 1 (RO)
+http://zzyiptv.tk:3000/stream/romania/48
+#EXTINF:-1,New:  EuroSport 2 (RO)
+http://zzyiptv.tk:3000/stream/romania/49
+#EXTINF:-1,New:  Animal Planet (RO|ENG)
+http://zzyiptv.tk:3000/stream/romania/53
+#EXTINF:-1,New:  History (RO|ENG)
+http://zzyiptv.tk:3000/stream/romania/54
+#EXTINF:-1,New:  Discovery (RO|ENG)
+http://zzyiptv.tk:3000/stream/romania/55
+#EXTINF:-1,New:  Discovery Science (RO|ENG)
+http://zzyiptv.tk:3000/stream/romania/56
+#EXTINF:-1,New:  National Geographic (RO|ENG)
+http://zzyiptv.tk:3000/stream/romania/57
+#EXTINF:-1,New:  National Geographic Wild (RO|ENG)
+http://zzyiptv.tk:3000/stream/romania/58
+#EXTINF:-1,New:  Crime Investigation (RO|ENG)
+http://zzyiptv.tk:3000/stream/romania/59
+#EXTINF:-1,New:  BBC Earth (RO|ENG)
+http://zzyiptv.tk:3000/stream/romania/67
+#EXTINF:-1,New:  Kiss TV (RO|Music)
+http://zzyiptv.tk:3000/stream/romania/83
+#EXTINF:-1,New:  Mooz Hits (RO|Music)
+http://zzyiptv.tk:3000/stream/romania/85
+#EXTINF:-1,New:  Mooz Dance (RO|Music)
+http://zzyiptv.tk:3000/stream/romania/87
+#EXTINF:-1,New:  Fashion TV (RO|ENG)
+http://zzyiptv.tk:3000/stream/romania/108
+#EXTINF:-1,New:  Fine Living (RO|ENG)
+http://zzyiptv.tk:3000/stream/romania/112
+#EXTINF:-1,New:  Jasmin TV (RO|ENG|18+)
+http://zzyiptv.tk:3000/stream/romania/187
+#EXTINF:-1,New:  NewTV愛情喜劇
+http://223.110.243.155:80/PLTV/3/224/3221225525/index.m3u8
+#EXTINF:-1,New:  NewTV古裝劇場
+http://223.110.243.155:80/PLTV/3/224/3221225527/index.m3u8
+#EXTINF:-1,New:  NewTV動作電影
+http://223.110.243.155:80/PLTV/3/224/3221225529/index.m3u8
+#EXTINF:-1,New:  NewTV明星大片
+http://223.110.243.155:80/PLTV/3/224/3221225535/index.m3u8
+#EXTINF:-1,New:  江西衛視
+http://223.110.243.155:80/PLTV/3/224/3221225536/index.m3u8
+#EXTINF:-1,New:  NewTV精品體育
+http://223.110.243.155:80/PLTV/3/224/3221225543/index.m3u8
+#EXTINF:-1,New:  浙江衛視
+http://223.110.243.155:80/PLTV/3/224/3221225544/index.m3u8
+#EXTINF:-1,New:  NewTV健康有約
+http://223.110.243.155:80/PLTV/3/224/3221225545/index.m3u8
+#EXTINF:-1,New:  NewTV海外劇場
+http://223.110.243.155:80/PLTV/3/224/3221225547/index.m3u8
+#EXTINF:-1,New:  NewTV家庭劇場
+http://223.110.243.155:80/PLTV/3/224/3221225549/index.m3u8
+#EXTINF:-1,New:  NewTV動畫王國
+http://223.110.243.155:80/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1,New:  NewTV精品紀錄
+http://223.110.243.155:80/PLTV/3/224/3221225557/index.m3u8
+#EXTINF:-1,New:  東方衛視
+http://223.110.243.155:80/PLTV/3/224/3221225558/index.m3u8
+#EXTINF:-1,New:  NewTV金牌綜藝
+http://223.110.243.155:80/PLTV/3/224/3221225559/index.m3u8
+#EXTINF:-1,New:  NewTV驚悚懸疑
+http://223.110.243.155:80/PLTV/3/224/3221225561/index.m3u8
+#EXTINF:-1,New:  NewTV精品電影
+http://223.110.243.155:80/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1,New:  CCTV音樂
+http://223.110.243.155:80/PLTV/3/224/3221225568/index.m3u8
+#EXTINF:-1,New:  NewTV精品大劇
+http://223.110.243.155:80/PLTV/3/224/3221225569/index.m3u8
+#EXTINF:-1,New:  深圳衛視
+http://223.110.243.155:80/PLTV/3/224/3221225582/index.m3u8
+#EXTINF:-1,New:  廣東衛視
+http://223.110.243.155:80/PLTV/3/224/3221225592/index.m3u8
+#EXTINF:-1,New:  紐西蘭freeview24中文電視
+http://live.936.nz:1935/live/ts.stream_720p/playlist.m3u8
+#EXTINF:-1,New:  湖南衛視
+http://223.110.243.149/PLTV/3/224/3221227220/.m3u8
+#EXTINF:-1,New:  Fashion TV 
+http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1011/index.m3u8
+#EXTINF:-1,New:  Virgin TV
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:-1,New:  WARNER TV
+http://premium-iptv.link:6969/live/iptvhenry/O1CPBlbZ6K/5697.m3u8
+#EXTINF:-1,New:  Star Movie HD
+http://premium-iptv.link:6969/live/iptvhenry/O1CPBlbZ6K/4371.m3u8
+#EXTINF:-1,New:  戰旗影視韓舞蹈
+http://alhls.cdn.zhanqi.tv/zqlive/246422_GSpB2.m3u8
+#EXTINF:-1,New:  戰旗影視韓舞蹈 (opt 1)
+http://alhls.cdn.zhanqi.tv/zqlive/246422_GSpB2.m3u8
+#EXTINF:-1,New:  江西衛視
+http://httpdvb.slave.pyitv.com//playurl?playtype=live&protocol=hls&accesstoken=R5B607210U31964108K7735A222ID9C61374PBM2FB13B7V10400Z6B731WDF167679101&playtoken=&programid=4200851529&file=.m3u8
+#EXTINF:-1,New:  勁爆體育
+http://httpdvb.slave.pyitv.com//playurl?playtype=live&protocol=hls&accesstoken=R5B607210U31964108K7735A222ID9C61374PBM2FB13B7V10400Z6B731WDF167679101&playtoken=&programid=4200851531&file=.m3u8
+#EXTINF:-1,New:  MAX極速汽車
+http://httpdvb.slave.pyitv.com//playurl?playtype=live&protocol=hls&accesstoken=R5B607210U31964108K7735A222ID9C61374PBM2FB13B7V10400Z6B731WDF167679101&playtoken=&programid=4200851532&file=.m3u8
+#EXTINF:-1,New:  歡笑劇場
+http://httpdvb.slave.pyitv.com//playurl?playtype=live&protocol=hls&accesstoken=R5B607210U31964108K7735A222ID9C61374PBM2FB13B7V10400Z6B731WDF167679101&playtoken=&programid=4200851536&file=.m3u8
+#EXTINF:-1,New:  生活時尚
+http://httpdvb.slave.pyitv.com//playurl?playtype=live&protocol=hls&accesstoken=R5B607210U31964108K7735A222ID9C61374PBM2FB13B7V10400Z6B731WDF167679101&playtoken=&programid=4200851537&file=.m3u8
+#EXTINF:-1,New:  魅力音樂
+http://httpdvb.slave.pyitv.com//playurl?playtype=live&protocol=hls&accesstoken=R5B607210U31964108K7735A222ID9C61374PBM2FB13B7V10400Z6B731WDF167679101&playtoken=&programid=4200851538&file=.m3u8
+#EXTINF:-1,New:  廣東衛視
+http://httpdvb.slave.pyitv.com//playurl?playtype=live&protocol=hls&accesstoken=R5B607210U31964108K7735A222ID9C61374PBM2FB13B7V10400Z6B731WDF167679101&playtoken=&programid=4200851541&file=.m3u8
+#EXTINF:-1,New:  北京衛視
+http://httpdvb.slave.pyitv.com//playurl?playtype=live&protocol=hls&accesstoken=R5B607210U31964108K7735A222ID9C61374PBM2FB13B7V10400Z6B731WDF167679101&playtoken=&programid=4200851542&file=.m3u8
+#EXTINF:-1,New:  東方衛視
+http://httpdvb.slave.pyitv.com//playurl?playtype=live&protocol=hls&accesstoken=R5B607210U31964108K7735A222ID9C61374PBM2FB13B7V10400Z6B731WDF167679101&playtoken=&programid=4200851543&file=.m3u8
+#EXTINF:-1,New:  民視HD
+http://125.227.35.176:18080/ftv/index.m3u8
+#EXTINF:-1,New:  台視HD
+http://125.227.35.176:18080/CTS/index.m3u8
+#EXTINF:-1,New:  三立台灣台
+http://125.227.35.176:18080/set/index.m3u8
+#EXTINF:-1,New:  天映頻道
+http://95.211.216.77:8278/Celestial/playlist.m3u8
+#EXTINF:-1,New:  WOWOW MOVIES (JPN|ENG)
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1,New:  家庭劇場 (JPN)
+http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8?wowzasessionid=2132394220
+#EXTINF:-1,New:  HISTORY (JPN|ENG)
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
+#EXTINF:-1,New:  Japanet DX Channel (JPN)
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:-1,New:  NTV News 24 (JPN)
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1,New:  Japan Cartoon (JPN)
+http://192.240.127.34:1935/live/cs19.stream/play.m3u8?wowzasessionid=708726640
+#EXTINF:-1,New:  朝日台 (JPN)
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1566329228
+#EXTINF:-1,New:  衛星電視 (JPN|Chinese)
+http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8?wowzasessionid=1009455217
+#EXTINF:-1,New:  寰宇地理
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225791/1.m3u8
+#EXTINF:-1,New:  Discovery HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/03.m3u8
+#EXTINF:-1,New:  上海紀實頻道
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225769/1.m3u8
+#EXTINF:-1,New:  五星體育
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225772/1.m3u8
+#EXTINF:-1,New:  ESPN (BR)
+http://216.155.157.180:80/live/3050/3050/36977.ts
+#EXTINF:-1,New:  ESPN+ (BR)
+http://216.155.157.180:80/live/3050/3050/36976.ts
+#EXTINF:-1,New:  FOX SPORT (BR)
+http://216.155.157.180:80/live/3050/3050/36970.ts
+#EXTINF:-1,New:  FOX SPORT 2 (BR)
+http://216.155.157.180:80/live/3050/3050/36971.ts
+
 #EXTINF:-1,New: Skynet 1
 http://izgemma.ddns.net:8000/live/ryan/ryan/36504.ts
 #EXTINF:-1,New: Skynet 2
