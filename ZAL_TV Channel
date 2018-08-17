@@ -1,13 +1,13 @@
 
 #EXTM3U
 #EXTINF:-1, ===SULUK IPTV===
-http://bit.ly/SulukLogo1
+http://client-proiptv.com:8080/movie/tayfun090909/xEtVeeE8bb/11584.mp4
 #EXTINF:-1,Sky Sports Premier League HD
 http://izgemma.ddns.net:8000/live/ryan/ryan/13633.ts
 #EXTINF:-1,UK BT Sport 1 HD
 http://izgemma.ddns.net:8000/live/ryan/ryan/32859.ts
 #EXTINF:-1,Liverpool FC TV HD
-http://premium-iptv.link:6969/live/iptvhenry/O1CPBlbZ6K/7996.ts
+http://ipsatpro.com:8080/live/mpolo/mpolo/536.ts
 #EXTINF:-1,UK BT Sport 2 HD
 http://izgemma.ddns.net:8000/live/ryan/ryan/37153.ts
 #EXTINF:-1,Kompas TV
@@ -522,8 +522,7 @@ http://212.8.248.197:8080/live/sam98/sam98/450.ts
 http://212.8.248.197:8080/live/sam98/sam98/439.ts
 #EXTINF:-1,UK: Sky Kronehit TV
 http://212.8.248.197:8080/live/sam98/sam98/1545.ts
-#EXTINF:-1,----------- USA -----------
-http://212.8.248.197:8080/live/sam98/sam98/1554.ts
+
 #EXTINF:-1,US: Sport TSN 1
 http://212.8.248.197:8080/live/sam98/sam98/1451.ts
 #EXTINF:-1,US: Sport TSN 2
