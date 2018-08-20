@@ -13,6 +13,31 @@ http://izgemma.ddns.net:8000/live/ryan/ryan/37153.ts
 #EXTINF:-1,Kompas TV
 http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
 
+#EXTINF:-1,BONUS: SKYNET SPORT HD
+http://streams.tvxweb.org:5196/live/stalker_new/nlJ75y0D08192018/13809.ts
+#EXTINF:-1,BONUS: HBO
+http://streams.tvxweb.org:5196/live/stalker_new/nlJ75y0D08192018/15541.ts
+#EXTINF:-1,BONUS: Fox Action Movies HD
+http://streams.tvxweb.org:5196/live/stalker_new/nlJ75y0D08192018/13808.ts
+#EXTINF:-1,BONUS: Fox Family HD
+http://streams.tvxweb.org:5196/live/stalker_new/nlJ75y0D08192018/13807.ts
+#EXTINF:-1,BONUS: Fox Premium Movie HD
+http://streams.tvxweb.org:5196/live/stalker_new/nlJ75y0D08192018/253283.ts
+#EXTINF:-1,BONUS: SKYNET SPORT 1
+http://streams.tvxweb.org:5196/live/stalker_new/nlJ75y0D08192018/839.ts
+#EXTINF:-1,BONUS: SKYNET SPORT 2
+http://streams.tvxweb.org:5196/live/stalker_new/nlJ75y0D08192018/838.ts
+#EXTINF:-1,BONUS: SKYNET SPORT 3
+http://streams.tvxweb.org:5196/live/stalker_new/nlJ75y0D08192018/837.ts
+#EXTINF:-1,BONUS: SKYNET SPORT 4
+http://streams.tvxweb.org:5196/live/stalker_new/nlJ75y0D08192018/836.ts
+#EXTINF:-1,BONUS: SKYNET SPORT 5
+http://streams.tvxweb.org:5196/live/stalker_new/nlJ75y0D08192018/835.ts
+#EXTINF:-1,BONUS: SKYNET SPORT 6
+http://streams.tvxweb.org:5196/live/stalker_new/nlJ75y0D08192018/834.ts
+#EXTINF:-1,BONUS: CCTV 5 HD
+http://streams.tvxweb.org:5196/live/stalker_new/nlJ75y0D08192018/14503.ts
+
 #EXTINF:-1,SABTU: TRACE_URBAN
 http://pro.smartgotv.com:8005/live/mondher/mondher/3552.ts
 #EXTINF:-1,SABTU: beIN_MOVIES-1 HD
@@ -23,6 +48,7 @@ http://pro.smartgotv.com:8005/live/mondher/mondher/1473.ts
 http://pro.smartgotv.com:8005/live/mondher/mondher/1472.ts
 #EXTINF:-1,SABTU: beIN_MOVIES-4 HD
 http://pro.smartgotv.com:8005/live/mondher/mondher/1471.ts
+
 #EXTINF:-1,SABTU: FOX_MOVIES
 http://pro.smartgotv.com:8005/live/mondher/mondher/1470.ts
 #EXTINF:-1,SABTU: FOX_MOVIES_FAMILY
