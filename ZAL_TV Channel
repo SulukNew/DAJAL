@@ -15,6 +15,10 @@ http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
 
 #EXTINF:-1,BONUS: SKYNET SPORT HD
 http://streams.tvxweb.org:5196/live/stalker_new/nlJ75y0D08192018/13809.ts
+#EXTINF:-1,BONUS: Eleven Sports 1 HD
+http://61.58.60.230:9000/live/75.m3u8
+#EXTINF:-1,BONUS: Eleven Sports 2 HD
+http://61.58.60.230:9000/live/102.m3u8
 #EXTINF:-1,BONUS: HBO
 http://streams.tvxweb.org:5196/live/stalker_new/nlJ75y0D08192018/15541.ts
 #EXTINF:-1,BONUS: Fox Action Movies HD
