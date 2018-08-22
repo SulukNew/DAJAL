@@ -13,6 +13,10 @@ http://izgemma.ddns.net:8000/live/ryan/ryan/37153.ts
 #EXTINF:-1,Kompas TV
 http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
 
+#EXTINF:-1,IDUL ADHA: HBO indo temporer
+http://5.79.87.234:8278/Hbohd/playlist.m3u8?tid=11844203&tsum=575b43892eaf75b390696d203bb61628
+
+
 #EXTINF:-1,BONUS: SKYNET SPORT HD
 http://streams.tvxweb.org:5196/live/stalker_new/nlJ75y0D08192018/13809.ts
 #EXTINF:-1,BONUS: Eleven Sports 1 HD
