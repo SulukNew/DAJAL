@@ -50,9 +50,9 @@ http://stream1.ninmedia.tv/live/nin-klik-music.stream_nin/playlist.m3u8
 http://stream1.ninmedia.tv/live/nin-smi.stream_nin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ninmedia",SALURAN FILM INDONESIA
 http://stream1.ninmedia.tv/live/nin-sfi.stream_nin/playlist.m3u8
-#EXTINF:-1 tvg-logo=““ group-title=“KIDS”,TV BMW
+#EXTINF:-1 tvg-logo="" group-title="Ninmedia",TV BMW
 http://stream1.ninmedia.tv/live/nin-dc7.stream_nin/playlist.m3u8
- 
+
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Spacetoon
 http://ch.acaratv.net:8888/live/trialacaratvbro/trialacaratvbro/59.ts
 #EXTINF:-1 tvg-logo="" group-title="KIDS",My Kids
