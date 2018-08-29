@@ -50,7 +50,16 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/tx5ipk1vx/INDO.png" group-title="SULUK INDO",RCTV
 http://lihattv.com/?play=43254
 
-
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SULUK SPORT",SONY TEN 1 HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SULUK SPORT",SONY TEN 2 HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/05.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SULUK SPORT",SONY TEN 3 HD
+http://mhms6.airtel.tv/wh7f454c46tw2828204960_1272463506/PLTV/88888888/224/3221226330/04.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SULUK SPORT",SONY ESPN HD
+http://cshms4.airtel.tv/wh7f454c46tw3044125113_1979135345/PLTV/88888888/224/3221226076/05.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SULUK SPORT",SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/05.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SULUK SPORT",Astro live 1 HD
 http://playbackn15.aotg-video.astro.com.my/CH1/master_AG4_8.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SULUK SPORT",Astro live 2 HD
