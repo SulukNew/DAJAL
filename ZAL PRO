@@ -50,6 +50,13 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/f7w4duz59/IPTV_INDO_A.jpg" group-title="SULUK INDO",RCTV
 http://lihattv.com/?play=43254
 
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",Astro live 1 HD
+http://playbackn15.aotg-video.astro.com.my/CH1/master_AG4_8.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",Astro live 2 HD
+http://playbackn15.aotg-video.astro.com.my/CH1/master_AG5_8.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",Astro live 3 HD
+http://playbackn15.aotg-video.astro.com.my/CH1/master_AG6_8.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",beIN SPORTS 1 HD
 http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/2.ts
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",beIN SPORTS 2 HD
