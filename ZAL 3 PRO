@@ -218,9 +218,31 @@ http://mhms6.airtel.tv/wh7f454c46tw2828204960_1272463506/PLTV/88888888/224/32212
 http://cshms4.airtel.tv/wh7f454c46tw3044125113_1979135345/PLTV/88888888/224/3221226076/05.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SPORT",SONY SIX HD
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/05.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SPORT",SKYNET 1
+http://62.210.114.98:80/live?channelId=382&deviceUser=19040&devicePass=180917&uid=2001
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SPORT",SKYNET 2
+http://62.210.114.98:80/live?channelId=383&deviceUser=19040&devicePass=180917&uid=2001
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SPORT",SKYNET 3
+http://62.210.114.98:80/live?channelId=384&deviceUser=19040&devicePass=180917&uid=2001
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SPORT",SKYNET 4
+http://62.210.114.98:80/live?channelId=385&deviceUser=19040&devicePass=180917&uid=2001
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SPORT",SKYNET 5
+http://62.210.114.98:80/live?channelId=386&deviceUser=19040&devicePass=180917&uid=2001
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SPORT",SKYNET 6
+http://62.210.114.98:80/live?channelId=387&deviceUser=19040&devicePass=180917&uid=2001
 
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SPORT EXTRA",LFC TV HD
 http://vapi.vaders.tv/play/3009.m3u8?token=eyJ1c2VybmFtZSI6ImdrY2UzYWNma2giLCJwYXNzd29yZCI6ImllcHNibm14cmwifQ==
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SPORT EXTRA",TSN 1
+http://163.172.15.141:9732/live?channelId=217&deviceUser=19040&devicePass=180917&uid=2001
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SPORT EXTRA",TSN 2
+http://163.172.15.141:9732/live?channelId=218&deviceUser=19040&devicePass=180917&uid=2001
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SPORT EXTRA",TSN 3
+http://163.172.15.141:9732/live?channelId=219&deviceUser=19040&devicePass=180917&uid=2001
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SPORT EXTRA",TSN 4
+http://163.172.15.141:9732/live?channelId=220&deviceUser=19040&devicePass=180917&uid=2001
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SPORT EXTRA",TSN 5
+http://163.172.15.141:9732/live?channelId=221&deviceUser=19040&devicePass=180917&uid=2001
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SPORT EXTRA",Star Sports 1 HD
 http://vapi.vaders.tv/play/37198.m3u8?token=eyJ1c2VybmFtZSI6ImdrY2UzYWNma2giLCJwYXNzd29yZCI6ImllcHNibm14cmwifQ==
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SPORT EXTRA",Star Sports 2 HD
