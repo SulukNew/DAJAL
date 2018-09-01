@@ -5,6 +5,10 @@
 http://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",HBO INDO
 http://103.89.176.45:8278/Hbohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",FOX MOVIES INDO
+http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=11451221&tsum=42e6c16d889f70dd4413e867961b6007
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",FOX MOVIES VIETNAM
+http://hplusliveall.e96bbe18.sabai.vn/cba670a76719219cbc5ca3d28e879aef1535801475/foxmovies-720p.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",ASIAN GAMES
 http://cdn0-a.production.vidio.static6.com/uploads/1447534/via-20vallen-20v-8cdc-b600.mp4.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",BALKANIKA
