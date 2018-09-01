@@ -20,14 +20,17 @@ http://31.41.20.14:4054
 
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SULUK SPORT",SULUK=>ASTRO GO 1 HD
-http://185.21.217.11:7172/astro/supersports1/chunks.m3u8?nimblesessionid=199040&wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMTggNDowMjozOCBBTSZoYXNoX3ZhbHVlPTFubmh6QkM0T21GRzZSUEQxdHhrc3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://185.21.217.11:7172/astro/supersports1/chunks.m3u8?nimblesessionid=233078&wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMTggNDowMjozOCBBTSZoYXNoX3ZhbHVlPTFubmh6QkM0T21GRzZSUEQxdHhrc3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SULUK SPORT",SULUK=>ASTRO GO 2 HD
-http://185.21.217.11:7172/astro/supersports2/chunks.m3u8?nimblesessionid=199140&wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMTggNDowNDowMCBBTSZoYXNoX3ZhbHVlPTBYWUdMbHl3Y0NxdmhicXNneUMzSUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://185.21.217.11:7172/astro/supersports2/chunks.m3u8?nimblesessionid=233498&wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMTggNDowNDowMCBBTSZoYXNoX3ZhbHVlPTBYWUdMbHl3Y0NxdmhicXNneUMzSUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SULUK SPORT",SULUK=>ASTRO GO 3 HD
-http://185.21.217.11:7172/astro/supersports3/chunks.m3u8?nimblesessionid=199209&wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMTggNDowNDo0MyBBTSZoYXNoX3ZhbHVlPTlKaGlZZjhIZlBwT2lMWDVBdWFWZlE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://185.21.217.11:7172/astro/supersports3/chunks.m3u8?nimblesessionid=233599&wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMTggNDowNDo0MyBBTSZoYXNoX3ZhbHVlPTlKaGlZZjhIZlBwT2lMWDVBdWFWZlE9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SULUK SPORT",SULUK=>ASTRO GO 4 HD
-http://185.21.217.11:7172/astro/supersports4/chunks.m3u8?nimblesessionid=199255&wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMTggNDowNTozNSBBTSZoYXNoX3ZhbHVlPWdScy91UE5uRWdrQ2c4c0ZVbGhaQ0E9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://185.21.217.11:7172/astro/supersports4/chunks.m3u8?nimblesessionid=233682&wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMTggNDowNTozNSBBTSZoYXNoX3ZhbHVlPWdScy91UE5uRWdrQ2c4c0ZVbGhaQ0E9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SULUK SPORT",SULUK=>BEIN 1 HD TH
 http://103.89.176.45:8278/bein1_pat/playlist.m3u8?tid=16376578&tsum=9fe19df756917be44aae74223e264a82
