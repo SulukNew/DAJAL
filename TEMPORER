@@ -32,10 +32,9 @@ http://50.7.73.90:8278/cctv5plus/playlist.m3u8?tid=15262076&tsum=1346c59eba6c940
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SULUK SPORT",SULUK=>SITV EPL
 http://50.7.73.90:8278/xinshijue/playlist.m3u8?tid=10904548&tsum=815ad75fc116f1a70cb38fbd6b6d757f
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SULUK SPORT",SULUK=>PPTV HD
-http://50.7.73.90:8278/pptv_thai/playlist.m3u8?tid=15480729&tsum=cde71cfb7ea3d17ab135eea3bd7255f8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SULUK SPORT",SULUK=>SKY SPORT EPL
 http://50.7.73.90:8278/pptv_thai/playlist.m3u8?tid=15480729&tsum=cde71cfb7ea3d17ab135eea3bd7255f8 
-
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SULUK SPORT",SULUK=>SKY SPORT EPL
+http://212.8.243.195:8278/tiankongepl_pat/playlist.m3u8?tid=15494063&tsum=2382099d9fe4ec3249dd8ec7b26f769e
 
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SULUK SPORT",SULUK=>SKYNET HD TH
 http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=15486720&tsum=66eddfad5c6fde1e9f4d62140f2004ac
