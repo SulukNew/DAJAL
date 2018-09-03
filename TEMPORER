@@ -2,7 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",SULUK INTRO
-http://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png.m3u8
+https://bit.ly/2wAeQEw
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",HBO INDO
 http://103.89.176.45:8278/Hbohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",FOX MOVIES INDO
