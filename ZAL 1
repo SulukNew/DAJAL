@@ -10,6 +10,8 @@ http://sulukhbo.myftp.biz:8278/Hbohd/playlist.m3u8
 http://cdn0-a.production.vidio.static6.com/uploads/1447534/via-20vallen-20v-8cdc-b600.mp4.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",BALKANIKA
 http://31.41.20.14:4054
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",MOTO GP FOX3
+http://www.iptv.wang/wtv.php?id=77
 
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/kqn81pjml/SPORT.png" group-title="SULUK SPORT",beINSport 1 HD
 http://163.172.105.25:80/live?channelId=178&uid=2454&deviceMac=00:1A:79:3C:C9:29
