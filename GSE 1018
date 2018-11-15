@@ -435,7 +435,7 @@ http://50.7.161.82:8278/bcointhree/playlist.m3u8?tid=12895526&tsum=051c0605c8185
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",BEIN 4 TRUE VISION
 http://50.7.161.82:8278/bcoinfour/playlist.m3u8?tid=14558246&tsum=fe6dbc0e41f0a16a180a8840177c0c9b
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",SKYNET HD
-http://190.2.153.35:8278/skynethd_pat/playlist.m3u8?tid=11755866&tsum=09f3f85824091c72a30a063a26dac46e
+http://190.2.153.35:8278/skynethd_pat/playlist.m3u8?tid=11680230&tsum=13bfd5f566d38cf7abc05f0816eb5d97
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",BeIN Sport 1 ID
 http://tvku.live:8888/ricki/rk01/728
