@@ -36,10 +36,12 @@ http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK 1",&PICTURES HD
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK 1",SONY LE PLEX HD
-http://125.17.129.7/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226446/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK 1",SONY PIX HD
-http://125.17.129.12/wh7f454c46tw3107618267_1722636602/PLTV/88888888/224/3221226442/03.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK 1",Sony Le Plex
+http://thop.in/THOPTV_APP/zgbsat-3221226446-002.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK 1",Sony Pix
+http://thop.in/THOPTV_APP/zgbsat-3221226486-002.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK 1",FOX MOVIES [AR]
 http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
 
@@ -54,18 +56,25 @@ http://50.7.73.90:8278/foxsport3hd_twn/playlist.m3u8?tid=m2ea52d09d31418526751&c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_04.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",SONY ESPN HD
-http://125.17.129.13/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",SONY SIX HD
-http://125.17.129.13/wh7f454c46tw1305229559_2056998348/PLTV/88888888/224/3221225780/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",SONY TEN 1 HD
-http://125.17.129.13/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",SONY TEN 2 HD
-http://125.17.129.13/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",SONY TEN 3 HD
-http://125.17.129.7/wh7f454c46tw1915960971_986066483/PLTV/88888888/224/3221226330/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",D SPORT HD
-http://125.17.129.15/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/03.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",Sony TEN 1
+http://thop.in/THOPTV_APP/zgbsat-3221225875-002.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",Sony TEN 2
+http://thop.in/THOPTV_APP/zgbsat-3221226077-002.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",Sony TEN 3
+http://thop.in/THOPTV_APP/zgbsat-3221226330-02.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",Sony SIX
+http://thop.in/THOPTV_APP/zgbsat-3221225780-002.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",Sony ESPN
+http://thop.in/THOPTV_APP/zgbsat-3221226076-002.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",D Sport
+http://thop.in/THOPTV_APP/zgbsat-3221226484-002.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",True Sport HD1
 https://m88.intersteam-idc.com/live54/0x777_2sporthd1_720p/playlist.m3u8
@@ -259,31 +268,31 @@ http://hall2mark.ddns.net:80/medoum1/medoum/3958
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",UK: BT SPORTS  Extra
 http://hall2mark.ddns.net:80/medoum1/medoum/3063
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",RMC Sport 1 FHD FR
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/4086
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",RMC Sport 2 FHD FR
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/4085
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",RMC Sport 3 FHD FR
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/4084
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",RMC Sport 4 FHD FR
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/4083
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",GR: OTE Sport 1 HD
+http://landiptv.live:8080/EDGARDO/203040/78011
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",GR: OTE Sport 2 HD
+http://landiptv.live:8080/EDGARDO/203040/78010
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",GR: OTE Sport 3 HD
+http://landiptv.live:8080/EDGARDO/203040/78009
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",GR: OTE Sport 4 HD
+http://landiptv.live:8080/EDGARDO/203040/78008
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",GR: OTE Sport 5 HD
+http://landiptv.live:8080/EDGARDO/203040/78007
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",GR: OTE Sport 6 HD
+http://landiptv.live:8080/EDGARDO/203040/78006
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",GR: OTE Sport 7 HD
+http://landiptv.live:8080/EDGARDO/203040/78005
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",GR: OTE Sport 8 HD
+http://landiptv.live:8080/EDGARDO/203040/78004
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",OTE Sport 1 HD GR
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/5702
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",OTE Sport 2 HD GR
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/5703
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",OTE Sport 3 HD GR
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/5704
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",OTE Sport 4 HD GR
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/5705
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",OTE Sport 5 HD GR
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/5706
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",OTE Sport 6 HD GR
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/5707
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",OTE Sport 7 HD GR
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/5708
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",OTE Sport 8 HD GR
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/5709
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",RMC Sport 1
+http://rb-group-server.com:25461/12341234/12341234/12069
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",RMC Sport 2
+http://rb-group-server.com:25461/12341234/12341234/5472
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",RMC Sport 3
+http://rb-group-server.com:25461/12341234/12341234/5471
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",RMC Sport 5
+http://rb-group-server.com:25461/12341234/12341234/5470
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Tring Sport 1 HD
 http://163.172.211.229:8000/live/sdsgal/orbit12/44.ts
@@ -298,29 +307,108 @@ http://163.172.211.229:8000/live/sdsgal/orbit12/47.ts
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",ES: Movistar F1 
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/757.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",IT: Sky Sport 24 HD
-http://jack.dyndns.tv:15800/live/edomafald/zonclie/29.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",IT: Sky Sport 1 HD
-http://jack.dyndns.tv:15800/live/edomafald/zonclie/30.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",IT: Sky Sport 1 SD
-http://jack.dyndns.tv:15800/live/edomafald/zonclie/16684.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",IT: Sky Sport Arena HD
-http://jack.dyndns.tv:15800/live/edomafald/zonclie/31.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",IT: Sky Sport F1 HD
-http://jack.dyndns.tv:15800/live/edomafald/zonclie/35.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",IT: Sky Moto GP HD
-http://jack.dyndns.tv:15800/live/edomafald/zonclie/34.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",TSN 1 HD
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/932.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",TSN 2 HD
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/931.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",TSN 3 HD
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/930.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",TSN 4 HD
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/929.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",TSN 5 HD
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/928.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",CA-TSN1
+http://rb-group-server.com:25461/12341234/12341234/3684
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",CA-TSN2
+http://rb-group-server.com:25461/12341234/12341234/3683
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",CA-TSN3
+http://rb-group-server.com:25461/12341234/12341234/3682
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",CA-TSN4
+http://rb-group-server.com:25461/12341234/12341234/3681
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",CA-TSN5
+http://rb-group-server.com:25461/12341234/12341234/3680
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",PT: SportTV 1 HD
+http://landiptv.live:8080/EDGARDO/203040/107820
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",PT: SportTV 2 HD
+http://landiptv.live:8080/EDGARDO/203040/107821
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",PT: SportTV 3 HD
+http://landiptv.live:8080/EDGARDO/203040/107822
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",PT: SportTV 4 HD
+http://landiptv.live:8080/EDGARDO/203040/107823
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",PT: SportTV 5 HD
+http://landiptv.live:8080/EDGARDO/203040/107824
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",ES: Movistar MotoGP HD
+http://landiptv.live:8080/EDGARDO/203040/131968
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",ES: Movistar MotoGP FHD
+http://landiptv.live:8080/EDGARDO/203040/70858
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",ES: M Formula1 HD
+http://landiptv.live:8080/EDGARDO/203040/70900
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",ES: Sky Sport MotoGP HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/2478.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",ES: Sky Sport Formula1 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/2478.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",AL: Arena Sport 1 HD
+http://tv.smartal.net:25461/gUqU0Lxucu2lM8qi7e/8EsPuBujE6rasafotr/250
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",AL: Arena Sport 2 HD
+http://tv.smartal.net:25461/gUqU0Lxucu2lM8qi7e/8EsPuBujE6rasafotr/251
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",AL: Arena Sport 3 HD
+http://tv.smartal.net:25461/gUqU0Lxucu2lM8qi7e/8EsPuBujE6rasafotr/252
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",AL: Arena Sport 4 HD
+http://tv.smartal.net:25461/gUqU0Lxucu2lM8qi7e/8EsPuBujE6rasafotr/253
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",AL: Arena Sport 5 HD
+http://tv.smartal.net:25461/gUqU0Lxucu2lM8qi7e/8EsPuBujE6rasafotr/249
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN H2 HD
+http://rb-group-server.com:25461/12341234/12341234/6325
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN E! Entertainment HD
+http://rb-group-server.com:25461/12341234/12341234/6338
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN History Channel HD
+http://rb-group-server.com:25461/12341234/12341234/6326
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Crime & Investigation
+http://rb-group-server.com:25461/12341234/12341234/6324
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Animal Planet HD
+http://rb-group-server.com:25461/12341234/12341234/6335
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Nat Geo HD
+http://rb-group-server.com:25461/12341234/12341234/6334
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Nat GEO Wild HD
+http://rb-group-server.com:25461/12341234/12341234/6333
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN NAT GEO People HD
+http://rb-group-server.com:25461/12341234/12341234/6332
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Discovery Family HD
+http://rb-group-server.com:25461/12341234/12341234/6328
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Discovery Channel HD
+http://rb-group-server.com:25461/12341234/12341234/6331
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Discovery Science HD
+http://rb-group-server.com:25461/12341234/12341234/6330
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",beIN Movies 1 HD
+http://rb-group-server.com:25461/12341234/12341234/2965
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",beIN Movies 2 HD
+http://rb-group-server.com:25461/12341234/12341234/2964
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",beIN Movies 3 HD
+http://rb-group-server.com:25461/12341234/12341234/2963
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",beIN Movies 4 HD
+http://rb-group-server.com:25461/12341234/12341234/2962
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",BeIN Movies HD
+http://rb-group-server.com:25461/12341234/12341234/5321
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",BeIN Movies  IZ HD
+http://rb-group-server.com:25461/12341234/12341234/5319
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",BeIN Movies Action HD
+http://rb-group-server.com:25461/12341234/12341234/5273
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",BeIN Box Office 1 HD
+http://rb-group-server.com:25461/12341234/12341234/5331
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",BeIN Box Office 2 HD
+http://rb-group-server.com:25461/12341234/12341234/5330
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",BeIN Box Office 3 HD
+http://rb-group-server.com:25461/12341234/12341234/5329
+
+#EXTINF:-1, MOVIES NOW
+http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Movies HD
+http://rb-group-server.com:25461/12341234/12341234/6375
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Movies 2H
+http://rb-group-server.com:25461/12341234/12341234/6340
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Movies Action HD
+http://rb-group-server.com:25461/12341234/12341234/6369
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Movies Thriller HD
+http://rb-group-server.com:25461/12341234/12341234/6371
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Movies 007 HD
+http://rb-group-server.com:25461/12341234/12341234/6365
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",HBO HD
 http://50.7.161.82:8278/Hbohd/playlist.m3u8?tid=16786583&tsum=6e508585a432d2feddc069904943bd67
