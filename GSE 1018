@@ -432,12 +432,12 @@ http://50.7.161.82:8278/bcoinfour/playlist.m3u8?tid=14558246&tsum=fe6dbc0e41f0a1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",SKYNET HD
 http://190.2.153.35:8278/skynethd_pat/playlist.m3u8?tid=11755866&tsum=09f3f85824091c72a30a063a26dac46e
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",BEIN 1 INDO [TEST]
-http://46.166.184.36:2095/artutm/bein1ph/chunks.m3u8?nimblesessionid=775448&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAxOCAzOjA1OjE4IFBNJmhhc2hfdmFsdWU9TURMc0lNU0ExOGlqTEV3Tnd5dktDdz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",BEIN 2 INDO [TEST] 
-http://46.166.184.36:2095/artutm/bein2ph/chunks.m3u8?nimblesessionid=775448&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAxOCAzOjA1OjE4IFBNJmhhc2hfdmFsdWU9TURMc0lNU0ExOGlqTEV3Tnd5dktDdz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",BEIN 3 INDO [TEST]
-http://46.166.184.36:2095/artutm/bein3ph/chunks.m3u8?nimblesessionid=775448&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAxOCAzOjA1OjE4IFBNJmhhc2hfdmFsdWU9TURMc0lNU0ExOGlqTEV3Tnd5dktDdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",BeIN Sport 1 ID
+http://tvku.live:8888/ricki/rk01/728
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",BeIN Sport 2 ID
+http://tvku.live:8888/ricki/rk01/729
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",BeIN Sport 3 ID
+http://tvku.live:8888/ricki/rk01/730
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Astro SuperSport 1
 http://103.122.64.33:8888/ricki/rk01/882
