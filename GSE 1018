@@ -192,6 +192,8 @@ http://202.80.222.171:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomai
 http://rr2.dens.tv/s/s03/index1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",INDOSIAR
 http://rr2.dens.tv/s/s04/index1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",INDOSIAR GOJEK
+http://bit.ly/SulukIndosiar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",TRANS TV
 http://rr2.dens.tv/s/s05/index1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",TRANS 7 HD
