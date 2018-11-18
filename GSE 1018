@@ -4,6 +4,8 @@ http://www.dropbox.com/s/85cv9jpn14qwwi7/Intro%20IPTV.mp4?dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",RCTI
 http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",RCTI HD
+http://id8.indostreamingtv.com/live/tv6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",RCTI AFF
 https://stream.sindonews.net/live/rctioke.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",INDOSIAR
@@ -222,6 +224,41 @@ http://46.40.5.99:8000/arena_3_high
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",ARENA SPORT 4
 http://46.40.5.99:8000/arena_4_high
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",MK TV
+http://stream1.ninmedia.tv/live/xmedia-mktv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",MALEO CHANNEL
+http://stream1.ninmedia.tv/live/xmedia-maleotv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",KLIK MUSIK
+http://stream1.ninmedia.tv/live/xmedia-klikmusictv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",SALURAN FILM INDONESIA
+http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",TV BMW
+http://stream1.ninmedia.tv/live/xmedia-bmwtv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",FAKTA TV
+http://stream1.ninmedia.tv/live/nin-9net.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",DMI CHANNEL
+http://stream1.ninmedia.tv/live/xmedia-dmitv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",KITANESIA
+http://stream1.ninmedia.tv/live/xmedia-kitanesiatv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",SALING SAPA
+http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",DIAMOND TV
+http://stream1.ninmedia.tv/live/xmedia-dtv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",STAR BRIDGE TV
+http://stream2.ninmedia.tv/live/nin-startbridge-nin.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",INSPIRA TV
+http://stream1.ninmedia.tv/live/xmedia-inspiratv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",RUMAH TV
+http://stream2.ninmedia.tv/live/xmedia-rumahtv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",AREK TV
+ttp://stream1.ninmedia.tv/live/xmedia-arektv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",NU CHANNEL
+http://stream1.ninmedia.tv/live/xmedia-nuchannel.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",KARAOKE CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",DANGDUT TV
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST MEDIA♥",FIRST MEDIA INFO
 http://edge.linknetott.swiftserve.com/channelgroup4/cg421production/ch900/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST MEDIA♥",MIX TV
@@ -350,14 +387,26 @@ http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7488.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",AR: BeOUT 7 HD
 http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7489.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",Super SPORT 1 HD
+http://163.172.211.229:8000/live/apollo11/adtgffas/48.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",Super SPORT 2 HD
+http://163.172.211.229:8000/live/apollo11/adtgffas/49.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",Super SPORT 3 HD
+http://163.172.211.229:8000/live/apollo11/adtgffas/50.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",Super SPORT 4 HD
+http://163.172.211.229:8000/live/apollo11/adtgffas/51.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",Super SPORT 5 HD
+http://163.172.211.229:8000/live/apollo11/adtgffas/52.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",Tring Sport News HD
+http://163.172.211.229:8000/live/apollo11/adtgffas/43.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",Tring Sport 1 HD
-http://163.172.211.229:8000/live/sdsgal/orbit12/44.ts
+http://163.172.211.229:8000/live/apollo11/adtgffas/44.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",Tring Sport 2 HD
-http://163.172.211.229:8000/live/sdsgal/orbit12/45.ts
+http://163.172.211.229:8000/live/apollo11/adtgffas/45.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",Tring Sport 3 HD
-http://163.172.211.229:8000/live/sdsgal/orbit12/46.ts
+http://163.172.211.229:8000/live/apollo11/adtgffas/46.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",Tring Sport 4 HD
-http://163.172.211.229:8000/live/sdsgal/orbit12/47.ts
+http://163.172.211.229:8000/live/apollo11/adtgffas/47.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",ES: Moto GP
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.ts
@@ -374,17 +423,6 @@ http://rb-group-server.com:25461/12341234/12341234/3682
 http://rb-group-server.com:25461/12341234/12341234/3681
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",CA: TSN5
 http://rb-group-server.com:25461/12341234/12341234/3680
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",PT: SportTV 1 HD
-http://landiptv.live:8080/EDGARDO/203040/107820
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",PT: SportTV 2 HD
-http://landiptv.live:8080/EDGARDO/203040/107821
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",PT: SportTV 3 HD
-http://landiptv.live:8080/EDGARDO/203040/107822
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",PT: SportTV 4 HD
-http://landiptv.live:8080/EDGARDO/203040/107823
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",PT: SportTV 5 HD
-http://landiptv.live:8080/EDGARDO/203040/107824
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",ES: Movistar MotoGP HD
 http://landiptv.live:8080/EDGARDO/203040/131968
