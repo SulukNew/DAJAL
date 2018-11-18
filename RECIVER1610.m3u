@@ -181,8 +181,7 @@ http://cdn2.bear-tv.com/freetv/TOT_foxsport3/playlist.m3u8
 http://50.7.73.90:8278/foxsport3hd_twn/playlist.m3u8?tid=m2ea52d09d31418526751&ct=17828&tsum=c53041825db496ef66bc873ec333b7e5
 #EXTINF:-1,ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_04.m3u8
-#EXTVLCOPT:http-user-ag
-ent=ExoPlayerLib/2.2.0
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
 #EXTINF:-1,Sony TEN 1
 http://thop.in/THOPTV_APP/zgbsat-3221225875-002.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
@@ -291,3 +290,33 @@ http://hall2mark.ddns.net:80/medoum1/medoum/6899
 http://hall2mark.ddns.net:80/medoum1/medoum/6898
 #EXTINF:-1,AR:BEINSPORTS_11HD
 http://hall2mark.ddns.net:80/medoum1/medoum/6897
+
+#EXTINF:-1,BeIN Sport 1 ID
+http://tvku.live:8888/widysatelitgmailcom/pengadilan@732/728
+#EXTINF:-1,BeIN Sport 2 ID
+http://tvku.live:8888/widysatelitgmailcom/pengadilan@732/729
+#EXTINF:-1,BeIN Sport 3 ID
+http://tvku.live:8888/widysatelitgmailcom/pengadilan@732/730
+#EXTINF:-1,Fox Sports 1 Malaysia
+http://tvku.live:8888/widysatelitgmailcom/pengadilan@732/911
+#EXTINF:-1,Fox Sports 2 Malaysia
+http://tvku.live:8888/widysatelitgmailcom/pengadilan@732/895
+#EXTINF:-1,Fox Sports 3 Malaysia
+http://tvku.live:8888/widysatelitgmailcom/pengadilan@732/913
+#EXTINF:-1,Astro Super Sports 1
+http://tvku.live:8888/widysatelitgmailcom/pengadilan@732/882
+#EXTINF:-1,Astro Super Sports 2
+http://tvku.live:8888/widysatelitgmailcom/pengadilan@732/892
+#EXTINF:-1,Astro Super Sports 3
+http://tvku.live:8888/widysatelitgmailcom/pengadilan@732/893
+#EXTINF:-1,Astro Super Sports 4
+http://tvku.live:8888/widysatelitgmailcom/pengadilan@732/894
+#EXTINF:-1,Fox Sports 1
+http://tvku.live:8888/widysatelitgmailcom/pengadilan@732/51
+#EXTINF:-1,Fox Sports 2
+http://tvku.live:8888/widysatelitgmailcom/pengadilan@732/102
+#EXTINF:-1,Fox Sports 3
+http://tvku.live:8888/widysatelitgmailcom/pengadilan@732/101
+#EXTINF:-1,Skynet HD
+http://tvku.live:8888/widysatelitgmailcom/pengadilan@732/679
+
