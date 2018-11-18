@@ -387,6 +387,13 @@ http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7488.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",AR: BeOUT 7 HD
 http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7489.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE Sport 1 HD
+http://iptv.ndasat.com:88/329056230761828/329056230761828/2926
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE Sport 2 HD
+http://iptv.ndasat.com:88/329056230761828/329056230761828/2925
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE Sport 3 HD
+http://iptv.ndasat.com:88/329056230761828/329056230761828/2938
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",Super SPORT 1 HD
 http://163.172.211.229:8000/live/apollo11/adtgffas/48.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",Super SPORT 2 HD
