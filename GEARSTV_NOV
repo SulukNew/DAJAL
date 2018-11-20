@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",SULUK INTRO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="WELCOME️♥",SULUK INTRO
 http://www.dropbox.com/s/85cv9jpn14qwwi7/Intro%20IPTV.mp4?dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",SULUK ANTHEM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="WELCOME️♥",SULUK ANTHEM
 https://www.dropbox.com/s/mm43ay1v9avek25/IPTV.mp4?dl=1
 
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
