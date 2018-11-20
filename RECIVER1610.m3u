@@ -21,6 +21,8 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 #EXTINF:-1,CELESTIAL MOVIES
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
+#EXTINF:-1,TRANSVISION
+http://210.210.155.35/uq2663/h/h234/index2.m3u8
 #EXTINF:-1,RCTI
 http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1,RCTI AFF
@@ -55,6 +57,10 @@ http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=0
 http://id1.indostreamingtv.com/live/tv44/index.m3u8
 #EXTINF:-1,KOMPAS TV
 http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,KOMPAS HD
+https://stream-04.sg1.dailymotion.com/06/dm/3/x5rh8ih/live-3.m3u8
+#EXTINF:-1,METRO HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 #EXTINF:-1,TVRI 2
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 #EXTINF:-1,TVRI SPORT
@@ -136,6 +142,8 @@ https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 http://persik.by/stream/2944/263250/32.m3u8
 #EXTINF:-1,DISNEY CHANNEL
 http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+#EXTINF:-1,DISNEY XD
+http://primestreams.tv:826/live/MeRcury061559/083726956ws3/1672.m3u8
 
 #EXTINF:-1,IFLIX: FOX-SPORTS-HD
 http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS-HD/tracks-v1a1/mono.m3u8
@@ -291,37 +299,28 @@ http://hall2mark.ddns.net:80/medoum1/medoum/6898
 #EXTINF:-1,AR:BEINSPORTS_11HD
 http://hall2mark.ddns.net:80/medoum1/medoum/6897
 
-#EXTINF:-1,GINX ESPORTS TV
-http://tvku.live:8888/widysatelitgmailcom/9633920619/532
+#EXTINF:-1,BEIN SPORTS 1
+http://51.15.6.67/bein/1/index.m3u8
+#EXTINF:-1,BEIN SPORTS 2
+http://51.15.6.67/bein/2/index.m3u8
+#EXTINF:-1,BEIN SPORTS 3
+http://51.15.6.67/bein/3/index.m3u8
+#EXTINF:-1,BEIN SPORTS 5
+http://51.15.6.67/bein/5/index.m3u8
+#EXTINF:-1,BEIN SPORTS 11
+http://51.15.6.67/bein/11/index.m3u8
+#EXTINF:-1,BEIN SPORTS 12
+http://51.15.6.67/bein/12/index.m3u8
 
-#EXTINF:-1,BeIN Sport 1 ID
-http://tvku.live:8888/widysatelitgmailcom/9633920619/728
-#EXTINF:-1,BeIN Sport 2 ID
-http://tvku.live:8888/widysatelitgmailcom/9633920619/729
-#EXTINF:-1,BeIN Sport 3 ID
-http://tvku.live:8888/widysatelitgmailcom/9633920619/730
-#EXTINF:-1,Fox Sports 1 Malaysia
-http://tvku.live:8888/widysatelitgmailcom/9633920619/911
-#EXTINF:-1,Fox Sports 2 Malaysia
-http://tvku.live:8888/widysatelitgmailcom/9633920619/895
-#EXTINF:-1,Fox Sports 3 Malaysia
-http://tvku.live:8888/widysatelitgmailcom/9633920619/913
-#EXTINF:-1,Astro Super Sports 1
-http://tvku.live:8888/widysatelitgmailcom/9633920619/882
-#EXTINF:-1,Astro Super Sports 2
-http://tvku.live:8888/widysatelitgmailcom/9633920619/892
-#EXTINF:-1,Astro Super Sports 3
-http://tvku.live:8888/widysatelitgmailcom/9633920619/893
-#EXTINF:-1,Astro Super Sports 4
-http://tvku.live:8888/widysatelitgmailcom/9633920619/894
-#EXTINF:-1,Fox Sports 1
-http://tvku.live:8888/widysatelitgmailcom/9633920619/51
-#EXTINF:-1,Fox Sports 2
-http://tvku.live:8888/widysatelitgmailcom/9633920619/102
-#EXTINF:-1,Fox Sports 3
-http://tvku.live:8888/widysatelitgmailcom/9633920619/101
-#EXTINF:-1,Skynet HD
-http://tvku.live:8888/widysatelitgmailcom/9633920619/679
-
-
-
+#EXTINF:-1,RMC Sport 1
+http://185.93.3.84:5019/play/a00d
+#EXTINF:-1,RMC Sport 2
+http://185.93.3.84:5019/play/a00e
+#EXTINF:-1,RMC Sport 3
+http://185.93.3.84:5019/play/a00g
+#EXTINF:-1,BT Sport 1
+http://163.172.211.93:8081/BT/1/index.m3u8
+#EXTINF:-1,BT Sport 2
+http://163.172.86.57:3135/B/2/index.m3u8
+#EXTINF:-1,BT Sport 3
+http://163.172.86.59:3135/1513/BT/index.m3u8
