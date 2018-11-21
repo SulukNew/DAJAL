@@ -260,7 +260,7 @@ http://stream1.ninmedia.tv/live/xmedia-inspiratv.stream_nin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",RUMAH TV
 http://stream2.ninmedia.tv/live/xmedia-rumahtv.stream_nin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",AREK TV
-ttp://stream1.ninmedia.tv/live/xmedia-arektv.stream/playlist.m3u8
+http://stream1.ninmedia.tv/live/xmedia-arektv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",NU CHANNEL
 http://stream1.ninmedia.tv/live/xmedia-nuchannel.stream_nin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",KARAOKE CHANNEL
@@ -433,22 +433,22 @@ http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",ES: Movistar F1 
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/757.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE SPORT 1
-http://miamiiptv.dynns.com:8080/karadayi/karadayi/35781
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE SPORT 2
-http://miamiiptv.dynns.com:8080/karadayi/karadayi/35779
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE SPORT 3
-http://miamiiptv.dynns.com:8080/karadayi/karadayi/35777
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE SPORT 4
-http://miamiiptv.dynns.com:8080/karadayi/karadayi/35775
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE SPORT 5
-http://miamiiptv.dynns.com:8080/karadayi/karadayi/35773
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE SPORT 6
-http://miamiiptv.dynns.com:8080/karadayi/karadayi/35771
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE SPORT 7
-http://miamiiptv.dynns.com:8080/karadayi/karadayi/35769
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE SPORT 8
-http://miamiiptv.dynns.com:8080/karadayi/karadayi/35767
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",DE: Sky Select 1 HD
+http://formen1.com:8080/live/angel35/35angel/1495.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",DE: Sky Select 2 HD
+http://formen1.com:8080/live/angel35/35angel/1494.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",DE: Sky Select 3 HD
+http://formen1.com:8080/live/angel35/35angel/1493.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",DE: Sky Select 4 HD
+http://formen1.com:8080/live/angel35/35angel/1492.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",DE: Sky Select 5 HD
+http://formen1.com:8080/live/angel35/35angel/1491.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",DE: Sky Select 6 HD
+http://formen1.com:8080/live/angel35/35angel/1490.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",DE: Sky Select 7 HD
+http://formen1.com:8080/live/angel35/35angel/1489.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",DE: Sky Select 8 HD
+http://formen1.com:8080/live/angel35/35angel/1488.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",ES: Sky Sport MotoGP HD
 http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/2478.ts
@@ -466,20 +466,46 @@ http://tv.smartal.net:25461/gUqU0Lxucu2lM8qi7e/8EsPuBujE6rasafotr/253
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",AL: Arena Sport 5 HD
 http://tv.smartal.net:25461/gUqU0Lxucu2lM8qi7e/8EsPuBujE6rasafotr/249
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vH16dfJz/L13.png" group-title="RELAX♥",beIN MOVIES ACTION HD
-http://miamiiptv.dynns.com:8080/karadayi/karadayi/39615
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vH16dfJz/L13.png" group-title="RELAX♥",beIN MOVIES ACTION 2 HD
-http://miamiiptv.dynns.com:8080/karadayi/karadayi/39616
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vH16dfJz/L13.png" group-title="RELAX♥",beIN MOVIES PREMIERE HD
-http://miamiiptv.dynns.com:8080/karadayi/karadayi/39610
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vH16dfJz/L13.png" group-title="RELAX♥",beIN MOVIES PREMIERE 2 HD
-http://miamiiptv.dynns.com:8080/karadayi/karadayi/39611
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vH16dfJz/L13.png" group-title="RELAX♥",beIN BOX OFFICE 1 HD
-http://miamiiptv.dynns.com:8080/karadayi/karadayi/43913
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vH16dfJz/L13.png" group-title="RELAX♥",beIN BOX OFFICE 2 HD
-http://miamiiptv.dynns.com:8080/karadayi/karadayi/43912
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vH16dfJz/L13.png" group-title="RELAX♥",beIN BOX OFFICE 3 HD
-http://miamiiptv.dynns.com:8080/karadayi/karadayi/43911
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vH16dfJz/L13.png" group-title="RELAX♥",Bein Box Offİce 1 HD
+http://formen1.com:8080/live/angel35/35angel/129.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vH16dfJz/L13.png" group-title="RELAX♥",Bein Box Offİce 2 HD
+http://formen1.com:8080/live/angel35/35angel/128.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vH16dfJz/L13.png" group-title="RELAX♥",Bein Box Offİce 3 HD
+http://formen1.com:8080/live/angel35/35angel/127.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vH16dfJz/L13.png" group-title="RELAX♥",Bein Movies Action HD
+http://formen1.com:8080/live/angel35/35angel/9764.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vH16dfJz/L13.png" group-title="RELAX♥",Bein Movies Action 2 HD
+http://formen1.com:8080/live/angel35/35angel/3196.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vH16dfJz/L13.png" group-title="RELAX♥",Bein Movies Premier HD
+http://formen1.com:8080/live/angel35/35angel/11160.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY♥",SBS ONE
+http://mlsh.co:2086/1izlQG5f8n/f4pMyOXYEa/22084
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY♥",VICELAND
+http://mlsh.co:2086/1izlQG5f8n/f4pMyOXYEa/22159
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY♥",SKYNET SPORTS 1
+http://mlsh.co:2086/1izlQG5f8n/f4pMyOXYEa/26920
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY♥",SKYNET SPORTS 2
+http://mlsh.co:2086/1izlQG5f8n/f4pMyOXYEa/26919
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY♥",SKYNET SPORTS 3
+http://mlsh.co:2086/1izlQG5f8n/f4pMyOXYEa/26918
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY♥",SKYNET SPORTS 4
+http://mlsh.co:2086/1izlQG5f8n/f4pMyOXYEa/26917
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY♥",SKYNET SPORTS 5
+http://mlsh.co:2086/1izlQG5f8n/f4pMyOXYEa/26916
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY♥",SKYNET SPORTS 6
+http://mlsh.co:2086/1izlQG5f8n/f4pMyOXYEa/26915
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY♥",TOM AND JERRY
+http://mlsh.co:2086/1izlQG5f8n/f4pMyOXYEa/22896
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY♥",SCOOBY-DOO
+http://mlsh.co:2086/1izlQG5f8n/f4pMyOXYEa/37988
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY♥",MICKEY MOUSE
+http://mlsh.co:2086/1izlQG5f8n/f4pMyOXYEa/35559
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY♥",JAMES BOND MOVIES
+http://mlsh.co:2086/1izlQG5f8n/f4pMyOXYEa/37954
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY♥",MR BEAN
+http://mlsh.co:2086/1izlQG5f8n/f4pMyOXYEa/24581
+
 
 
 
