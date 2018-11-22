@@ -4,66 +4,66 @@ http://www.dropbox.com/s/85cv9jpn14qwwi7/Intro%20IPTV.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="WELCOME️♥",SULUK ANTHEM
 https://www.dropbox.com/s/mm43ay1v9avek25/IPTV.mp4?dl=1
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TRANSVISION
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TRANSVISION" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TRANSVISION
 http://210.210.155.35/uq2663/h/h234/index2.m3u8
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",RCTI
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",RCTI
 http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",RCTI HD
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI HD" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",RCTI HD
 http://id8.indostreamingtv.com/live/tv66/index.m3u8
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",RCTI AFF
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI AFF" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",RCTI AFF
 https://stream.sindonews.net/live/rctioke.m3u8
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",INDOSIAR
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",INDOSIAR
 http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",INDOSIAR GOJEK
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR GOJEK" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",INDOSIAR GOJEK
 http://id1.indostreamingtv.com/live/tv11/index.m3u8
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",SCTV
 http://202.80.222.182/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",GLOBAL TV
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GLOBAL TV" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",GLOBAL TV
 http://202.80.222.182:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",MNC TV
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",MNC TV
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TRANS 7
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS 7" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TRANS 7
 http://202.80.222.182/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TRANS7 HD
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TRANS7 HD" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TRANS7 HD
 http://stream-04.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TRANS TV
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TRANS TV" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TRANS TV
 http://202.80.222.182/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",BERITA SATU HD
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BERITA SATU HD" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",BERITA SATU HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",CNN HD [IND]
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN HD" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",CNN HD [IND]
 http://iptv.didanurwanda.com/channel/live/cnn-indonesia-hd.m3u8
 #EXTINF:-1 tvg-id="NetTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",NET HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",ANTV
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="NET HD" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
-#EXTINF:-1 tvg-id="TVOne.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TV ONE
+#EXTINF:-1 tvg-id="TVOne.id" tvg-name="V ONE" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TV ONE
 http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="TVOne.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TV ONE FEED
+#EXTINF:-1 tvg-id="TVOne.id" tvg-name="TV ONE FEED" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TV ONE FEED
 http://id1.indostreamingtv.com/live/tv44/index.m3u8
-#EXTINF:-1 tvg-id="KompasTv.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",KOMPAS TV
+#EXTINF:-1 tvg-id="KompasTv.id" tvg-name="KOMPAS TV" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",KOMPAS TV
 http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="KompasTv.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",KOMPAS HD
+#EXTINF:-1 tvg-id="KompasTv.id" tvg-name="KOMPAS HD" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",KOMPAS HD
 https://stream-04.sg1.dailymotion.com/06/dm/3/x5rh8ih/live-3.m3u8
 
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",METRO HD
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="METRO HD" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",METRO HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TVRI 2
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI 2" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TVRI 2
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TVRI SPORT HD
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI SPORT HD" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TVRI SPORT HD
 http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",INEWS
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="INEWS" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",INEWS
 http://edge.okezone.com/live/inewsokezone.com.m3u8
-#EXTINF:-1 tvg-id="InTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",INTV
+#EXTINF:-1 tvg-id="InTV.id" tvg-name="INTV" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",INTV
 http://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",THE INDONESIA CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="THE INDONESIA CHANNEL" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",THE INDONESIA CHANNEL
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
-#EXTINF:-1 tvg-id="JakTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",JAK tv
+#EXTINF:-1 tvg-id="JakTV.id" tvg-name="JAK tv" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",JAK tv
 http://202.80.222.182:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",RTV
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="RTV" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",RTV
 http://202.80.222.171:80/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2198020181031055334464619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",KARAOKE CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKE CHANNEL" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
-#EXTINF:-1 tvg-id="JTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",JTV SURABAYA
+#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV SURABAYA" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",JTV SURABAYA
 http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/bJ1vdvwZ/L12.png" group-title="MELAYU♥",ASTRO HELLO
