@@ -299,19 +299,6 @@ http://hall2mark.ddns.net:80/medoum1/medoum/6898
 #EXTINF:-1,AR:BEINSPORTS_11HD
 http://hall2mark.ddns.net:80/medoum1/medoum/6897
 
-#EXTINF:-1,BEIN SPORTS 1
-http://51.15.6.67/bein/1/index.m3u8
-#EXTINF:-1,BEIN SPORTS 2
-http://51.15.6.67/bein/2/index.m3u8
-#EXTINF:-1,BEIN SPORTS 3
-http://51.15.6.67/bein/3/index.m3u8
-#EXTINF:-1,BEIN SPORTS 5
-http://51.15.6.67/bein/5/index.m3u8
-#EXTINF:-1,BEIN SPORTS 11
-http://51.15.6.67/bein/11/index.m3u8
-#EXTINF:-1,BEIN SPORTS 12
-http://51.15.6.67/bein/12/index.m3u8
-
 #EXTINF:-1,RMC Sport 1
 http://185.93.3.84:5019/play/a00d
 #EXTINF:-1,RMC Sport 2
