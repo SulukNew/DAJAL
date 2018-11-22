@@ -263,18 +263,23 @@ http://23.237.22.82:8086/udp/127.0.0.1:56016
 http://92.60.237.33:17000/play/SkySport1
 #EXTINF:-1,Sky Sport 2 HD
 http://92.60.237.33:17000/play/SkySport2
-#EXTINF:-1,GR: OTE Sport 1
-http://iptv.ndasat.com:88/329056230761828/329056230761828/2926
-#EXTINF:-1,GR: OTE Sport 2
-http://iptv.ndasat.com:88/329056230761828/329056230761828/2925
-#EXTINF:-1,GR: OTE Sport 3
-http://iptv.ndasat.com:88/329056230761828/329056230761828/2938
-#EXTINF:-1,UK: BT Sport 1
-http://iptv.ndasat.com:88/329056230761828/329056230761828/9
-#EXTINF:-1,UK: BT Sport 2
-http://iptv.ndasat.com:88/329056230761828/329056230761828/10
-#EXTINF:-1,UK: BT Sport 3
-http://iptv.ndasat.com:88/329056230761828/329056230761828/18
+
+#EXTINF:-1,GR: OTE  SPORT1
+http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2809.ts
+#EXTINF:-1,GR: OTE  SPORT2
+http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2808.ts
+#EXTINF:-1,GR: OTE  SPORT 3
+http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2807.ts
+#EXTINF:-1,GR: OTE  SPORT 4
+http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2806.ts
+#EXTINF:-1,GR: OTE  SPORT 5
+http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2805.ts
+#EXTINF:-1,GR: OTE  SPORT 6
+http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2804.ts
+#EXTINF:-1,GR: OTE  SPORT 7
+http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2803.ts
+#EXTINF:-1,GR: OTE  SPORT 8
+http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2802.ts
 
 #EXTINF:-1,AR:BeINSports_HD1
 http://hall2mark.ddns.net:80/medoum1/medoum/6907
