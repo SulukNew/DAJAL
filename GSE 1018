@@ -32,11 +32,11 @@ http://202.80.222.182/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=0
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN HD" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",CNN HD [IND]
 http://iptv.didanurwanda.com/channel/live/cnn-indonesia-hd.m3u8
-#EXTINF:-1 tvg-id="NetTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",NET HD
+#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET HD" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",NET HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="NET HD" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",ANTV
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
-#EXTINF:-1 tvg-id="TVOne.id" tvg-name="V ONE" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TV ONE
+#EXTINF:-1 tvg-id="TVOne.id" tvg-name="TV ONE" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TV ONE
 http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-id="TVOne.id" tvg-name="TV ONE FEED" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TV ONE FEED
 http://id1.indostreamingtv.com/live/tv44/index.m3u8
