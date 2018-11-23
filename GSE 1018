@@ -32,9 +32,9 @@ http://202.80.222.182/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=0
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",BERITA SATU HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:0 tvg-id="cnn" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",CNN HD [IND]
-http://iptv.didanurwanda.com/channel/live/cnn-indonesia-hd.m3u8
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",NET HD
-http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 #EXTINF:0 tvg-id="TVOne.uk" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TV ONE
