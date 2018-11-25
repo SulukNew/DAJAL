@@ -67,9 +67,9 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b22
 http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/bJ1vdvwZ/L12.png" group-title="MELAYU♥",ASTRO HELLO
-http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8.m3u8
+http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/bJ1vdvwZ/L12.png" group-title="MELAYU♥",ASTRO ARENA
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/bJ1vdvwZ/L12.png" group-title="MELAYU♥",ASTRO AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/bJ1vdvwZ/L12.png" group-title="MELAYU♥",MEDIACORP OKTO HD
@@ -101,6 +101,8 @@ http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/bJ1vdvwZ/L12.png" group-title="MELAYU♥",RTM PARLEMENT
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="ENTERTAINT♥",Film INDONESIA
+https://abstract.playercdn.net/187/6/p0_PUcBrGh4X_CdzbTJxLA/1543138187/181119/380FXDFQNEP14EHXTYLTN.mp4
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="ENTERTAINT♥",O MUSIC FHD
 http://77.232.128.68/bks.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="ENTERTAINT♥",XLITE MUSIC
@@ -154,6 +156,12 @@ http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/chunklis
 #EXTINF:0 tvg-id="animal_rus" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="ENTERTAINT♥",ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",JARUM_Super_SoccerTV
+http://210.210.155.35/uq2663/h/h135/01.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",PPTVHD
+http://119.59.125.74/stream/totnew.php?channel_id=623d009180394c528880c14e2254452a&.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",FEED BULU TANGKIS
+https://defjwd5stvrhj.cloudfront.net/out/v1/54a201076b1e46ee83027a72ef637252/index_2.m3u8
 #EXTINF:0 tvg-id="TenSports.in" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",Sony TEN 1
 http://thop.in/THOPTV_APP/zgbsat-3221225875-002.m3u8
 #EXTINF:0 tvg-id="TenAction.in" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",Sony TEN 2
@@ -259,7 +267,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg421production/ch900/index.
 #EXTINF:0 tvg-id="Mixtv.br" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST MEDIA♥",MIX TV
 http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST MEDIA♥",J'Go
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 #EXTINF:0 tvg-id="Warnerchannel.br" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST MEDIA♥",WARNER
 http://210.210.155.35/session/7538220a-e68c-11e8-b63d-c81f66f89318/uq2663/h/h233/01.m3u8
 #EXTINF:0 tvg-id="Animax.de" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST MEDIA♥",ANIMAX
@@ -442,26 +450,22 @@ http://formen1.com:8080/live/angel35/35angel/1490.ts
 http://formen1.com:8080/live/angel35/35angel/1489.ts
 #EXTINF:0 tvg-id="SkySelect8.de" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",DE: Sky Select 8 HD
 http://formen1.com:8080/live/angel35/35angel/1488.ts
-#EXTINF:0 tvg-id="ext" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE  SPORT1
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2809.ts
-#EXTINF:0 tvg-id="ext" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE  SPORT2
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2808.ts
-#EXTINF:0 tvg-id="OTESport3.gr" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE  SPORT 3
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2807.ts
-#EXTINF:0 tvg-id="OTESport4.gr" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE  SPORT 4
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2806.ts
-#EXTINF:0 tvg-id="OTESport5.gr" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE  SPORT 5
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2805.ts
-#EXTINF:0 tvg-id="OTESport6.gr" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE  SPORT 6
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2804.ts
-#EXTINF:0 tvg-id="OTESport7.gr" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE  SPORT 7
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2803.ts
-#EXTINF:0 tvg-id="OTESport8.gr" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE  SPORT 8
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2802.ts
-#EXTINF:0 tvg-id="ext" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",ES: Sky Sport MotoGP HD
-http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/2478.ts
-#EXTINF:0 tvg-id="ext" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",ES: Sky Sport Formula1 HD
-http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/2478.ts
+#EXTINF:0 tvg-id="ext" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR:OTE  SPORT1
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/2809.ts
+#EXTINF:0 tvg-id="ext" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR:OTE  SPORT2
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/2808.ts
+#EXTINF:0 tvg-id="ext" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR:OTE  SPORT 3
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/2807.ts
+#EXTINF:0 tvg-id="ext" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR:OTE  SPORT 4
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/2806.ts
+#EXTINF:0 tvg-id="ext" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR:OTE  SPORT 5
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/2805.ts
+#EXTINF:0 tvg-id="ext" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR:OTE  SPORT 6
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/2804.ts
+#EXTINF:0 tvg-id="ext" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR:OTE  SPORT 7
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/2803.ts
+#EXTINF:0 tvg-id="ext" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR:OTE  SPORT 8
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/2802.ts
 
 #EXTINF:0 tvg-id="Salon1.tr" tvg-logo="https://i.postimg.cc/vH16dfJz/L13.png" group-title="RELAX♥",Bein Box Offİce 1 HD
 http://formen1.com:8080/live/angel35/35angel/129.ts
