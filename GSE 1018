@@ -142,9 +142,9 @@ http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="ENTERTAINT♥",CINEMA WORLD [Indo Text]
 http://local2.bloggue.work/uq2663/h/h04/01.m3u8
 #EXTINF:0 tvg-id="SonyLePlex.in" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="ENTERTAINT♥",Sony Le Plex
-http://thop.in/THOPTV_APP/zgbsat-3221226446-002.m3u8
+http://useetv.me:8000/live/Zalkepotv/6zLhjSWBXV/81.ts
 #EXTINF:0 tvg-id="SonyPIX.in" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="ENTERTAINT♥",Sony Pix
-http://thop.in/THOPTV_APP/zgbsat-3221226486-002.m3u8
+http://useetv.me:8000/live/Zalkepotv/6zLhjSWBXV/82.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="ENTERTAINT♥",FOX MOVIES [AR]
 http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="ENTERTAINT♥",DISCOVERY CH. HD
