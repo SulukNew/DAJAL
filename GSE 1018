@@ -558,6 +558,12 @@ http://niobzca.cf:8080/joas/1234/89322
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/vH16dfJz/L13.png" group-title="RELAX♥",OSN Movies Premiere 2 HD
 http://niobzca.cf:8080/joas/1234/88746
 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY♥",FOXTEL
+http://106.68.125.182:9981/stream/channelid/399592412?ticket=210EA12F4060CDB169A18C7615DCEDB78DDA5058&profile=matroska
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY♥",SBS ONE HD
+http://106.68.125.182:9981/stream/channelid/424705888?ticket=D47AEA55C2BEA992E7902114E658D5C298017FE5&profile=matroska
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY♥",SBS VICELAND
+http://106.68.125.182:9981/stream/channelid/1296247887?ticket=261CBE11FBB4472D4C2D2C8BB088501E20457193&profile=matroska
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY♥",SBS ONE
 http://mlsh.co:2086/1izlQG5f8n/f4pMyOXYEa/22084
 #EXTINF:0 tvg-id="VICELAND.uk" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY♥",VICELAND
