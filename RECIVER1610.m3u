@@ -20,8 +20,28 @@ http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 http://persik.by/stream/2944/263250/32.m3u8
 #EXTINF:-1,DISNEY CHANNEL
 http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
-#EXTINF:-1,BOOMERANG
-http://80.87.208.158/dna-143-tv-pc.m3u8
+#EXTINF:-1,Boomerang
+http://newyork.streamlive.to/mobile/lirvhoc1rj69ydq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDE4IDE6NDE6MDYgUE0maGFzaF92YWx1ZT1aUVMvRXpXWmxGQUk0eUpIcU1QS3ZBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMiZpZD0x
+#EXTINF:-1,Cartoon Network
+http://newyork.streamlive.to/mobile/9l41fcr1sgmclej/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAxOCAxMDo1MzoxOCBBTSZoYXNoX3ZhbHVlPTFCSHRVUU5vRlh4anhaeVdMakV4enc9PSZ2YWxpZG1pbnV0ZXM9MjQwJnN0cm1fbGVuPTIyJmlkPTE=
+#EXTINF:-1,Disney Channel
+http://newyork.streamlive.to/mobile/2tag4dzgwof5ma2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDE4IDM6NDY6MzYgUE0maGFzaF92YWx1ZT0zamRac3phT3pNMjZHZFNRZHlEeHJnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMiZpZD0x
+#EXTINF:-1,Disney Junior (East)
+http://newyork.streamlive.to/mobile/hm2x644tccsp2vu/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMy8yMDE4IDY6MDg6MTUgQU0maGFzaF92YWx1ZT1aWERreU42bHN2Nk9QSlUxa3dhTS9RPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMiZpZD0x
+#EXTINF:-1,Disney Junior (West)
+http://newyork.streamlive.to/mobile/z6augr7dmiycx35/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMy8yMDE4IDY6MDg6MTUgQU0maGFzaF92YWx1ZT1aWERreU42bHN2Nk9QSlUxa3dhTS9RPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMiZpZD0x
+#EXTINF:-1,Disney XD
+http://newyork.streamlive.to/mobile/9kzz2h2p7e5ejgy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDE4IDI6MTA6MDYgUE0maGFzaF92YWx1ZT1MMy83bmZkQTMzNlYwUnVwS21sRzlnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMiZpZD0x
+#EXTINF:-1,Nickelodeon
+http://newyork.streamlive.to/mobile/64jaber5pjqj2cr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDE4IDM6NDQ6NTAgUE0maGFzaF92YWx1ZT1kN0xjUTc4eUUyU2YrS2R5amladkx3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMiZpZD0x
+#EXTINF:-1,Nickelodeon (East)
+http://newyork.streamlive.to/mobile/aecpkf3ahqlbulw/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDE4IDI6MTE6MzIgUE0maGFzaF92YWx1ZT1nK3dvUnJXUklXKzcrTk0yci9SbDRRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMiZpZD0x
+#EXTINF:-1,Nickelodeon (West)
+http://newyork.streamlive.to/mobile/oiiws9tgpcgb9js/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDE4IDI6MTU6MDAgUE0maGFzaF92YWx1ZT1jMzNkd2JWMExNYTgwS2ZCb0pXVDJ3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMiZpZD0x
+#EXTINF:-1,Nick Jr.
+http://newyork.streamlive.to/mobile/zmtfudkfx3neras/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDE4IDM6NDg6NDQgUE0maGFzaF92YWx1ZT14MW14Snh2aUxxNUVOWXRiZ3pJSXlRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMiZpZD0x
+#EXTINF:-1,Nicktoons
+http://newyork.streamlive.to/mobile/477ltm5ematwdhs/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDE4IDI6MDg6NTQgUE0maGFzaF92YWx1ZT1ZRk5XQllnTG5TVk9yZ1d6RW0wQVpBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMiZpZD0x
 
 #EXTINF:-1,CH. MIX (BIG TV)
 http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
@@ -94,8 +114,10 @@ http://stream1.ninmedia.tv/live/xmedia-maleotv.stream_nin/playlist.m3u8
 #EXTINF:-1,JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
-#EXTINF:-1,HBO HD
-http://210.210.155.35/uq2663/h/h234/index2.m3u8
+#EXTINF:-1,SONY PIX HD
+http://redflixhosting.services/airtel/at.php?id=http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
+#EXTINF:-1,SONY LE PLEX HD
+http://redflixhosting.services/airtel/at.php?id=http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/04.m3u8
 #EXTINF:-1,FOX MOVIE HTV
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,FOX MOVIES ACTION HTV
@@ -160,6 +182,8 @@ http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
 #EXTINF:-1,JARUM_Super_SoccerTV
 http://210.210.155.35/uq2663/h/h135/01.m3u8
+#EXTINF:-1,WWE Network
+http://newyork.streamlive.to/mobile/i69u9isa4x7rbxf/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDE4IDQ6MTQ6MzAgUE0maGFzaF92YWx1ZT11Mk4rZ0tXREdHQlFiL1hyNXFFN1lnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMiZpZD0x
 #EXTINF:-1,Astro 1
 http://203.154.243.89:1204
 #EXTINF:-1,Astro 2
@@ -172,14 +196,18 @@ http://203.154.243.89:1211
 http://119.59.125.74/stream/totnew.php?channel_id=623d009180394c528880c14e2254452a&.m3u8
 #EXTINF:-1,FEED BULU TANGKIS
 https://defjwd5stvrhj.cloudfront.net/out/v1/54a201076b1e46ee83027a72ef637252/index_2.m3u8
-#EXTINF:-1,Sony TEN 1
-http://163.172.211.93:8081/Ten/1/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
-#EXTINF:-1,Sony TEN 2
-http://163.172.218.205:8081/2Ten/2/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
-#EXTINF:-1,Sony TEN 3
-http://163.172.86.57:3135/Ten/3/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
-#EXTINF:-1,Sony SIX
-http://163.172.86.59:3135/sONY/6sICHD/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0MjFiM2VjOGZhMzgxYWY6MTUzMzg5MDU4Mw==
+#EXTINF:-1,SONY TEN 1 HD
+http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/04.m3u8
+#EXTINF:-1,SONY TEN 2 HD
+http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/04.m3u8
+#EXTINF:-1,SONY TEN 3 HD
+http://redflixhosting.services/airtel/at.php?id=http://mhms8.airtel.tv/wh7f454c46tw1915960971_986066483/PLTV/88888888/224/3221226330/04.m3u8
+#EXTINF:-1,SONY SIX HD
+http://redflixhosting.services/airtel/at.php?id=http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/04.m3u8
+#EXTINF:-1,SONY ESPN HD
+http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/04.m3u8
+#EXTINF:-1,DSPORT HD
+http://redflixhosting.services/airtel/at.php?id=http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
 #EXTINF:-1,FOX-SPORTS-HD [VT]
 http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,FOX 2 [Asia]
