@@ -281,36 +281,51 @@ http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8
 #EXTINF:-1,WWE TV
 http://flu1.podzone.net:9091/WWE/Net2/index.m3u8
 
-#EXTINF:-1,beIN 1 HD
-http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/21.ts
-#EXTINF:-1,beIN 2 HD
-http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/22.ts
-#EXTINF:-1,beIN 3 HD
-http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/23.ts
-#EXTINF:-1,beIN 4 HD
-http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/24.ts
-#EXTINF:-1,beIN 5 HD
-http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/25.ts
-#EXTINF:-1,beIN 6 HD
-http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/26.ts
-#EXTINF:-1,beIN 7 HD
-http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/27.ts
-#EXTINF:-1,beIN 8 HD
-http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/28.ts
-#EXTINF:-1,beIN 9 HD
-http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/29.ts
-#EXTINF:-1,beIN 10 HD
-http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/30.ts
-#EXTINF:-1,beIN 11 HD
-http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/31.ts
-#EXTINF:-1,beIN 12 HD
-http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/32.ts
-#EXTINF:-1,BEIN SPORTS FR 1
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/47.ts
-#EXTINF:-1,BEIN SPORTS FR 2
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/45.ts
-#EXTINF:-1,BEIN SPORTS FR 3
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/43.ts
+#EXTINF:-1,AR: Bein Sports 1 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2563.ts
+#EXTINF:-1,AR: Bein Sports 2 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2562.ts
+#EXTINF:-1,AR: Bein Sports 3 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2561.ts
+#EXTINF:-1,AR: Bein Sports 4 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2560.ts
+#EXTINF:-1,AR: Bein Sports 5 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2559.ts
+#EXTINF:-1,AR: Bein Sports 6 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2558.ts
+#EXTINF:-1,AR: Bein Sports 7 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2557.ts
+#EXTINF:-1,AR: Bein Sports 8 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2556.ts
+#EXTINF:-1,AR: Bein Sports 9 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2555.ts
+#EXTINF:-1,AR: Bein Sports 10 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2554.ts
+#EXTINF:-1,AR: Bein Sports 11 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2553.ts
+#EXTINF:-1,AR: Bein Sports 12 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2552.ts
+#EXTINF:-1,Bein Sports 1 FR HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2600.ts
+#EXTINF:-1,Bein Sports 2 FR HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2601.ts
+#EXTINF:-1,Bein Sports 3 FR HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2602.ts
+
+#EXTINF:-1,UK: Sky Sports Action HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/4466.ts
+#EXTINF:-1,UK: SKY Sports Mix HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/4465.ts
+#EXTINF:-1,UK: SKY Sports Arena HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/4464.ts
+#EXTINF:-1,UK: SKY Sports Main Event HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/4463.ts
+#EXTINF:-1,UK: SKY Sports Premier League HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/4462.ts
+#EXTINF:-1,UK: SKY SPORTS F1 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/4461.ts
+#EXTINF:-1,UK: SKY SPORTS NEWS HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/4460.ts
 
 #EXTINF:-1,AD SPORT 1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
@@ -318,27 +333,6 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:-1, AD SPORT EXTRA
 http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
-
-#EXTINF:-1,Sky Sports Main Event
-http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/43.ts
-#EXTINF:-1,Sky Sports Premier League
-http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/44.ts
-#EXTINF:-1,Sky Sports Football
-http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/45.ts
-#EXTINF:-1,Sky Sports Cricket
-http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/46.ts
-#EXTINF:-1,Sky Sports Golf
-http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/47.ts
-#EXTINF:-1,Sky Sports F1
-http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/48.ts
-#EXTINF:-1,Sky Sports Action
-http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/49.ts
-#EXTINF:-1,Sky Sports Arena
-http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/50.ts
-#EXTINF:-1,Sky Sports News
-http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/51.ts
-#EXTINF:-1,Sky Sports Mix
-http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/52.ts
 
 #EXTINF:-1,O MUSIC FHD
 http://77.232.128.68/bks.m3u8
