@@ -221,30 +221,28 @@ http://2111.space:25461/admin_544672/HZw0YpV9/4670
 #EXTINF:-1,STAR WORLD HD
 http://2111.space:25461/admin_544672/HZw0YpV9/4669
 
-#EXTINF:-1,STAR SPORT 1 HD
-http://163.172.86.57:3135/dabStar/1HH/index.m3u8
-#EXTINF:-1,STAR SPORT 2 HD
-http://139.180.131.131:4444/StarSports2HD.m3u8
-#EXTINF:-1,BeinSport1 HD
-http://2111.space:25461/admin_544672/HZw0YpV9/1316
-#EXTINF:-1,BeinSport2 HD
-http://2111.space:25461/admin_544672/HZw0YpV9/1315
-#EXTINF:-1,BeinSport3 HD
-http://2111.space:25461/admin_544672/HZw0YpV9/1314
-#EXTINF:-1,BeinSport4 HD
-http://2111.space:25461/admin_544672/HZw0YpV9/1313
-#EXTINF:-1,BeinSport5 HD
-http://2111.space:25461/admin_544672/HZw0YpV9/1312
-#EXTINF:-1,BeinSport6 HD
-http://2111.space:25461/admin_544672/HZw0YpV9/1311
-#EXTINF:-1,BeinSport7 HD
-http://2111.space:25461/admin_544672/HZw0YpV9/1310
-#EXTINF:-1,BeinSport8 HD
-http://2111.space:25461/admin_544672/HZw0YpV9/1309
-#EXTINF:-1,BeinSport9 HD
-http://2111.space:25461/admin_544672/HZw0YpV9/1308
-#EXTINF:-1,BeinSport10 HD
-http://2111.space:25461/admin_544672/HZw0YpV9/1307
+#EXTINF:-1,BEIN_SPORTS 1 HD
+http://iptvtool.es:9977/alba12/alba12/60991
+#EXTINF:-1,BEIN_SPORTS 2 HD
+http://iptvtool.es:9977/alba12/alba12/60987
+#EXTINF:-1,BEIN_SPORTS 3 HD
+http://iptvtool.es:9977/alba12/alba12/60986
+#EXTINF:-1,BEIN_SPORTS 4 HD
+http://iptvtool.es:9977/alba12/alba12/60985
+#EXTINF:-1,BEIN_SPORTS 5 HD
+http://iptvtool.es:9977/alba12/alba12/60984
+#EXTINF:-1,BEIN_SPORTS 6 HD
+http://iptvtool.es:9977/alba12/alba12/60983
+#EXTINF:-1,BEIN_SPORTS 7 HD
+http://iptvtool.es:9977/alba12/alba12/60982
+#EXTINF:-1,BEIN_SPORTS 8 HD
+http://iptvtool.es:9977/alba12/alba12/60981
+#EXTINF:-1,BEIN_SPORTS 9 HD
+http://iptvtool.es:9977/alba12/alba12/60980
+#EXTINF:-1,BEIN_SPORTS 11
+http://iptvtool.es:9977/alba12/alba12/60989
+#EXTINF:-1,BEIN_SPORTS 12
+http://iptvtool.es:9977/alba12/alba12/60988
 
 #EXTINF:-1,Sky_Premier_Sport
 http://2111.space:25461/admin_544672/HZw0YpV9/4874
