@@ -18,6 +18,12 @@ http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 http://persik.by/stream/2944/263250/32.m3u8
 #EXTINF:-1,DISNEY CHANNEL
 http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+#EXTINF:-1,CN
+http://198.251.99.4:8764/hls/master-224-2001.m3u8
+#EXTINF:-1,Disney Channel
+http://198.251.99.4:8764/hls/master-224-2002.m3u8
+#EXTINF:-1,Disney Jr.
+http://198.251.99.4:8764/hls/master-2211-3015.m3u8
 
 #EXTINF:-1,CH. MIX (BIG TV)
 http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
@@ -86,6 +92,10 @@ http://198.251.99.4:8764/hls/master-226-2003.m3u8
 http://198.251.99.4:8764/hls/master-226-2005.m3u8
 #EXTINF:-1,TLC
 http://198.251.99.4:8764/hls/master-227-2003.m3u8
+#EXTINF:-1,Discovery Science
+http://198.251.99.4:8764/hls/master-2211-3002.m3u8
+#EXTINF:-1,Hallmark Channel
+http://198.251.99.4:8764/hls/master-2211-3003.m3u8
 #EXTINF:-1,FOX MOVIE HTV
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,FOX MOVIES ACTION HTV
@@ -129,306 +139,6 @@ http://60.248.127.231:8006/0.ts
 http://60.248.127.231:8038/0.ts
 #EXTINF:-1,History Asia
 http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?thebestfreeenglishchannels.m3u8
-
-#EXTINF:-1,ASTRO AEC HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18633
-#EXTINF:-1,ASTRO ARENA HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18632
-#EXTINF:-1,ASTRO BELLA MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18631
-#EXTINF:-1,ASTRO CERIA MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18630
-#EXTINF:-1,ASTRO CRICKET HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18629
-#EXTINF:-1,ASTRO OASIS HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18628
-#EXTINF:-1,ASTRO PRIMA HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18627
-#EXTINF:-1,ASTRO QUAN JIA HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18626
-#EXTINF:-1,ASTRO RIA HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18625
-#EXTINF:-1,ASTRO SHUANG XING HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18624
-#EXTINF:-1,ASTRO SUPERSPORTS 1 FHD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18623
-#EXTINF:-1,ASTRO SUPERSPORTS 2 FHD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18622
-#EXTINF:-1,ASTRO SUPERSPORTS 3 FHD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18621
-#EXTINF:-1,ASTRO SUPERSPORTS 4 FHD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18620
-#EXTINF:-1,ASTRO TARA HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18619
-#EXTINF:-1,ASTRO VAANAVIL HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18618
-#EXTINF:-1,ASTRO VINMEEN HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18617
-#EXTINF:-1,ASTRO WARNA HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18616
-#EXTINF:-1,ASTRO XI YUE MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18615
-#EXTINF:-1,ASTRO XIAO TAI YANG MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18614
-#EXTINF:-1,AXN HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18613
-#EXTINF:-1,Astro Awani MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/1373
-#EXTINF:-1,Astro Maya HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/1371
-#EXTINF:-1,Astro SuperSport 1 MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/1366
-#EXTINF:-1,Astro SuperSport 2 HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/1365
-#EXTINF:-1,Astro SuperSport 3 HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/1364
-#EXTINF:-1,Astro SuperSport 4 HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/1161
-#EXTINF:-1,BABY FIRST MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18612
-#EXTINF:-1,BBC EARTH HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18610
-#EXTINF:-1,BBC LIFESTYLE MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18609
-#EXTINF:-1,BEIN SPORTS MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18608
-#EXTINF:-1,BOLLY ONE HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18606
-#EXTINF:-1,BOOMERANG HD KD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18605
-#EXTINF:-1,CARTOON NETWORK MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18604
-#EXTINF:-1,CELESTIAL MOVIES MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18603
-#EXTINF:-1,CHANNEL W MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18602
-#EXTINF:-1,CINEMA WORLD HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18601
-#EXTINF:-1,DISCOVERY CHANNEL MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18600
-#EXTINF:-1,DISNEY CH MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18599
-#EXTINF:-1,DISNEY JR MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18598
-#EXTINF:-1,DISNEY XD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18597
-#EXTINF:-1,DIVA HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18596
-#EXTINF:-1,DUNIA SINEMA MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18595
-#EXTINF:-1,ENTERTAINMENT MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18594
-#EXTINF:-1,EVERY GOOD GAME HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18593
-#EXTINF:-1,FOX FAMILY MOVIES HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18592
-#EXTINF:-1,FOX LIFE HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18591
-#EXTINF:-1,FOX MOVIES HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18590
-#EXTINF:-1,FOX SPORTS 1 MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18589
-#EXTINF:-1,FOX SPORTS 2 MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18588
-#EXTINF:-1,FOX SPORTS 3 MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18587
-#EXTINF:-1,FOX TV HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18586
-#EXTINF:-1,FX CINEMA HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18585
-#EXTINF:-1,Fox Movies Action HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/1362
-#EXTINF:-1,Fox Movies Premium MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/1361
-#EXTINF:-1,GNIX SPORTS HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18584
-#EXTINF:-1,HGTV MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18583
-#EXTINF:-1,HHD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18582
-#EXTINF:-1,HITS HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18581
-#EXTINF:-1,HYPP SENSASI MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18580
-#EXTINF:-1,HYPP SPORTS 1 HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18579
-#EXTINF:-1,HYPP SPORTS 2 HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18578
-#EXTINF:-1,HYPP SPORTS 3 HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18577
-#EXTINF:-1,JAYA MAX APAC Plus MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18548
-#EXTINF:-1,K PLUS HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18576
-#EXTINF:-1,KIX MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18575
-#EXTINF:-1,LIFETIME MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18574
-#EXTINF:-1,MTV ASIA MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18573
-#EXTINF:-1,MUTV HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18572
-#EXTINF:-1,NAT GEO ASIA HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18571
-#EXTINF:-1,NAT GEO PEOPLE HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18570
-#EXTINF:-1,NAT GEO WILD HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18569
-#EXTINF:-1,NICK JR KD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18568
-#EXTINF:-1,NICK KD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18567
-#EXTINF:-1,NOW TV CHINESE MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18566
-#EXTINF:-1,NTV7 MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/1360
-#EXTINF:-1,OHIK MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18565
-#EXTINF:-1,OUTDOOR HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18564
-#EXTINF:-1,PARAMAUNT CHANNEL MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18563
-#EXTINF:-1,PESONA HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18562
-#EXTINF:-1,RED HBO HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18561
-#EXTINF:-1,SETANTA SPORTS HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18560
-#EXTINF:-1,SETi CHINESE MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18559
-#EXTINF:-1,SONY ONE HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18558
-#EXTINF:-1,SONY SAB APAC Plus MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18545
-#EXTINF:-1,SONY SETMAX APAC Plus MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18544
-#EXTINF:-1,SONY TV APAC Plus MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18543
-#EXTINF:-1,STAR CHINESE CHANNEL HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18557
-#EXTINF:-1,STAR VIJAY APAC Plus MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/18546
-#EXTINF:-1,SkyNet Baby TV MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/9131
-#EXTINF:-1,SkyNet CGCN Docu MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/9128
-#EXTINF:-1,SkyNet Dmax MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/9126
-#EXTINF:-1,SkyNet Fox Action Movies HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/9142
-#EXTINF:-1,SkyNet Fox Action Movies MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/9143
-#EXTINF:-1,SkyNet Golf HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/9123
-#EXTINF:-1,SkyNet MTV China MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/9122
-#EXTINF:-1,SkyNet Movies HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/9114
-#EXTINF:-1,SkyNet Music MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/9121
-#EXTINF:-1,SkyNet Phoenix Info News MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/9132
-#EXTINF:-1,SkyNet Sports 1 HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/1160
-#EXTINF:-1,SkyNet Sports 1 MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/1159
-#EXTINF:-1,SkyNet Sports 2 MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/1158
-#EXTINF:-1,SkyNet Sports 3 MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/1157
-#EXTINF:-1,SkyNet Sports 4 MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/1156
-#EXTINF:-1,SkyNet Sports 5 MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/1155
-#EXTINF:-1,SkyNet Sports 6 MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/1154
-#EXTINF:-1,SkyNet Sports HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/9113
-#EXTINF:-1,SkyNet Sports Plus HD MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/9110
-#EXTINF:-1,SkyNet Sports Plus MY
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/9112
-
-#EXTINF:-1,beIN Sports 1 TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8510
-#EXTINF:-1,beIN Sports 1 HD TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8506
-#EXTINF:-1,beIN Sports 2 TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8509
-#EXTINF:-1,beIN Sports 2 HD TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8505
-#EXTINF:-1,beIN Sports 3 TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8508
-#EXTINF:-1,beIN Sports 3 HD TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8504
-#EXTINF:-1,beIN Sports 4 TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8507
-#EXTINF:-1,beIN Sports 4 HD TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8503
-#EXTINF:-1,TrueVision Tennis HD TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8502
-#EXTINF:-1,Sports Illustrated HD TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8501
-#EXTINF:-1,NBA HD TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8500
-#EXTINF:-1,True Golf TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8499
-#EXTINF:-1,EUROSPORT TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8692
-#EXTINF:-1,T-SPORTS TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8686
-#EXTINF:-1,T-Sports 1 HD TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8498
-#EXTINF:-1,T-Sports 2 HD TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8497
-#EXTINF:-1,T-Sports 3 HD TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8496
-#EXTINF:-1,T-SPORTS 5 TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8685
-#EXTINF:-1,T-SPORTS 6 TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8684
-#EXTINF:-1,Skynet Sports HD TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8518
-#EXTINF:-1,Skynet Sports 1 TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8516
-#EXTINF:-1,Skynet Sports 2 TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8515
-#EXTINF:-1,Skynet Sports 3 TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8514
-#EXTINF:-1,Skynet Sports 4 TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8513
-#EXTINF:-1,Skynet Sports 5 TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8512
-#EXTINF:-1,Skynet Sports 6 TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8511
-#EXTINF:-1,Skynet Sports Plus TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8517
-#EXTINF:-1,ESPN TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8602
-#EXTINF:-1,FOX SPORTS 1 HD TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/12636
-#EXTINF:-1,FOX SPORTS 2 HD TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8688
-#EXTINF:-1,FOX SPORTS 3 HD TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8687
-#EXTINF:-1,Fox Sports HD TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8690
-#EXTINF:-1,MIO FOX SPORTS 1 HD TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8207
-#EXTINF:-1,MIO FOX SPORTS 2 HD TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8206
-#EXTINF:-1,MIO FOX SPORTS 3 HD TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8205
-#EXTINF:-1,Sony Six Sport TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8682
-#EXTINF:-1,Fox Sport 2 TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8681
-#EXTINF:-1,Fox Sport 3 TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8680
-#EXTINF:-1,True Sport 2 HD TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8679
-#EXTINF:-1,True Sport 3 HD TH
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/8678
 
 #EXTINF:-1,ASTRO HELLO
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8.m3u8
@@ -633,14 +343,20 @@ http://185.93.3.84:5019/play/a00e
 http://185.93.3.84:5019/play/a00g
 #EXTINF:-1,RMC Sport 4
 http://185.93.3.84:5019/play/a00m
-#EXTINF:-1,BT Sport 1
-http://163.172.211.93:8081/BT/1/index.m3u8
-#EXTINF:-1,BT Sport 2
-http://163.172.86.57:3135/B/2/index.m3u8
-#EXTINF:-1,BT Sport 3
-http://163.172.86.59:3135/1513/BT/index.m3u8
-#EXTINF:-1,BT Sport ESPN
-http://163.172.86.59:3135/Espn/BT/index.m3u8
+#EXTINF:-1,BT SPORT 1 HD
+http://31.220.3.192:8081/live/fb1/playlist.m3u8
+#EXTINF:-1,BT SPORT 2 HD
+http://31.220.3.192:8081/live/fb2/playlist.m3u8
+#EXTINF:-1,BT SPORT 3 HD
+http://31.220.3.192:8081/live/fb3/playlist.m3u8
+#EXTINF:-1,BT SPORT ESPN HD
+http://31.220.3.192:8081/live/fb4/playlist.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1
+http://31.220.0.194:8081/live/fmix1/playlist.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2
+http://31.220.0.194:8081/live/fmix2/playlist.m3u8
+#EXTINF:-1,SPORTS NETWORK
+http://31.220.0.194:8081/live/fmix3/playlist.m3u8
 #EXTINF:-1,FISHING NETWORK
 http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 #EXTINF:-1,FLOW SPORT
@@ -655,12 +371,8 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:-1, AD SPORT EXTRA
 http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
 
-#EXTINF:-1,O MUSIC FHD
-http://77.232.128.68/bks.m3u8
 #EXTINF:-1,XLITE MUSIC
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
-#EXTINF:-1,MUSIC CHOICE
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1,1HD MUSIC TV
 http://cdn-01.bonus-tv.ru:8080/1HDmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1,BOX HITS
@@ -671,12 +383,6 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0
 http://125.235.29.16/livetv/keeng.m3u8
 #EXTINF:-1,M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1,MTV DANCE
-http://80.87.208.158:80/dna-68-tv-pc.m3u8
-#EXTINF:-1,MTV HITS
-http://80.87.208.158:80/dna-67-tv-pc.m3u8
-#EXTINF:-1,MTV ROCKS
-http://80.87.208.158:80/dna-99-tv-pc.m3u8
 #EXTINF:-1,MUSIC CHOICE
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1,MUSIC TOP
