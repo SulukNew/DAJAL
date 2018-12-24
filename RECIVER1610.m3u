@@ -177,129 +177,168 @@ http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.
 #EXTINF:-1,RTM PARLEMENT
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
-#EXTINF:-1,beIN MOVIES HD1 (PREMIERE)
-http://topiptv.net:5890/fetah/fetah/3119
-#EXTINF:-1,beIN MOVIES HD2 (ACTION)
-http://topiptv.net:5890/fetah/fetah/3120
-#EXTINF:-1,beIN MOVIES HD3 (DRAMA)
-http://topiptv.net:5890/fetah/fetah/3121
-#EXTINF:-1,beIN MOVIES HD4 (FAMILY)
-http://topiptv.net:5890/fetah/fetah/3122
-#EXTINF:-1,beIN AMC HD
-http://topiptv.net:5890/fetah/fetah/9011
-#EXTINF:-1,beIN FX HD
-http://topiptv.net:5890/fetah/fetah/7571
-#EXTINF:-1,beIN FOX HD
-http://topiptv.net:5890/fetah/fetah/3348
-#EXTINF:-1,beIN FOX MOVIES HD
-http://topiptv.net:5890/fetah/fetah/2645
-#EXTINF:-1,beIN FOX MOVIES ACTION HD
-http://topiptv.net:5890/fetah/fetah/7570
-#EXTINF:-1,beIN FOX MOVIES FAMILY HD
-http://topiptv.net:5890/fetah/fetah/7569
-#EXTINF:-1,beIN STAR WORLD HD
-http://topiptv.net:5890/fetah/fetah/7636
+#EXTINF:-1,AR: OSN Animal Planet HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11867
+#EXTINF:-1,AR: OSN BBC First HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11865
+#EXTINF:-1,AR: OSN Box Office 2 HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11863
+#EXTINF:-1,AR: OSN Box Office 3 HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11862
+#EXTINF:-1,AR: OSN Box Office HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11864
+#EXTINF:-1,AR: OSN Cartoon_Network HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11861
+#EXTINF:-1,AR: OSN Comedy Central HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11859
+#EXTINF:-1,AR: OSN Discovery Channel HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11857
+#EXTINF:-1,AR: OSN Discovery ID HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11853
+#EXTINF:-1,AR: OSN Discovery Science HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11854
+#EXTINF:-1,AR: OSN Disney Channel HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11852
+#EXTINF:-1,AR: OSN Disney Junior HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11851
+#EXTINF:-1,AR: OSN Fatafeat HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11848
+#EXTINF:-1,AR: OSN Fight Network HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11847
+#EXTINF:-1,AR: OSN Fine_Living HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11846
+#EXTINF:-1,AR: OSN First Comedy HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11845
+#EXTINF:-1,AR: OSN First HBO HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11844
+#EXTINF:-1,AR: OSN History Channel HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11842
+#EXTINF:-1,AR: OSN Kid Zone TV HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11841
+#EXTINF:-1,AR: OSN MTV Live HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11828
+#EXTINF:-1,AR: OSN Movies 2 HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11840
+#EXTINF:-1,AR: OSN Movies Action 2 HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11838
+#EXTINF:-1,AR: OSN Movies Action HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11839
+#EXTINF:-1,AR: OSN Movies Family HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11836
+#EXTINF:-1,AR: OSN Movies Festival HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11835
+#EXTINF:-1,AR: OSN Movies First HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11834
+#EXTINF:-1,AR: OSN Movies HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11832
+#EXTINF:-1,AR: OSN Movies Kids HD AE*
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11831
+#EXTINF:-1,AR: OSN Movies Premiere HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11830
+#EXTINF:-1,AR: OSN Nat Geo HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11827
+#EXTINF:-1,AR: OSN Nat Geo People HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11826
+#EXTINF:-1,AR: OSN Nat Geo Wild HD AE*
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11825
+#EXTINF:-1,AR: OSN News HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11824
+#EXTINF:-1,AR: OSN Nickelodeon HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11822
+#EXTINF:-1,AR: OSN Series First HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11812
+#EXTINF:-1,AR: OSN Series HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11811
+#EXTINF:-1,AR: OSN Sports 1 HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11810
+#EXTINF:-1,AR: OSN Sports 2 HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11809
+#EXTINF:-1,AR: OSN Sports 3 HD AE*
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11808
+#EXTINF:-1,AR: OSN Sports 4 HD
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11807
+#EXTINF:-1,AR: OSN Sports Cricket HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11804
+#EXTINF:-1,AR: OSN Star Movies HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11803
+#EXTINF:-1,AR: OSN Star World HD
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11802
+#EXTINF:-1,AR: OSN Syfy HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11800
+#EXTINF:-1,AR: OSN TLC HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11799
+#EXTINF:-1,AR: OSN WWE HD AE
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11795
 
-#EXTINF:-1,beIN SPORTS HD
-http://topiptv.net:5890/fetah/fetah/5221
-#EXTINF:-1,beIN SPORTS News HD
-http://topiptv.net:5890/fetah/fetah/5220
-#EXTINF:-1,beIN SPORTS 1HD
-http://topiptv.net:5890/fetah/fetah/1
-#EXTINF:-1,beIN SPORTS 2HD
-http://topiptv.net:5890/fetah/fetah/3
-#EXTINF:-1,beIN SPORTS 3HD
-http://topiptv.net:5890/fetah/fetah/5
-#EXTINF:-1,beIN SPORTS 4HD
-http://topiptv.net:5890/fetah/fetah/7
-#EXTINF:-1,beIN SPORTS 5HD
-http://topiptv.net:5890/fetah/fetah/9
-#EXTINF:-1,beIN SPORTS 6HD
-http://topiptv.net:5890/fetah/fetah/11
-#EXTINF:-1,beIN SPORTS 7HD
-http://topiptv.net:5890/fetah/fetah/13
-#EXTINF:-1,beIN SPORTS 8HD
-http://topiptv.net:5890/fetah/fetah/15
-#EXTINF:-1,beIN SPORTS 9HD
-http://topiptv.net:5890/fetah/fetah/17
-#EXTINF:-1,beIN SPORTS 10HD
-http://topiptv.net:5890/fetah/fetah/19
-#EXTINF:-1,beIN SPORTS 11HD
-http://topiptv.net:5890/fetah/fetah/21
-#EXTINF:-1,beIN SPORTS 12HD
-http://topiptv.net:5890/fetah/fetah/22
-#EXTINF:-1,beIN SPORTS 13HD
-http://topiptv.net:5890/fetah/fetah/1156
-#EXTINF:-1,beIN SPORTS 14HD
-http://topiptv.net:5890/fetah/fetah/1157
-#EXTINF:-1,beIN SPORTS 15HD
-http://topiptv.net:5890/fetah/fetah/1158
-#EXTINF:-1,beIN SPORTS 16HD
-http://topiptv.net:5890/fetah/fetah/1159
-#EXTINF:-1,beIN SPORTS 17HD
-http://topiptv.net:5890/fetah/fetah/2589
+#EXTINF:-1,AR: beIN Movies 1 HD QA
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11878
+#EXTINF:-1,AR: beIN Movies 2 HD QA
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11877
+#EXTINF:-1,AR: beIN Movies 3 HD QA
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11876
+#EXTINF:-1,AR: beIN Movies 4 HD QA
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/11875
 
-#EXTINF:-1,beoutQ SPORTS HD1
-http://topiptv.net:5890/fetah/fetah/11141
-#EXTINF:-1,beoutQ SPORTS HD2
-http://topiptv.net:5890/fetah/fetah/11142
-#EXTINF:-1,beoutQ SPORTS HD3
-http://topiptv.net:5890/fetah/fetah/11143
-#EXTINF:-1,beoutQ SPORTS HD4
-http://topiptv.net:5890/fetah/fetah/11144
-#EXTINF:-1,beoutQ SPORTS HD5
-http://topiptv.net:5890/fetah/fetah/11145
-#EXTINF:-1,beoutQ SPORTS HD6
-http://topiptv.net:5890/fetah/fetah/11146
-#EXTINF:-1,beoutQ SPORTS HD7
-http://topiptv.net:5890/fetah/fetah/12501
-#EXTINF:-1,beoutQ SPORTS HD8
-http://topiptv.net:5890/fetah/fetah/11934
-#EXTINF:-1,beoutQ SPORTS HD9
-http://topiptv.net:5890/fetah/fetah/11929
-#EXTINF:-1,beoutQ SPORTS HD10
-http://topiptv.net:5890/fetah/fetah/11928
+#EXTINF:-1,PT: SPORT TV 
+http://merlin.magikdata.biz:8000/live/iGsz07Z021/JDh8xWQ9KV/2155.m3u8
+#EXTINF:-1,PT: SPORT TV (1+) 
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3984.ts
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4047.ts
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3985.ts
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3995.ts
+#EXTINF:-1,PT: SPORT TV 4 
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3986.ts
+#EXTINF:-1,PT: SPORT TV 5 
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3987.ts
 
-#EXTINF:-1,NL: Fox sport 1 HD
-http://topiptv.net:5890/fetah/fetah/9204
-#EXTINF:-1,NL: Fox sport 2 HD
-http://topiptv.net:5890/fetah/fetah/9205
-#EXTINF:-1,NL: Fox sport 3 HD
-http://topiptv.net:5890/fetah/fetah/9206
-#EXTINF:-1,NL: Fox sport 4 HD
-http://topiptv.net:5890/fetah/fetah/9207
-#EXTINF:-1,NL: Fox sport 5 HD
-http://topiptv.net:5890/fetah/fetah/9208
-#EXTINF:-1,NL: Fox Sports 6 HD
-http://topiptv.net:5890/fetah/fetah/9209
+#EXTINF:-1,AR: Bein Sports 01
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/13294
+#EXTINF:-1,AR: Bein Sports 02
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/13296
+#EXTINF:-1,AR: Bein Sports 03
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/13297
+#EXTINF:-1,AR: Bein Sports 04
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/13298
+#EXTINF:-1,AR: Bein Sports 05
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/13299
+#EXTINF:-1,AR: Bein Sports 06
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/13301
+#EXTINF:-1,AR: Bein Sports 07
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/13302
+#EXTINF:-1,AR: Bein Sports 08
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/13303
+#EXTINF:-1,AR: Bein Sports 09
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/13304
+#EXTINF:-1,AR: Bein Sports 09
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/13305
+#EXTINF:-1,AR: Bein Sports 11
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/13306
+#EXTINF:-1,AR: Bein Sports 12
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/13307
 
-#EXTINF:-1,NL: Ziggo Sport Golf
-http://topiptv.net:5890/fetah/fetah/9227
-#EXTINF:-1,NL: Ziggo Sport Racing
-http://topiptv.net:5890/fetah/fetah/9231
-#EXTINF:-1,NL: Ziggo Sport Select HD
-http://topiptv.net:5890/fetah/fetah/9225
-#EXTINF:-1,NL: Ziggo Sport Voetbal
-http://topiptv.net:5890/fetah/fetah/9229
-#EXTINF:-1,NL: Ziggo Sport1 extra
-http://topiptv.net:5890/fetah/fetah/9226
-#EXTINF:-1,NL: Ziggo Sport eXtra 2
-http://topiptv.net:5890/fetah/fetah/9232
-
-#EXTINF:-1,Sky Sports HD football UK
-http://topiptv.net:5890/fetah/fetah/4665
-#EXTINF:-1,Sky Sports HD arena UK
-http://topiptv.net:5890/fetah/fetah/4661
-#EXTINF:-1,Sky Sports HD premier league UK
-http://topiptv.net:5890/fetah/fetah/4663
-#EXTINF:-1,Sky Sports HD main event UK
-http://topiptv.net:5890/fetah/fetah/4184
-#EXTINF:-1,Sky Sports HD cricket UK
-http://topiptv.net:5890/fetah/fetah/4185
-#EXTINF:-1,Sky Sports HD action UK
-http://topiptv.net:5890/fetah/fetah/4186
-#EXTINF:-1,Sky Sports HD golf UK
-http://topiptv.net:5890/fetah/fetah/4187
+#EXTINF:-1,UK: Sky Sports Action
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/8451
+#EXTINF:-1,UK: Sky Sports Arena
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/8452
+#EXTINF:-1,UK: Sky Sports Cricket
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/8102
+#EXTINF:-1,UK: Sky Sports F1
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/3986
+#EXTINF:-1,UK: Sky Sports Football
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/8101
+#EXTINF:-1,UK: Sky Sports Golf
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/8103
+#EXTINF:-1,UK: Sky Sports Main Event
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/7360
+#EXTINF:-1,UK: Sky Sports Mix
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/8354
+#EXTINF:-1,UK: Sky Sports News
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/8353
+#EXTINF:-1,UK: Sky Sports Premier League
+http://iptv-area-51.tv:2095/Steveg1969/2p6v1FH4mr/7361
 
 #EXTINF:-1,WWE Network
 http://newyork.streamlive.to/mobile/i69u9isa4x7rbxf/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDE4IDQ6MTQ6MzAgUE0maGFzaF92YWx1ZT11Mk4rZ0tXREdHQlFiL1hyNXFFN1lnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMiZpZD0x
