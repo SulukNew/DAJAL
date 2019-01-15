@@ -428,15 +428,6 @@ http://203.154.243.89:1207
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",Astro Sport 4
 http://203.154.243.89:1211
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",K+1 HD
-http://iptv-nl3.hdflixtv.com/VN-K+1-HD/mpegts?token=k15340113b7e8a466f0ec6a1234f2d9c-1547567043-5c2f507fff359a314ecd2525
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",K+NS HD
-http://iptv-nl3.hdflixtv.com/VN-K+NS-HD/mpegts?token=k15340113b7e8a466f0ec6a1234f2d9c-1547567043-5c2f507fff359a314ecd2525
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",K+PC HD
-http://iptv-nl3.hdflixtv.com/VN-K+PC-HD/mpegts?token=k15340113b7e8a466f0ec6a1234f2d9c-1547567043-5c2f507fff359a314ecd2525
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",K+PM HD
-http://iptv-nl3.hdflixtv.com/VN-K+PM-HD/mpegts?token=k15340113b7e8a466f0ec6a1234f2d9c-1547567043-5c2f507fff359a314ecd2525
-
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",CHANEL GAMES HD
 http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29631?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",CCTV 5 HD
@@ -743,7 +734,7 @@ http://185.152.64.54:2200/R-EX/SPORTS_TEN_2_HD_S-in/index.m3u8?token=WbJL7LcL3rj
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",SONY TEN 3 FHD
 http://185.152.64.54:2200/R-EX/SPORTS_TEN_3_HD_S-in/index.m3u8?token=WbJL7LcL3rjxpDJa
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",SONY SIX HD
-http://iptv-us1.hdflixtv.com/SONY-SIX-HD/mpegts?token=k15340113b7e8a466f0ec6a1234f2d9c-1547567043-5c2f507fff359a314ecd2525
+http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29548?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",SONY ESPN HD
 http://iptv-us1.hdflixtv.com/SONY-ESPN-HD/mpegts?token=k15340113b7e8a466f0ec6a1234f2d9c-1547567043-5c2f507fff359a314ecd2525
 
