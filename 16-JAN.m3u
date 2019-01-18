@@ -417,7 +417,7 @@ http://xxultraxx.com:80/tvlink531/205677/26000
 http://xxultraxx.com:80/tvlink531/205677/25995
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",SONY TEN 1 HD
-http://142.93.219.225:8081/Ten1HD/index.m3u8
+http://163.172.218.205:8081/T/1/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",SONY TEN 2 HD
 http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29547?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",SONY TEN 3 HD
@@ -519,54 +519,50 @@ http://xxultraxx.com:80/tvlink531/205677/1509
 http://xxultraxx.com:80/tvlink531/205677/2762
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",FR: RMC SPORT 1 HD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/26597.ts
+http://smart-hdip.com:6204/soran/soran/14046
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",FR: RMC SPORT 2 HD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/26596.ts
+http://smart-hdip.com:6204/soran/soran/14045
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",FR: RMC SPORT 3 HD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/26595.ts
+http://smart-hdip.com:6204/soran/soran/14044
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",FR: RMC SPORT 4 HD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/26594.ts
+http://smart-hdip.com:6204/soran/soran/14043
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",NL: FOX SPORT 1 HD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/1092.ts
+http://smart-hdip.com:6204/soran/soran/9561
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",NL: FOX SPORT 2 HD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/1091.ts
+http://smart-hdip.com:6204/soran/soran/9560
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",NL: FOX SPORT 3 HD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/1090.ts
+http://smart-hdip.com:6204/soran/soran/9559
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",NL: FOX SPORT 4 HD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/1089.ts
+http://smart-hdip.com:6204/soran/soran/9558
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",NL: FOX SPORT 5 HD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/1088.ts
+http://smart-hdip.com:6204/soran/soran/9557
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",NL: FOX SPORT 6 HD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/1087.ts
+http://smart-hdip.com:6204/soran/soran/9556
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",NL: ZIGGO SPORT EXTRA 1 HD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/1081.ts
+http://smart-hdip.com:6204/soran/soran/9522
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",NL: ZIGGO SPORT EXTRA 2 HD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/1080.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",NL: ZIGGO SPORT GOLF HD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/1082.ts
+http://smart-hdip.com:6204/soran/soran/9521
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",NL: ZIGGO SPORT HD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/1086.ts
+http://smart-hdip.com:6204/soran/soran/9518
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",NL: ZIGGO SPORT RACING HD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/1083.ts
+http://smart-hdip.com:6204/soran/soran/9519
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",NL: ZIGGO SPORT VOETBAL HD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/1085.ts
+http://smart-hdip.com:6204/soran/soran/9517
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",US: AFN SPORTS
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34789.ts
+http://mysrs.top:80/keenoncarter@yahoo.com/YL8lzz82r3/2826
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",US: AFN SPORTS 2
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34788.ts
+http://mysrs.top:80/keenoncarter@yahoo.com/YL8lzz82r3/2825
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",TR: TİVİBU SPOR HD PLUS
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/39550.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",TR: TIVIBU SPOR 1 HD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/39549.ts
+http://mysrs.top:80/keenoncarter@yahoo.com/YL8lzz82r3/3294
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",TR: TIVIBU SPOR 2 HD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/39548.ts
+http://mysrs.top:80/keenoncarter@yahoo.com/YL8lzz82r3/3293
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",TR: TIVIBU SPOR 3 HD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/39547.ts
+http://mysrs.top:80/keenoncarter@yahoo.com/YL8lzz82r3/3292
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",TR: TIVIBU SPOR 4 HD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/39546.ts
+http://mysrs.top:80/keenoncarter@yahoo.com/YL8lzz82r3/3291
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/mkQnrxDf/M3.png" group-title="EURO♥SPORT",Super SPORT 1 HD
 http://163.172.211.229:8000/live/gfsdythfitspo/rsfrhgspit/48.ts
