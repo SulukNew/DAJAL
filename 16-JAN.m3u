@@ -46,13 +46,13 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",HBO INDIA FHD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14550
+http://52.66.89.249/HBO_HD/video.m3u8?token=XH6p3jYyb1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",MOVIES NOW FHD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14625
+http://52.66.89.249/Movies_Now_HD/video.m3u8?token=XH6p3jYyb1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",MN PLUS FHD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14623
+http://52.66.89.249/MNPLUS/video.m3u8?token=XH6p3jYyb1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",MNX FHD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14624
+http://52.66.89.249/Movies_Now2/video.m3u8?token=XH6p3jYyb1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",SONY LE PLEX FHD
 http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/11840
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",SONY PIX FHD
@@ -60,7 +60,9 @@ http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14424
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",STAR GOLD FHD
 http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14472
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",STAR GOLD SELECT FHD
-http://king-ott.com:80/live/zaini1/zaini2/34581.ts
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/25712
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",ROMEDY NOW HD
+http://52.66.89.249/Romedy_Now_HD/video.m3u8?token=XH6p3jYyb1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",STAR MOVIES FHD
 http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/11803
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",STAR MOVIES SELECT FHD
@@ -70,7 +72,7 @@ http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/11802
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",STAR WORLD PREMIER FHD
 http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/11832
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",WARNER BROS FHD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14622
+http://52.66.89.249/WB/video.m3u8?token=XH6p3jYyb1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",TATA SKY WORLD CINEMA FHD
 http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/8283
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",AND FLIX HD
@@ -85,13 +87,13 @@ http://king-tv.net:8080/123/321/23593
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",AR: Bein FOX MOVIES FAMILY HD
 http://king-tv.net:8080/123/321/23592
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",AR: Bein Movies 1 HD
-http://daddyiptv.com:8000/live/riza1/1234/10846.ts
+http://123orca.com:25461/wajih123/123wajih/2965
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",AR: Bein Movies 2 HD
-http://daddyiptv.com:8000/live/riza1/1234/10847.ts
+http://123orca.com:25461/wajih123/123wajih/2964
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",AR: Bein Movies 3 HD
-http://daddyiptv.com:8000/live/riza1/1234/10848.ts
+http://123orca.com:25461/wajih123/123wajih/2963
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",AR: Bein Movies 4 HD
-http://daddyiptv.com:8000/live/riza1/1234/10849.ts
+http://123orca.com:25461/wajih123/123wajih/2962
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",BEOUT Q Action
 http://62.210.76.207:443/live/osama2019/abdo2019/32.ts
@@ -124,11 +126,11 @@ http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14616
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pd64GY77/M8.png" group-title="DOC♥ASIA♥TEMP",FOX LIFE FHD
 http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/8320
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pd64GY77/M8.png" group-title="DOC♥ASIA♥TEMP",AXN FHD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14618
+http://52.66.89.249/AXN_HD/video.m3u8?token=XH6p3jYyb1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pd64GY77/M8.png" group-title="DOC♥ASIA♥TEMP",TLC WORLD FHD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14613
+http://52.66.89.249/TLC_HD_World/video.m3u8?token=XH6p3jYyb1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pd64GY77/M8.png" group-title="DOC♥ASIA♥TEMP",TRAVEL XP FHD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14614
+http://52.66.89.249/Travel_XP_HD/video.m3u8?token=XH6p3jYyb1
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/fy4FZWMf/M7.png" group-title="LOVE♥ASIA",ASTRO HELLO
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
