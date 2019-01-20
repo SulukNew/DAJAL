@@ -45,34 +45,34 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="IND♥NESIA",J'Go
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",HBO INDIA FHD
-http://52.66.89.249/HBO_HD/video.m3u8?token=XH6p3jYyb1
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",MOVIES NOW FHD
-http://52.66.89.249/Movies_Now_HD/video.m3u8?token=XH6p3jYyb1
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",MN PLUS FHD
-http://52.66.89.249/MNPLUS/video.m3u8?token=XH6p3jYyb1
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",MNX FHD
-http://52.66.89.249/Movies_Now2/video.m3u8?token=XH6p3jYyb1
+#EXTINF:0 tvg-id="cnn" tvg-logo="https://i.postimg.cc/0NwvJxJS/VCON.png" group-title="LOVE♥D2H",HBO HD
+http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14550
+#EXTINF:0 tvg-id="cnn" tvg-logo="https://i.postimg.cc/0NwvJxJS/VCON.png" group-title="LOVE♥D2H",MN PLUS HD
+http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14623
+#EXTINF:0 tvg-id="cnn" tvg-logo="https://i.postimg.cc/0NwvJxJS/VCON.png" group-title="LOVE♥D2H",MOVIES NOW HD
+http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14625
+#EXTINF:0 tvg-id="cnn" tvg-logo="https://i.postimg.cc/0NwvJxJS/VCON.png" group-title="LOVE♥D2H",MOVIES NOW 2 HD
+http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14624
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",SONY LE PLEX FHD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/11840
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/25698
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",SONY PIX FHD
 http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14424
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",STAR GOLD FHD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14472
+http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/25714
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",STAR GOLD SELECT FHD
 http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/25712
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",ROMEDY NOW HD
-http://52.66.89.249/Romedy_Now_HD/video.m3u8?token=XH6p3jYyb1
+http://52.66.89.249/Romedy_Now_HD/video.m3u8?token=fuckyou
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",STAR MOVIES FHD
 http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/11803
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",STAR MOVIES SELECT FHD
 http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/11839
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",STAR WORLD FHD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/11802
+http://bestbuyiptv.link:6969/an/123456/7699
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",STAR WORLD PREMIER FHD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/11832
+http://bestbuyiptv.link:6969/an/123456/7700
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",WARNER BROS FHD
-http://52.66.89.249/WB/video.m3u8?token=XH6p3jYyb1
+http://52.66.89.249/WB/video.m3u8?token=fuckyou
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",TATA SKY WORLD CINEMA FHD
 http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/8283
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",AND FLIX HD
@@ -428,47 +428,68 @@ http://cdn6.woideas.com/11sp.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",ELEVEN SPORT + HD TW
 http://163.172.105.25:9989/live?channelId=381&deviceMac=00:1A:79:BE:2F:F6&uid=1615&fileName=381.ts
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",beIN SPORTS HD1
-http://123orca.com:25461/wajih123/123wajih/12075
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",beIN SPORTS HD2
-http://123orca.com:25461/wajih123/123wajih/12076
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",beIN SPORTS HD3
-http://123orca.com:25461/wajih123/123wajih/3165
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",beIN SPORTS HD4
-http://123orca.com:25461/wajih123/123wajih/3164
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",beIN SPORTS HD5
-http://123orca.com:25461/wajih123/123wajih/3163
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",beIN SPORTS HD6
-http://123orca.com:25461/wajih123/123wajih/3162
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",beIN SPORTS HD7
-http://123orca.com:25461/wajih123/123wajih/3161
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",beIN SPORTS HD8
-http://123orca.com:25461/wajih123/123wajih/3160
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",beIN SPORTS HD9
-http://123orca.com:25461/wajih123/123wajih/3159
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",beIN SPORTS HD10
-http://123orca.com:25461/wajih123/123wajih/3158
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",beIN Sports 1 FHD ARB
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/13860
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",beIN Sports 2 FHD ARB
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/13859
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",beIN Sports 3 FHD ARB
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/53268
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",beIN Sports 4 FHD ARB
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/13857
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",beIN Sports 5 FHD ARB
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/625256
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",beIN Sports 6 FHD ARB
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/13855
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",beIN Sports 7 FHD ARB
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/13854
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",beIN Sports 8 FHD ARB
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/13853
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",beIN Sports 9 FHD ARB
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/13852
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",beIN Sports 10 FHD ARB
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/13851
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",beIN SPORTS HD11
 http://123orca.com:25461/wajih123/123wajih/3157
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/YC2PtsBZ/M5.png" group-title="SPORT♥ASIA",beIN SPORTS HD12
 http://123orca.com:25461/wajih123/123wajih/3156
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",GR: OTE SPORT 1
-http://daddyiptv.com:8000/live/riza1/1234/2809.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",GR: OTE SPORT 2
-http://daddyiptv.com:8000/live/riza1/1234/2808.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",GR: OTE SPORT 3
-http://daddyiptv.com:8000/live/riza1/1234/2807.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",GR: OTE SPORT 4
-http://daddyiptv.com:8000/live/riza1/1234/2806.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",GR: OTE SPORT 5
-http://daddyiptv.com:8000/live/riza1/1234/2805.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",GR: OTE SPORT 6
-http://daddyiptv.com:8000/live/riza1/1234/2804.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",GR: OTE SPORT 7
-http://daddyiptv.com:8000/live/riza1/1234/2803.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",GR: OTE SPORT 8
-http://daddyiptv.com:8000/live/riza1/1234/2802.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",beIN Sports 1 FHD TR
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/14096
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",beIN Sports 2 FHD TR
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/14095
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",beIN Sports 3 FHD TR
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/14094
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",beIN Sports 4 FHD TR
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/14093
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",beIN Sports MAX 5 FHD FR
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/16933
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",beIN Sports MAX 6 FHD FR
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/16932
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",beIN Sports MAX 7 FHD FR
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/16931
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",beIN Sports MAX 8 FHD FR
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/16930
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",beIN Sports MAX 9 FHD FR
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/16929
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",beIN Sports MAX 10 FHD FR
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/16928
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",Ote Sport 1 HD GR
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/8001
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",Ote Sport 2 HD GR
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/53279
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",Ote Sport 3 HD GR
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/625247
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",Ote Sport 4 HD GR
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/625245
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",Ote Sport 5 HD GR
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/7997
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",Ote Sport 6 HD GR
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/7996
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",Ote Sport 7 HD GR
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/53433
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",Ote Sport 8 HD GR
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/79941
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORT♥EURO♥TEMP",RO: Digi Sport 1
 http://xxultraxx.com:80/tvlink531/205677/1507
