@@ -45,14 +45,14 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="IND♥NESIA",J'Go
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
-#EXTINF:0 tvg-id="cnn" tvg-logo="https://i.postimg.cc/0NwvJxJS/VCON.png" group-title="LOVE♥D2H",HBO HD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14550
-#EXTINF:0 tvg-id="cnn" tvg-logo="https://i.postimg.cc/0NwvJxJS/VCON.png" group-title="LOVE♥D2H",MN PLUS HD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14623
-#EXTINF:0 tvg-id="cnn" tvg-logo="https://i.postimg.cc/0NwvJxJS/VCON.png" group-title="LOVE♥D2H",MOVIES NOW HD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14625
-#EXTINF:0 tvg-id="cnn" tvg-logo="https://i.postimg.cc/0NwvJxJS/VCON.png" group-title="LOVE♥D2H",MOVIES NOW 2 HD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14624
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",HBO HD
+http://52.66.89.249/HBO_HD/video.m3u8?token=fuckyou
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",MN PLUS HD
+http://52.66.89.249/MNPLUS/video.m3u8?token=fuckyou
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",MOVIES NOW HD
+http://52.66.89.249/Movies_Now_HD/video.m3u8?token=fuckyou
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",MOVIES NOW 2 HD
+http://52.66.89.249/Movies_Now2/video.m3u8?token=fuckyou
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",SONY LE PLEX FHD
 http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/25698
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE♥ASIA♥TEMP",SONY PIX FHD
